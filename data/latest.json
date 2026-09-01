@@ -1,0 +1,170 @@
+{
+  "generated_at": "2026-09-01T16:10:00Z",
+  "week_of": "2026-09-01",
+  "candidate": "Maya",
+  "is_example": true,
+  "filter": {
+    "duration": "6\u201312 months",
+    "audience": "current university students",
+    "geography": [
+      "UK",
+      "International"
+    ],
+    "functions": [
+      "marketing",
+      "strategy",
+      "consulting",
+      "finance",
+      "operations",
+      "general management"
+    ]
+  },
+  "summary": {
+    "new_offers": 5,
+    "new_sources": 2,
+    "dropped": 11,
+    "maya_check": [
+      {
+        "name": "MyFuture",
+        "url": "https://www.bath.ac.uk/campaigns/myfuture/",
+        "note": "Bath vacancy board \u2014 Maya must log in herself",
+        "link": {
+          "status": "ok",
+          "http_status": 200,
+          "final_url": "https://www.bath.ac.uk/campaigns/myfuture/",
+          "checked_at": "2026-09-01T16:05:46Z"
+        }
+      }
+    ]
+  },
+  "sources_added": [
+    {
+      "name": "Student Circus",
+      "url": "https://www.studentcircus.com/",
+      "region": "UK+intl",
+      "access": "Public",
+      "why": "International-student placement board; useful for UK and overseas roles",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://studentcircus.com/",
+        "checked_at": "2026-09-01T16:05:45Z"
+      }
+    },
+    {
+      "name": "Unilever UK industrial placements",
+      "url": "https://careers.unilever.com/en/uk-and-ireland-early-careers-industrial-placements",
+      "region": "UK",
+      "access": "Public",
+      "why": "Official 12-month Unilever industrial placement programme page",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://careers.unilever.com/en/uk-and-ireland-early-careers-industrial-placements",
+        "checked_at": "2026-09-01T16:05:46Z"
+      }
+    }
+  ],
+  "offers": [
+    {
+      "title": "Industrial Placement Programme",
+      "company": "Unilever",
+      "location": "UK & Ireland",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027-06",
+      "deadline": "unknown (rolling / watch Q4 opening)",
+      "function": "Marketing",
+      "why": "Official 12-month industrial placement across business functions; applications typically open in Q4.",
+      "url": "https://careers.unilever.com/en/uk-and-ireland-early-careers-industrial-placements",
+      "source": "Unilever UK industrial placements",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://careers.unilever.com/en/uk-and-ireland-early-careers-industrial-placements",
+        "checked_at": "2026-09-01T16:05:42Z"
+      }
+    },
+    {
+      "title": "Undergraduate work placement",
+      "company": "PwC",
+      "location": "UK (multiple offices)",
+      "region": "UK",
+      "duration": "11 months",
+      "start": "2027-09",
+      "deadline": "unknown (opens ~30 Sep)",
+      "function": "Consulting",
+      "why": "Paid 11-month placement for second-year students on a four-year degree.",
+      "url": "https://www.pwc.co.uk/careers/early-careers/undergraduate/undergraduate-work-placement.html",
+      "source": "PwC UK Careers",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://www.pwc.co.uk/careers/early-careers/undergraduate/undergraduate-work-placement.html",
+        "checked_at": "2026-09-01T16:05:43Z"
+      }
+    },
+    {
+      "title": "UK industrial placement year (students)",
+      "company": "L'Or\u00e9al",
+      "location": "London, UK",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027-06",
+      "deadline": "unknown (rolling)",
+      "function": "Marketing",
+      "why": "Official UK intern/placement page for second-year students taking a placement year.",
+      "url": "https://careers.loreal.com/en_US/content/UKIntern",
+      "source": "L'Or\u00e9al Careers",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://careers.loreal.com/en_US/content/UKIntern",
+        "checked_at": "2026-09-01T16:05:43Z"
+      }
+    },
+    {
+      "title": "Global internships (students & graduates)",
+      "company": "L'Or\u00e9al",
+      "location": "International",
+      "region": "International",
+      "duration": "6\u201312 months",
+      "start": "unknown",
+      "deadline": "unknown",
+      "function": "Marketing",
+      "why": "Official international intern hub; country pages list 6\u201312 month stages.",
+      "url": "https://careers.loreal.com/en_US/content/GlobalIntern",
+      "source": "L'Or\u00e9al Careers",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://careers.loreal.com/en_US/content/GlobalIntern",
+        "checked_at": "2026-09-01T16:05:44Z"
+      }
+    },
+    {
+      "title": "Stage Digital Transformation Marketing",
+      "company": "Nestl\u00e9",
+      "location": "Assago (Milan), Italy",
+      "region": "International",
+      "duration": "6 months",
+      "start": "2026-09",
+      "deadline": "unknown",
+      "function": "Marketing",
+      "why": "Paid 6-month marketing internship at Nestl\u00e9 Italy HQ; live job page.",
+      "url": "https://jobdetails.nestle.com/job/Assago-Stage-Digital-Transformation-Marketing/1417418733/",
+      "source": "Nestl\u00e9 job details",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://jobdetails.nestle.com/job/Assago-Stage-Digital-Transformation-Marketing/1417418733/",
+        "checked_at": "2026-09-01T16:05:45Z"
+      }
+    }
+  ]
+}

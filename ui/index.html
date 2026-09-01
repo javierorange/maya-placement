@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Maya placements</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="top">
+      <div>
+        <p class="kicker">Maya · Bath IBM · Year 2</p>
+        <h1>Placement finds</h1>
+        <p class="sub" id="subtitle">6–12 month student roles · UK and international</p>
+      </div>
+      <p class="week" id="week-label"></p>
+    </header>
+
+    <p class="example-banner" id="example-banner" hidden>
+      Example week — sample data so you can check the layout. Live runs will replace
+      <code>data/latest.json</code>.
+    </p>
+
+    <section class="stats" id="stats"></section>
+
+    <section class="maya-check" id="maya-check" hidden></section>
+
+    <div class="toolbar">
+      <div class="filters" id="region-filters">
+        <button type="button" class="chip is-on" data-region="all">All</button>
+        <button type="button" class="chip" data-region="UK">UK</button>
+        <button type="button" class="chip" data-region="International">International</button>
+      </div>
+      <label class="search-wrap">
+        <span class="sr">Filter</span>
+        <input id="q" type="search" placeholder="Company, function, city…" />
+      </label>
+    </div>
+
+    <h2 class="section-title">New offers <span id="offer-count"></span></h2>
+    <div id="offers" class="cards"></div>
+    <p class="empty" id="offers-empty" hidden>No offers match these filters.</p>
+
+    <h2 class="section-title">New source websites <span id="source-count"></span></h2>
+    <div id="sources" class="sources"></div>
+
+    <script src="./app.js"></script>
+  </body>
+</html>

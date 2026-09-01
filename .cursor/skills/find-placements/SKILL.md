@@ -51,6 +51,20 @@ Keep a role only if it matches [`PROFILE.md`](PROFILE.md):
 
 If duration is missing but the title clearly says industrial placement / year in industry / placement year, keep it and set duration to `unknown (placement-type)`.
 
+### 3b. Verify every URL (required)
+
+Do **not** guess company homepages such as `/careers/students/`. Prefer the specific programme or vacancy URL from search results.
+
+For each candidate offer and new source URL:
+
+1. Run `python3 tools/check_links.py --write` after drafting `data/latest.json`, **or** GET the URL (follow redirects) yourself.
+2. Keep the listing only if the final response is **HTTP 200** and the body is not a soft 404 (“page not found”, “this page doesn’t exist”).
+3. If the URL is 404/410/dead: search for a replacement official page. If none, **drop the offer**.
+4. If the URL is 401/403 (bot wall): do not publish it as “Open listing”. Find another public URL that returns 200, or drop it.
+5. Store `link.status` (`ok` | `dead` | `blocked`), `http_status`, `final_url`, `checked_at` on each offer/source.
+
+A 200 homepage that does not mention the placement is not good enough — the URL must be the programme or job page Maya would open.
+
 ### 4. Write files
 
 - **New boards:** append a row to `sources.md` (name, URL, region, Public or Maya-manual, why). Skip duplicate boards.
@@ -59,6 +73,12 @@ If duration is missing but the title clearly says industrial placement / year in
   `title,company,location,duration,deadline,url,source,first_seen`
 
   Use ISO dates (`YYYY-MM-DD`). Quote CSV fields that contain commas. `source` is the board name from `sources.md`.
+- **This week's UI output:** overwrite [`data/latest.json`](data/latest.json) with the run payload the HTML page reads. Shape:
+
+  - `generated_at`, `week_of`, `candidate`, `is_example` (false for live runs)
+  - `summary`: `new_offers`, `new_sources`, `dropped`, `maya_check` (name/url/note)
+  - `sources_added`: name, url, region, access, why
+  - `offers`: title, company, location, region (`UK`|`International`), duration, start, deadline, function, why, url, source, first_seen, plus `link` from `tools/check_links.py`
 - **Dedup:** skip any offer whose `url` is already a key in `seen.json` or already in `placements.csv`. After adding, set `seen.json` keys for every new offer URL and every new source URL.
 
 ### 5. Report and PR
@@ -77,4 +97,5 @@ Interactive chats may update the same files without a PR unless the user asks fo
 
 - Public listings only. No passwords, cookies, or session tokens.
 - No aggressive crawling (cap roughly 20 offers per board per run).
+- Never publish an **Open listing** URL that fails `python3 tools/check_links.py` (must be HTTP 200, not a soft 404). Guessed `/careers/students/` homepages are not allowed.
 - Do not apply to jobs, draft CVs, or write cover letters unless the user explicitly asks in a later workflow.

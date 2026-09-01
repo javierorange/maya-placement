@@ -8,9 +8,29 @@ Search workspace for **6–12 month student placements** for Maya (University of
 | --- | --- |
 | [`PROFILE.md`](PROFILE.md) | Who Maya is and what counts as a placement |
 | [`sources.md`](sources.md) | Websites (URLs) to search for new offers |
-| [`placements.csv`](placements.csv) | Offers found so far |
+| [`placements.csv`](placements.csv) | Running log of all offers |
+| [`data/latest.json`](data/latest.json) | **This week's output** (offers + new websites + summary) |
+| [`ui/index.html`](ui/index.html) | Simple review page for that output |
 | [`seen.json`](seen.json) | Dedup store so weekly runs only add new URLs |
 | [`AGENTS.md`](AGENTS.md) | Instructions for Cursor agents |
+
+## Review UI
+
+From the repo root:
+
+```bash
+python3 -m http.server 8765
+```
+
+Open [http://localhost:8765/ui/](http://localhost:8765/ui/).
+
+Before publishing a week, verify listings:
+
+```bash
+python3 tools/check_links.py --write
+```
+
+Dead or blocked URLs must be replaced or dropped. The UI only enables **Open listing** when `link.status` is `ok`.
 
 ## How to use
 

@@ -1,0 +1,289 @@
+:root {
+  --bg: #f4f1ea;
+  --ink: #1c1916;
+  --muted: #5c564e;
+  --card: #fffdf8;
+  --line: #e4ddd2;
+  --accent: #1f4d3a;
+  --accent-2: #c45c26;
+  --uk: #1f4d3a;
+  --intl: #2c4c7c;
+  --warn: #8a2f1f;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0 auto;
+  max-width: 920px;
+  padding: 28px 20px 64px;
+  font: 16px/1.45 "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+  color: var(--ink);
+  background: var(--bg);
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+  gap: 16px;
+  align-items: flex-end;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 18px;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2rem;
+  letter-spacing: -0.03em;
+}
+
+.kicker,
+.sub,
+.week {
+  margin: 0;
+  color: var(--muted);
+}
+
+.kicker {
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.72rem;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+}
+
+.week {
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.9rem;
+}
+
+.example-banner,
+.maya-check {
+  margin: 16px 0 0;
+  padding: 12px 14px;
+  border-radius: 10px;
+  background: #efe4c8;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.92rem;
+}
+
+.maya-check {
+  background: #e7efe9;
+}
+
+.maya-check a,
+.card a {
+  color: var(--accent);
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  margin: 20px 0 8px;
+}
+
+.stat {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 12px 14px;
+}
+
+.stat b {
+  display: block;
+  font-size: 1.6rem;
+  line-height: 1.1;
+}
+
+.stat span {
+  color: var(--muted);
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.8rem;
+}
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  align-items: center;
+  justify-content: space-between;
+  margin: 22px 0 8px;
+}
+
+.filters {
+  display: flex;
+  gap: 8px;
+}
+
+.chip {
+  border: 1px solid var(--line);
+  background: var(--card);
+  border-radius: 999px;
+  padding: 6px 12px;
+  cursor: pointer;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.85rem;
+}
+
+.chip.is-on {
+  background: var(--ink);
+  color: var(--card);
+  border-color: var(--ink);
+}
+
+.search-wrap input {
+  width: min(280px, 100%);
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 1px solid var(--line);
+  background: var(--card);
+  font: inherit;
+}
+
+.section-title {
+  margin: 28px 0 12px;
+  font-size: 1.15rem;
+}
+
+.section-title span {
+  color: var(--muted);
+  font-weight: 400;
+}
+
+.cards {
+  display: grid;
+  gap: 12px;
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 16px 18px;
+}
+
+.card-top {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: flex-start;
+}
+
+.company {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.title {
+  margin: 2px 0 8px;
+  color: var(--muted);
+}
+
+.meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.78rem;
+}
+
+.tag {
+  border-radius: 999px;
+  padding: 3px 8px;
+  background: #ece7dc;
+}
+
+.tag.uk {
+  background: #dce8e2;
+  color: var(--uk);
+}
+
+.tag.intl {
+  background: #dce4f0;
+  color: var(--intl);
+}
+
+.tag.ok {
+  background: #dce8e2;
+  color: var(--uk);
+}
+
+.tag.dead {
+  background: #f3ddd7;
+  color: var(--warn);
+}
+
+.broken {
+  color: var(--warn);
+}
+
+.why {
+  margin: 10px 0 0;
+}
+
+.card-actions {
+  margin-top: 12px;
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  align-items: center;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.85rem;
+}
+
+.source {
+  color: var(--muted);
+}
+
+.empty {
+  color: var(--muted);
+}
+
+.sources {
+  display: grid;
+  gap: 8px;
+}
+
+.source-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 8px;
+  padding: 12px 14px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.92rem;
+}
+
+.source-row p {
+  margin: 4px 0 0;
+  color: var(--muted);
+  font-size: 0.85rem;
+}
+
+.sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+}
+
+code {
+  font-size: 0.85em;
+}
+
+@media (max-width: 640px) {
+  .stats,
+  .source-row {
+    grid-template-columns: 1fr;
+  }
+
+  .top {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
