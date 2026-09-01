@@ -63,6 +63,50 @@
     "https://aiesec.org/": {
       "first_seen": "2026-09-01",
       "kind": "source"
+    },
+    "https://higherin.com/jobs/43072/unilever/register-your-interest-marketing-placement-2027": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://higherin.com/jobs/43068/unilever/register-your-interest-customer-development-placement-2027": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://careers.unilever.com/en/uk-and-ireland-early-careers-industrial-placements": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://higherin.com/jobs/42908/loreal/register-your-interest-placements-recruiting-before-december": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://careers.loreal.com/en_US/content/UKIntern": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://www.pwc.co.uk/careers/early-careers/undergraduate/undergraduate-work-placement.html": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://higherin.com/jobs/43739/deloitte/register-your-interest-business-financial-advisory-industrial-placement-2027": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://jobdetails.nestle.com/job/Issy-les-Moulineaux-Stage-Responsable-Marketing-Enseignes-Nutrition-FH-92130/1365796033/": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://careers.loreal.com/fr_FR/jobs/JobDetail/STAGE-H-F-D-Marketing-commen-ant-le-01-09-2026/235625": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://jobdetails.nestle.com/": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
     }
   }
 }

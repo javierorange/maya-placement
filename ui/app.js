@@ -1,8 +1,23 @@
+const DATA = "../data";
+
 const state = {
   region: "all",
   q: "",
   data: null,
+  archive: { weeks: [] },
+  weekId: null,
 };
+
+function weekFromQuery() {
+  const raw = new URLSearchParams(location.search).get("week");
+  return raw && /^\d{4}-\d{2}-\d{2}$/.test(raw) ? raw : null;
+}
+
+function setWeekInUrl(weekOf) {
+  const url = new URL(location.href);
+  url.searchParams.set("week", weekOf);
+  history.replaceState({}, "", url);
+}
 
 function daysUntil(iso) {
   if (!iso) return null;
@@ -23,6 +38,32 @@ function el(html) {
   const t = document.createElement("template");
   t.innerHTML = html.trim();
   return t.content.firstElementChild;
+}
+
+function sortedWeeks() {
+  return [...(state.archive.weeks || [])].sort((a, b) =>
+    a.week_of < b.week_of ? 1 : a.week_of > b.week_of ? -1 : 0
+  );
+}
+
+function renderArchive() {
+  const nav = document.getElementById("archive");
+  nav.innerHTML = "";
+  const weeks = sortedWeeks();
+  if (!weeks.length) {
+    nav.textContent = "No weeks yet.";
+    return;
+  }
+  for (const w of weeks) {
+    const current = w.week_of === state.weekId;
+    const label = w.label
+      ? `${w.week_of} · ${w.label}`
+      : `${w.week_of} · ${w.new_offers ?? 0} offers`;
+    const a = el(
+      `<a class="chip${current ? " is-current" : ""}" href="?week=${esc(w.week_of)}">${esc(label)}</a>`
+    );
+    nav.appendChild(a);
+  }
 }
 
 function render() {
@@ -132,6 +173,47 @@ function render() {
       `)
     );
   }
+
+  renderArchive();
+}
+
+function loadWeek(weekOf) {
+  const path = `${DATA}/weeks/${weekOf}.json`;
+  return fetch(path).then((r) => {
+    if (!r.ok) throw new Error(r.statusText);
+    return r.json();
+  });
+}
+
+function boot() {
+  fetch(`${DATA}/archive.json`)
+    .then((r) => {
+      if (!r.ok) throw new Error(r.statusText);
+      return r.json();
+    })
+    .then((archive) => {
+      state.archive = archive;
+      const weeks = sortedWeeks();
+      const requested = weekFromQuery();
+      const latest = weeks[0]?.week_of;
+      const weekId =
+        requested && weeks.some((w) => w.week_of === requested)
+          ? requested
+          : latest;
+      if (!weekId) throw new Error("No weeks in archive.json");
+      state.weekId = weekId;
+      setWeekInUrl(weekId);
+      return loadWeek(weekId);
+    })
+    .then((data) => {
+      state.data = data;
+      render();
+    })
+    .catch((err) => {
+      document.getElementById("subtitle").textContent =
+        "Could not load digest data. Serve the repo root (python3 -m http.server) rather than opening the HTML file directly.";
+      console.error(err);
+    });
 }
 
 document.getElementById("region-filters").addEventListener("click", (e) => {
@@ -149,17 +231,4 @@ document.getElementById("q").addEventListener("input", (e) => {
   render();
 });
 
-fetch("../data/latest.json")
-  .then((r) => {
-    if (!r.ok) throw new Error(r.statusText);
-    return r.json();
-  })
-  .then((data) => {
-    state.data = data;
-    render();
-  })
-  .catch((err) => {
-    document.getElementById("subtitle").textContent =
-      "Could not load data/latest.json. Serve the repo root (python3 -m http.server) rather than opening the HTML file directly.";
-    console.error(err);
-  });
+boot();

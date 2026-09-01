@@ -272,8 +272,28 @@ h1 {
   clip: rect(0 0 0 0);
 }
 
-code {
-  font-size: 0.85em;
+.archive-hint {
+  margin: -4px 0 10px;
+  color: var(--muted);
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.85rem;
+}
+
+.archive {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.archive a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.archive .chip.is-current {
+  background: var(--ink);
+  color: var(--card);
+  border-color: var(--ink);
 }
 
 @media (max-width: 640px) {

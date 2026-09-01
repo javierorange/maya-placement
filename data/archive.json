@@ -1,0 +1,11 @@
+{
+  "weeks": [
+    {
+      "week_of": "2026-09-01",
+      "new_offers": 10,
+      "new_sources": 4,
+      "label": "Live week",
+      "is_example": false
+    }
+  ]
+}

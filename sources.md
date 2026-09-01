@@ -25,6 +25,10 @@ Access:
 | Welcome to the Jungle | https://www.welcometothejungle.com/ | Europe | Public | Company pages and internships (filter duration) |
 | Erasmus Intern | https://erasmusintern.org/ | Europe | Public | Erasmus+ traineeships; check duration ≥6 months |
 | AIESEC | https://aiesec.org/ | International | Public | International internships; keep only 6–12 month professional roles |
+| Unilever UK industrial placements | https://careers.unilever.com/en/uk-and-ireland-early-careers-industrial-placements | UK | Public | Official 12-month Unilever industrial placement programme |
+| Deloitte UK Early Careers programmes | https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html | UK | Public | Official industrial placement (12 months) programme page |
+| L'Oréal Careers UK intern | https://careers.loreal.com/en_US/content/UKIntern | UK | Public | Official UK student industrial placement / intern hub |
+| Nestlé job details | https://jobdetails.nestle.com/ | International | Public | Nestlé vacancy pages including 6–12 month student stages |
 
 ## Company career pages
 
