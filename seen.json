@@ -1,0 +1,68 @@
+{
+  "seen": {
+    "https://www.bath.ac.uk/campaigns/myfuture/": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://unihub.bath.ac.uk/students/login": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://www.bath.ac.uk/professional-services/careers/": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://www.bath.ac.uk/campaigns/undergraduate-courses-in-the-school-of-management/": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://www.bath.ac.uk/campaigns/spend-time-abroad-during-your-school-of-management-degree/": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://higherin.com/schemes/placements": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://www.brightnetwork.co.uk/industrial-placements/": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://targetjobs.co.uk/": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://www.prospects.ac.uk/": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://www.gradcracker.com/": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://www.linkedin.com/jobs/search/?keywords=industrial%20placement": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://www.jobteaser.com/": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://graduateland.com/": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://www.welcometothejungle.com/": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://erasmusintern.org/": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://aiesec.org/": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    }
+  }
+}
