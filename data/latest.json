@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T18:30:00Z",
+  "generated_at": "2026-09-01T16:51:00Z",
   "week_of": "2026-09-01",
   "candidate": "Maya",
   "is_example": false,
@@ -20,9 +20,10 @@
     ]
   },
   "summary": {
-    "new_offers": 10,
-    "new_sources": 4,
-    "dropped": 14,
+    "new_offers": 26,
+    "new_sources": 14,
+    "dropped": 1,
+    "dropped_note": "Gradcracker business-search URL returned 403; homepage kept in sources.md.",
     "maya_check": [
       {
         "name": "MyFuture",
@@ -32,62 +33,192 @@
           "status": "ok",
           "http_status": 200,
           "final_url": "https://www.bath.ac.uk/campaigns/myfuture/",
-          "checked_at": "2026-09-01T16:32:28Z"
+          "checked_at": "2026-09-01T16:52:08Z"
         }
       }
     ]
   },
   "sources_added": [
     {
-      "name": "Unilever UK industrial placements",
-      "url": "https://careers.unilever.com/en/uk-and-ireland-early-careers-industrial-placements",
+      "name": "TargetJobs internships 2027",
+      "url": "https://targetjobs.co.uk/internships",
       "region": "UK",
       "access": "Public",
-      "why": "Official 12-month Unilever industrial placement programme",
+      "why": "Internship/placement search; filter duration for 6\u201312 month roles",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://careers.unilever.com/en/uk-and-ireland-early-careers-industrial-placements",
-        "checked_at": "2026-09-01T16:32:26Z"
+        "final_url": "https://targetjobs.co.uk/internships",
+        "checked_at": "2026-09-01T16:52:02Z"
       }
     },
     {
-      "name": "Deloitte UK Early Careers programmes",
-      "url": "https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html",
+      "name": "Prospects work placements",
+      "url": "https://www.prospects.ac.uk/jobs-and-work-experience/work-experience-and-internships/work-placements/",
       "region": "UK",
       "access": "Public",
-      "why": "Official industrial placement (12 months) programme page",
+      "why": "Guide plus employer placement listings",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html",
-        "checked_at": "2026-09-01T16:32:26Z"
+        "final_url": "https://www.prospects.ac.uk/jobs-and-work-experience/work-experience-and-internships/work-placements/",
+        "checked_at": "2026-09-01T16:52:02Z"
       }
     },
     {
-      "name": "L'Or\u00e9al Careers UK intern",
-      "url": "https://careers.loreal.com/en_US/content/UKIntern",
-      "region": "UK",
+      "name": "Student Circus",
+      "url": "https://studentcircus.com/",
+      "region": "UK+intl",
       "access": "Public",
-      "why": "Official UK student industrial placement / intern hub",
+      "why": "International-student job board",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://careers.loreal.com/en_US/content/UKIntern",
-        "checked_at": "2026-09-01T16:32:27Z"
+        "final_url": "https://studentcircus.com/",
+        "checked_at": "2026-09-01T16:52:03Z"
       }
     },
     {
-      "name": "Nestl\u00e9 job details",
-      "url": "https://jobdetails.nestle.com/",
+      "name": "EY UK industrial placements",
+      "url": "https://www.ey.com/en_uk/careers/students/undergraduates/industrial-placement-programmes",
+      "region": "UK",
+      "access": "Public",
+      "why": "Official one-year undergraduate industrial placement programmes",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://www.ey.com/en_uk/careers/students/undergraduates/industrial-placement-programmes",
+        "checked_at": "2026-09-01T16:52:03Z"
+      }
+    },
+    {
+      "name": "Accenture UK undergraduate internships",
+      "url": "https://www.accenture.com/gb-en/careers/life-at-accenture/internships-students",
+      "region": "UK",
+      "access": "Public",
+      "why": "Official consulting and technology 12-month placement hub",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://www.accenture.com/gb-en/careers/life-at-accenture/internships-students",
+        "checked_at": "2026-09-01T16:52:03Z"
+      }
+    },
+    {
+      "name": "KPMG One Year Business Placement",
+      "url": "https://www.kpmgcareers.co.uk/undergraduate/one-year-business-placement/",
+      "region": "UK",
+      "access": "Public",
+      "why": "Official sandwich-year placement programme",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://www.kpmgcareers.co.uk/undergraduate/one-year-business-placement/",
+        "checked_at": "2026-09-01T16:52:04Z"
+      }
+    },
+    {
+      "name": "P&G UK early careers",
+      "url": "https://www.pgcareers.com/uk/en/early-careers",
+      "region": "UK",
+      "access": "Public",
+      "why": "Official internships and industrial placements",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://www.pgcareers.com/uk/en/early-careers",
+        "checked_at": "2026-09-01T16:52:04Z"
+      }
+    },
+    {
+      "name": "CGI UK industrial placements",
+      "url": "https://www.cgi.com/uk/en-gb/careers/early-careers/industrial-placements",
+      "region": "UK",
+      "access": "Public",
+      "why": "Official 12-month business and technical sandwich placements",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://www.cgi.com/uk/en-gb/careers/early-careers/industrial-placements",
+        "checked_at": "2026-09-01T16:52:05Z"
+      }
+    },
+    {
+      "name": "GSK internships and placements",
+      "url": "https://www.gsk.com/en-gb/careers/early-careers/internships-and-placements/",
+      "region": "UK+intl",
+      "access": "Public",
+      "why": "Official industrial placement and internship hub",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://www.gsk.com/en-gb/careers/early-careers/internships-and-placements/",
+        "checked_at": "2026-09-01T16:52:05Z"
+      }
+    },
+    {
+      "name": "Diageo early careers",
+      "url": "https://www.diageo.com/en/careers/early-careers",
+      "region": "UK+intl",
+      "access": "Public",
+      "why": "Official graduate, internship and early-careers hub",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://www.diageo.com/en/careers/early-careers",
+        "checked_at": "2026-09-01T16:52:06Z"
+      }
+    },
+    {
+      "name": "Reckitt internships",
+      "url": "https://www.reckitt.com/careers/students-and-graduates/internships/",
+      "region": "UK+intl",
+      "access": "Public",
+      "why": "Official internships 3\u201324 months; keep only 6\u201312 month student roles",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://www.reckitt.com/careers/students-and-graduates/internships/",
+        "checked_at": "2026-09-01T16:52:07Z"
+      }
+    },
+    {
+      "name": "Mercedes-AMG F1 industrial placements",
+      "url": "https://www.mercedesamgf1.com/careers/industrial-placements",
+      "region": "UK",
+      "access": "Public",
+      "why": "Official year-long IPs; business-support track opens November 2026",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://www.mercedesamgf1.com/careers/industrial-placements",
+        "checked_at": "2026-09-01T16:52:07Z"
+      }
+    },
+    {
+      "name": "Danone careers (students)",
+      "url": "https://careers.danone.com/en-global/jobs.html",
       "region": "International",
       "access": "Public",
-      "why": "Nestl\u00e9 vacancy pages including 6\u201312 month student stages",
+      "why": "Official Danone vacancies including 6-month stages de c\u00e9sure",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://jobdetails.nestle.com/",
-        "checked_at": "2026-09-01T16:32:27Z"
+        "final_url": "https://careers.danone.com/en-global/jobs.html",
+        "checked_at": "2026-09-01T16:52:08Z"
+      }
+    },
+    {
+      "name": "LVMH job offers",
+      "url": "https://www.lvmh.com/en/join-us/our-job-offers",
+      "region": "International",
+      "access": "Public",
+      "why": "Group careers search across Maisons; filter internships / stages",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://www.lvmh.com/en/join-us/our-job-offers",
+        "checked_at": "2026-09-01T16:52:08Z"
       }
     }
   ],
@@ -290,6 +421,326 @@
         "http_status": 200,
         "final_url": "https://careers.loreal.com/fr_FR/jobs/JobDetail/STAGE-H-F-D-Marketing-commen-ant-le-01-09-2026/235625",
         "checked_at": "2026-09-01T16:32:25Z"
+      }
+    },
+    {
+      "title": "Industrial Placement programmes",
+      "company": "EY",
+      "location": "UK (multiple offices)",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027",
+      "deadline": "unknown (2026 applications closed; 2027 window later this year)",
+      "function": "Consulting",
+      "why": "Official one-year paid industrial placements across Assurance, Tax and Consulting for penultimate-year students.",
+      "url": "https://www.ey.com/en_uk/careers/students/undergraduates/industrial-placement-programmes",
+      "source": "EY UK industrial placements",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://www.ey.com/en_uk/careers/students/undergraduates/industrial-placement-programmes",
+        "checked_at": "2026-09-01T16:51:54Z"
+      }
+    },
+    {
+      "title": "Audit Industrial Placement 2027",
+      "company": "EY",
+      "location": "UK",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027",
+      "deadline": "unknown (register interest until applications open)",
+      "function": "Finance",
+      "why": "One-year Audit industrial placement for students seeking a credit-bearing placement year.",
+      "url": "https://higherin.com/jobs/43379/ey/register-your-interest-audit-industrial-placement-2027",
+      "source": "Higherin (formerly RateMyPlacement)",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://higherin.com/jobs/43379/ey/register-your-interest-audit-industrial-placement-2027",
+        "checked_at": "2026-09-01T16:51:54Z"
+      }
+    },
+    {
+      "title": "Consulting Industrial Placement 2027",
+      "company": "Accenture",
+      "location": "London, UK",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027-09",
+      "deadline": "unknown (register interest; typically autumn, first-come)",
+      "function": "Consulting",
+      "why": "12-month consulting placement for UK undergraduates on a credit-bearing placement year; open to all degree disciplines.",
+      "url": "https://higherin.com/jobs/42803/accenture/register-your-interest-consulting-industrial-placement-2027",
+      "source": "Higherin (formerly RateMyPlacement)",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://higherin.com/jobs/42803/accenture/register-your-interest-consulting-industrial-placement-2027",
+        "checked_at": "2026-09-01T16:51:55Z"
+      }
+    },
+    {
+      "title": "Undergraduate internship and placement programmes",
+      "company": "Accenture",
+      "location": "UK (London and other offices)",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "unknown",
+      "deadline": "unknown (rolling; check hub)",
+      "function": "Consulting",
+      "why": "Official Accenture UK hub for consulting internships and 12-month technology/consulting placements.",
+      "url": "https://www.accenture.com/gb-en/careers/life-at-accenture/internships-students",
+      "source": "Accenture UK undergraduate internships",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://www.accenture.com/gb-en/careers/life-at-accenture/internships-students",
+        "checked_at": "2026-09-01T16:51:55Z"
+      }
+    },
+    {
+      "title": "One Year Business Placement",
+      "company": "KPMG",
+      "location": "UK (multiple offices)",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027",
+      "deadline": "unknown (join talent community; typically autumn)",
+      "function": "Consulting",
+      "why": "Official sandwich-year programme for penultimate-year students across Audit, Tax and other KPMG practices.",
+      "url": "https://www.kpmgcareers.co.uk/undergraduate/one-year-business-placement/",
+      "source": "KPMG One Year Business Placement",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://www.kpmgcareers.co.uk/undergraduate/one-year-business-placement/",
+        "checked_at": "2026-09-01T16:51:56Z"
+      }
+    },
+    {
+      "title": "One Year Business Placement 2027",
+      "company": "KPMG",
+      "location": "UK",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027",
+      "deadline": "unknown (register interest until applications open)",
+      "function": "Finance",
+      "why": "Higherin interest register for KPMG\u2019s 2027 one-year undergraduate business placement.",
+      "url": "https://higherin.com/jobs/43488/kpmg/register-your-interest-one-year-business-placement-2027",
+      "source": "Higherin (formerly RateMyPlacement)",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://higherin.com/jobs/43488/kpmg/register-your-interest-one-year-business-placement-2027",
+        "checked_at": "2026-09-01T16:51:57Z"
+      }
+    },
+    {
+      "title": "Business & Finance Placements 2027",
+      "company": "Airbus",
+      "location": "UK (Broughton, Newport, Portsmouth, Bristol, Stevenage and others)",
+      "region": "UK",
+      "duration": "12\u201313 months",
+      "start": "2027-06",
+      "deadline": "unknown (applications open early September 2026)",
+      "function": "Finance",
+      "why": "12\u201313 month business and finance sandwich placements for the 2027\u201328 academic year.",
+      "url": "https://higherin.com/jobs/42795/airbus/register-your-interest-business-finance-placements-2027",
+      "source": "Higherin (formerly RateMyPlacement)",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://higherin.com/jobs/42795/airbus/register-your-interest-business-finance-placements-2027",
+        "checked_at": "2026-09-01T16:51:57Z"
+      }
+    },
+    {
+      "title": "Business industrial placements",
+      "company": "CGI",
+      "location": "UK (Bridgend, London, Manchester, Newcastle, Solihull)",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027",
+      "deadline": "unknown (2027 intake from October 2026)",
+      "function": "Consulting",
+      "why": "Official 12-month business sandwich placements open to all degree backgrounds; 2027 applications from October 2026.",
+      "url": "https://www.cgi.com/uk/en-gb/careers/early-careers/industrial-placements",
+      "source": "CGI UK industrial placements",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://www.cgi.com/uk/en-gb/careers/early-careers/industrial-placements",
+        "checked_at": "2026-09-01T16:51:58Z"
+      }
+    },
+    {
+      "title": "Industrial Placements 2027 (Business Support from Nov)",
+      "company": "Mercedes-AMG PETRONAS F1 Team",
+      "location": "Brackley, UK",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027-06",
+      "deadline": "2026-11 (business support opens November 2026; technical closes 2026-09-15)",
+      "function": "Operations",
+      "why": "Year-long placement from June 2027; business-support track is the relevant window for a management student.",
+      "url": "https://www.mercedesamgf1.com/careers/industrial-placements",
+      "source": "Mercedes-AMG F1 industrial placements",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://www.mercedesamgf1.com/careers/industrial-placements",
+        "checked_at": "2026-09-01T16:51:59Z"
+      }
+    },
+    {
+      "title": "Internships & Industrial Placements",
+      "company": "P&G",
+      "location": "UK",
+      "region": "UK",
+      "duration": "unknown (placement-type)",
+      "start": "2027",
+      "deadline": "unknown (roles typically live in October)",
+      "function": "General management",
+      "why": "Official UK internships and industrial placements on live brand and commercial projects; 2027 roles expected October.",
+      "url": "https://www.pgcareers.com/uk/en/early-careers",
+      "source": "P&G UK early careers",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://www.pgcareers.com/uk/en/early-careers",
+        "checked_at": "2026-09-01T16:51:59Z"
+      }
+    },
+    {
+      "title": "Marketing Placement 2027",
+      "company": "NBCUniversal",
+      "location": "London, UK",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027-06",
+      "deadline": "unknown (register interest; typically applications live in autumn)",
+      "function": "Marketing",
+      "why": "12-month film/TV marketing placement in London for 2nd-year students, June 2027\u2013July 2028.",
+      "url": "https://higherin.com/jobs/43145/nbcuniversal/register-your-interest-marketing-placement-2027",
+      "source": "Higherin (formerly RateMyPlacement)",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://higherin.com/jobs/43145/nbcuniversal/register-your-interest-marketing-placement-2027",
+        "checked_at": "2026-09-01T16:52:00Z"
+      }
+    },
+    {
+      "title": "Franchise Marketing Placement 2027",
+      "company": "NBCUniversal",
+      "location": "London, UK",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027-06",
+      "deadline": "unknown (register interest)",
+      "function": "Marketing",
+      "why": "EMEA franchise marketing year covering brands such as Jurassic World and Minions; commercial/marketing fit.",
+      "url": "https://higherin.com/jobs/43151/nbcuniversal/register-your-interest-franchise-marketing-placement-2027",
+      "source": "Higherin (formerly RateMyPlacement)",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://higherin.com/jobs/43151/nbcuniversal/register-your-interest-franchise-marketing-placement-2027",
+        "checked_at": "2026-09-01T16:52:00Z"
+      }
+    },
+    {
+      "title": "Commercial Strategy Placement 2027",
+      "company": "NBCUniversal",
+      "location": "London, UK",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027-06",
+      "deadline": "unknown (register interest)",
+      "function": "Strategy",
+      "why": "12-month commercial strategy placement in London; strategy/consulting-adjacent for a Bath IM student.",
+      "url": "https://higherin.com/jobs/43147/nbcuniversal/register-your-interest-commercial-strategy-placement-2027",
+      "source": "Higherin (formerly RateMyPlacement)",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://higherin.com/jobs/43147/nbcuniversal/register-your-interest-commercial-strategy-placement-2027",
+        "checked_at": "2026-09-01T16:52:00Z"
+      }
+    },
+    {
+      "title": "Digital Marketing and Data Enablement Placement 2027",
+      "company": "MSD",
+      "location": "London, UK",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027",
+      "deadline": "unknown (register interest)",
+      "function": "Marketing",
+      "why": "12-month digital marketing/data placement in Moorgate; open to marketing, business and related degrees.",
+      "url": "https://higherin.com/jobs/43292/msd/register-your-interest-digital-marketing-and-data-enablement-placement-2027",
+      "source": "Higherin (formerly RateMyPlacement)",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://higherin.com/jobs/43292/msd/register-your-interest-digital-marketing-and-data-enablement-placement-2027",
+        "checked_at": "2026-09-01T16:52:01Z"
+      }
+    },
+    {
+      "title": "Strategic Insights Placement 2027",
+      "company": "MSD",
+      "location": "London, UK",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027",
+      "deadline": "unknown (register interest)",
+      "function": "Strategy",
+      "why": "12-month commercial insights placement covering brand performance, market research and KPIs.",
+      "url": "https://higherin.com/jobs/43287/msd/register-your-interest-strategic-insights-placement-2027",
+      "source": "Higherin (formerly RateMyPlacement)",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://higherin.com/jobs/43287/msd/register-your-interest-strategic-insights-placement-2027",
+        "checked_at": "2026-09-01T16:52:01Z"
+      }
+    },
+    {
+      "title": "Supply Chain Management Placement 2027",
+      "company": "Unilever",
+      "location": "UK (Kingston, Port Sunlight, Leeds, Burton)",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027-06",
+      "deadline": "2026-09-14 (applications open; rolling close)",
+      "function": "Operations",
+      "why": "Non-technical supply-chain IPs are open to any degree; applications open 14 Sep 2026 for a June 2027 start.",
+      "url": "https://higherin.com/jobs/43077/unilever/register-your-interest-supply-chain-technical-placement-2027",
+      "source": "Higherin (formerly RateMyPlacement)",
+      "first_seen": "2026-09-01",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://higherin.com/jobs/43077/unilever/register-your-interest-supply-chain-technical-placement-2027",
+        "checked_at": "2026-09-01T16:52:02Z"
       }
     }
   ]

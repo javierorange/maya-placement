@@ -107,6 +107,102 @@
     "https://jobdetails.nestle.com/": {
       "first_seen": "2026-09-01",
       "kind": "source"
+    },
+    "https://www.ey.com/en_uk/careers/students/undergraduates/industrial-placement-programmes": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://higherin.com/jobs/43379/ey/register-your-interest-audit-industrial-placement-2027": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://higherin.com/jobs/42803/accenture/register-your-interest-consulting-industrial-placement-2027": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://www.accenture.com/gb-en/careers/life-at-accenture/internships-students": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://www.kpmgcareers.co.uk/undergraduate/one-year-business-placement/": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://higherin.com/jobs/43488/kpmg/register-your-interest-one-year-business-placement-2027": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://higherin.com/jobs/42795/airbus/register-your-interest-business-finance-placements-2027": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://www.cgi.com/uk/en-gb/careers/early-careers/industrial-placements": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://www.mercedesamgf1.com/careers/industrial-placements": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://www.pgcareers.com/uk/en/early-careers": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://higherin.com/jobs/43145/nbcuniversal/register-your-interest-marketing-placement-2027": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://higherin.com/jobs/43151/nbcuniversal/register-your-interest-franchise-marketing-placement-2027": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://higherin.com/jobs/43147/nbcuniversal/register-your-interest-commercial-strategy-placement-2027": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://higherin.com/jobs/43292/msd/register-your-interest-digital-marketing-and-data-enablement-placement-2027": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://higherin.com/jobs/43287/msd/register-your-interest-strategic-insights-placement-2027": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://higherin.com/jobs/43077/unilever/register-your-interest-supply-chain-technical-placement-2027": {
+      "first_seen": "2026-09-01",
+      "kind": "offer"
+    },
+    "https://targetjobs.co.uk/internships": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://www.prospects.ac.uk/jobs-and-work-experience/work-experience-and-internships/work-placements/": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://studentcircus.com/": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://www.gsk.com/en-gb/careers/early-careers/internships-and-placements/": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://www.diageo.com/en/careers/early-careers": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://www.reckitt.com/careers/students-and-graduates/internships/": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://careers.danone.com/en-global/jobs.html": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
+    },
+    "https://www.lvmh.com/en/join-us/our-job-offers": {
+      "first_seen": "2026-09-01",
+      "kind": "source"
     }
   }
 }

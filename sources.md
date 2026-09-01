@@ -16,9 +16,10 @@ Access:
 | Year abroad / international placement | https://www.bath.ac.uk/campaigns/spend-time-abroad-during-your-school-of-management-degree/ | International | Public | IM year-abroad rules (9–12 months, typically outside the UK) |
 | Higherin (formerly RateMyPlacement) | https://higherin.com/schemes/placements | UK | Public | Main UK industrial-placement board |
 | Bright Network industrial placements | https://www.brightnetwork.co.uk/industrial-placements/ | UK | Public | UK placement schemes and deadlines |
-| TargetJobs | https://targetjobs.co.uk/ | UK | Public | Graduate/placement schemes including industrial placements |
-| Prospects | https://www.prospects.ac.uk/ | UK | Public | UK careers search; filter internships/placements |
-| Gradcracker | https://www.gradcracker.com/ | UK | Public | STEM-heavy; still useful for consulting/business filters |
+| TargetJobs internships 2027 | https://targetjobs.co.uk/internships | UK | Public | Internship/placement search; filter duration for 6–12 month roles |
+| Prospects work placements | https://www.prospects.ac.uk/jobs-and-work-experience/work-experience-and-internships/work-placements/ | UK | Public | Guide plus employer placement listings (e.g. EY 2027 IPs) |
+| Gradcracker | https://www.gradcracker.com/ | UK | Public | STEM-heavy; still useful for consulting/business filters (deeper search URLs often 403 to bots) |
+| Student Circus | https://studentcircus.com/ | UK+intl | Public | International-student job board; listings may need a university email |
 | LinkedIn jobs | https://www.linkedin.com/jobs/search/?keywords=industrial%20placement | UK+intl | Public | Public searches: placement, industrial placement, year in industry |
 | JobTeaser | https://www.jobteaser.com/ | Europe | Public | European student/internship board used by many universities |
 | Graduateland | https://graduateland.com/ | Europe | Public | European graduate and internship listings |
@@ -29,6 +30,17 @@ Access:
 | Deloitte UK Early Careers programmes | https://www.deloitte.com/uk/en/careers/early-careers/early-careers-programmes.html | UK | Public | Official industrial placement (12 months) programme page |
 | L'Oréal Careers UK intern | https://careers.loreal.com/en_US/content/UKIntern | UK | Public | Official UK student industrial placement / intern hub |
 | Nestlé job details | https://jobdetails.nestle.com/ | International | Public | Nestlé vacancy pages including 6–12 month student stages |
+| EY UK industrial placements | https://www.ey.com/en_uk/careers/students/undergraduates/industrial-placement-programmes | UK | Public | Official one-year undergraduate industrial placement programmes |
+| Accenture UK undergraduate internships | https://www.accenture.com/gb-en/careers/life-at-accenture/internships-students | UK | Public | Official consulting and technology 12-month placement hub |
+| KPMG One Year Business Placement | https://www.kpmgcareers.co.uk/undergraduate/one-year-business-placement/ | UK | Public | Official sandwich-year placement programme for penultimate-year students |
+| P&G UK early careers | https://www.pgcareers.com/uk/en/early-careers | UK | Public | Official internships and industrial placements (roles typically live in October) |
+| CGI UK industrial placements | https://www.cgi.com/uk/en-gb/careers/early-careers/industrial-placements | UK | Public | Official 12-month business and technical sandwich placements (2027 from October) |
+| GSK internships and placements | https://www.gsk.com/en-gb/careers/early-careers/internships-and-placements/ | UK+intl | Public | Official industrial placement and internship hub |
+| Diageo early careers | https://www.diageo.com/en/careers/early-careers | UK+intl | Public | Official graduate, internship and early-careers hub (Johnnie Walker, Guinness, etc.) |
+| Reckitt internships | https://www.reckitt.com/careers/students-and-graduates/internships/ | UK+intl | Public | Official internships 3–24 months; keep only 6–12 month student roles |
+| Mercedes-AMG F1 industrial placements | https://www.mercedesamgf1.com/careers/industrial-placements | UK | Public | Official year-long IPs; business-support track opens November 2026 |
+| Danone careers (students) | https://careers.danone.com/en-global/jobs.html | International | Public | Official Danone vacancies including 6-month stages de césure |
+| LVMH job offers | https://www.lvmh.com/en/join-us/our-job-offers | International | Public | Group careers search across Maisons; filter internships / stages 6–12 months |
 
 ## Company career pages
 
