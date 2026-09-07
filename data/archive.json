@@ -1,6 +1,13 @@
 {
   "weeks": [
     {
+      "week_of": "2026-09-07",
+      "new_offers": 17,
+      "new_sources": 2,
+      "label": "Live week",
+      "is_example": false
+    },
+    {
       "week_of": "2026-09-01",
       "new_offers": 26,
       "new_sources": 14,

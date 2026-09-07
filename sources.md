@@ -41,6 +41,8 @@ Access:
 | Mercedes-AMG F1 industrial placements | https://www.mercedesamgf1.com/careers/industrial-placements | UK | Public | Official year-long IPs; business-support track opens November 2026 |
 | Danone careers (students) | https://careers.danone.com/en-global/jobs.html | International | Public | Official Danone vacancies including 6-month stages de césure |
 | LVMH job offers | https://www.lvmh.com/en/join-us/our-job-offers | International | Public | Group careers search across Maisons; filter internships / stages 6–12 months |
+| Hilton EMEA internships and corporate placements | https://jobs.hilton.com/emea-internships-hotel-corporate | UK+intl | Public | Official 12-month 2027 corporate placements in Watford and Glasgow (applications 1 Sep–1 Nov 2026) |
+| British Airways graduates, business placements and interns | https://careers.ba.com/graduates-bps-and-interns | UK | Public | Official 11-month Future Leader Business Placement at Heathrow; 2027 applications from autumn 2026 |
 
 ## Company career pages
 
