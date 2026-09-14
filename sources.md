@@ -43,6 +43,9 @@ Access:
 | LVMH job offers | https://www.lvmh.com/en/join-us/our-job-offers | International | Public | Group careers search across Maisons; filter internships / stages 6–12 months |
 | Hilton EMEA internships and corporate placements | https://jobs.hilton.com/emea-internships-hotel-corporate | UK+intl | Public | Official 12-month 2027 corporate placements in Watford and Glasgow (applications 1 Sep–1 Nov 2026) |
 | British Airways graduates, business placements and interns | https://careers.ba.com/graduates-bps-and-interns | UK | Public | Official 11-month Future Leader Business Placement at Heathrow; 2027 applications from autumn 2026 |
+| Kia UK careers | https://kia-uk.hirehive.com/ | UK | Public | Official Kia UK head-office board with several undergraduate placement-year 2027–28 marketing, sales and commercial vacancies in Walton-on-Thames |
+| Grant Thornton interns and placements | https://www.grantthornton.co.uk/careers/early-careers/our-programmes/interns-and-placements/ | UK | Public | Official 12-month sandwich-year placement programme across UK offices (register interest until 2027 applications open) |
+| Investment20/20 latest jobs | https://www.investment2020.org.uk/latest-jobs/ | UK | Public | Investment-industry board hosting Schroders 12-month placement years and other student roles |
 
 ## Company career pages
 
