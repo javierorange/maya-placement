@@ -46,6 +46,8 @@ Access:
 | Kia UK careers | https://kia-uk.hirehive.com/ | UK | Public | Official Kia UK head-office board with several undergraduate placement-year 2027–28 marketing, sales and commercial vacancies in Walton-on-Thames |
 | Grant Thornton interns and placements | https://www.grantthornton.co.uk/careers/early-careers/our-programmes/interns-and-placements/ | UK | Public | Official 12-month sandwich-year placement programme across UK offices (register interest until 2027 applications open) |
 | Investment20/20 latest jobs | https://www.investment2020.org.uk/latest-jobs/ | UK | Public | Investment-industry board hosting Schroders 12-month placement years and other student roles |
+| Samsung UK Emerging Talent placements | https://www.samsung.com/uk/aboutsamsung/careers/emerging-talent/placement-opportunities/ | UK | Public | Official 12-month penultimate-year placements at Samsung UK (Chertsey): marketing, sales, product management, finance and more |
+| Mondelēz UK Early Careers | https://www.mondelezinternational.com/united-kingdom/early-careers/ | UK | Public | Official UK hub for 12-month industrial internships (marketing and sales at Uxbridge Cadbury House) plus graduates |
 
 ## Company career pages
 
