@@ -48,6 +48,8 @@ Access:
 | Investment20/20 latest jobs | https://www.investment2020.org.uk/latest-jobs/ | UK | Public | Investment-industry board hosting Schroders 12-month placement years and other student roles |
 | Samsung UK Emerging Talent placements | https://www.samsung.com/uk/aboutsamsung/careers/emerging-talent/placement-opportunities/ | UK | Public | Official 12-month penultimate-year placements at Samsung UK (Chertsey): marketing, sales, product management, finance and more |
 | Mondelēz UK Early Careers | https://www.mondelezinternational.com/united-kingdom/early-careers/ | UK | Public | Official UK hub for 12-month industrial internships (marketing and sales at Uxbridge Cadbury House) plus graduates |
+| Volkswagen Group UK undergraduates | https://careers.volkswagengroup.co.uk/early-careers/undergraduates | UK | Public | Official 12-month sandwich placements at Milton Keynes including digital marketing, sales analytics and corporate identity (2027–28 live, close 18 Oct 2026) |
+| Church & Dwight internships | https://www.churchdwight.co.uk/careers/internships.aspx | UK | Public | Official 12-month UK placement-year internships (marketing, customer marketing, finance) at Folkestone / London; vacancies typically advertised in winter |
 
 ## Company career pages
 
