@@ -50,6 +50,8 @@ Access:
 | Mondelēz UK Early Careers | https://www.mondelezinternational.com/united-kingdom/early-careers/ | UK | Public | Official UK hub for 12-month industrial internships (marketing and sales at Uxbridge Cadbury House) plus graduates |
 | Volkswagen Group UK undergraduates | https://careers.volkswagengroup.co.uk/early-careers/undergraduates | UK | Public | Official 12-month sandwich placements at Milton Keynes including digital marketing, sales analytics and corporate identity (2027–28 live, close 18 Oct 2026) |
 | Church & Dwight internships | https://www.churchdwight.co.uk/careers/internships.aspx | UK | Public | Official 12-month UK placement-year internships (marketing, customer marketing, finance) at Folkestone / London; vacancies typically advertised in winter |
+| Haleon industrial placements | https://careers.haleon.com/careers?query=Industrial%20Placement | UK | Public | Official Haleon vacancy search for 12-month 2027 industrial placements (marketing, commercial, finance, communications in London and Weybridge; applications typically close 23 Oct 2026) |
+| BDO placements and internships | https://careers.bdo.co.uk/placements-and-internships | UK | Public | Official BDO hub for 12-month industrial placements in advisory, audit, tax and shared services; 2027 Advisory live until 15 Nov 2026 |
 
 ## Company career pages
 
