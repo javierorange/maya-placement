@@ -44,7 +44,7 @@ Access:
 | Hilton EMEA internships and corporate placements | https://jobs.hilton.com/emea-internships-hotel-corporate | UK+intl | Public | Official 12-month 2027 corporate placements in Watford and Glasgow (applications 1 Sep–1 Nov 2026) |
 | British Airways graduates, business placements and interns | https://careers.ba.com/graduates-bps-and-interns | UK | Public | Official 11-month Future Leader Business Placement at Heathrow; 2027 applications from autumn 2026 |
 | Kia UK careers | https://kia-uk.hirehive.com/ | UK | Public | Official Kia UK head-office board with several undergraduate placement-year 2027–28 marketing, sales and commercial vacancies in Walton-on-Thames |
-| Grant Thornton interns and placements | https://www.grantthornton.co.uk/careers/early-careers/our-programmes/interns-and-placements/ | UK | Public | Official 12-month sandwich-year placement programme across UK offices (register interest until 2027 applications open) |
+| Grant Thornton internships and placements | https://www.grantthornton.co.uk/careers/early-careers/our-programmes/interns-and-placements/ | UK | Public | Official 12-month sandwich-year placement programme across UK offices (register interest until 2027 applications open) |
 | Investment20/20 latest jobs | https://www.investment2020.org.uk/latest-jobs/ | UK | Public | Investment-industry board hosting Schroders 12-month placement years and other student roles |
 | Samsung UK Emerging Talent placements | https://www.samsung.com/uk/aboutsamsung/careers/emerging-talent/placement-opportunities/ | UK | Public | Official 12-month penultimate-year placements at Samsung UK (Chertsey): marketing, sales, product management, finance and more |
 | Mondelēz UK Early Careers | https://www.mondelezinternational.com/united-kingdom/early-careers/ | UK | Public | Official UK hub for 12-month industrial internships (marketing and sales at Uxbridge Cadbury House) plus graduates |
@@ -52,6 +52,10 @@ Access:
 | Church & Dwight internships | https://www.churchdwight.co.uk/careers/internships.aspx | UK | Public | Official 12-month UK placement-year internships (marketing, customer marketing, finance) at Folkestone / London; vacancies typically advertised in winter |
 | Haleon industrial placements | https://careers.haleon.com/careers?query=Industrial%20Placement | UK | Public | Official Haleon vacancy search for 12-month 2027 industrial placements (marketing, commercial, finance, communications in London and Weybridge; applications typically close 23 Oct 2026) |
 | BDO placements and internships | https://careers.bdo.co.uk/placements-and-internships | UK | Public | Official BDO hub for 12-month industrial placements in advisory, audit, tax and shared services; 2027 Advisory live until 15 Nov 2026 |
+| Higherin SME schemes | https://higherin.com/top-employers/undergraduates/smes | UK | Public | Smaller employers that hire few placement students a year |
+| Menzies LLP careers | https://menzies.pinpointhq.com/ | UK | Public | Independent UK advisory firm (~1,100 people); 12-month 2027 placements |
+| RSM UK early careers | https://www.rsmuk.com/careers/early-careers | UK | Public | Mid-market firm (~6,300 UK people); 12-month 2027 sandwich placements |
+| Forvis Mazars UK early careers | https://careers-uk.forvismazars.com/early-careers/school-leaver-and-graduates/ | UK | Public | Official industrial placement / early-careers hub (~3,500 UK people) |
 
 ## Company career pages
 

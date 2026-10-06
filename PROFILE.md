@@ -11,6 +11,7 @@ Student searching for a **Year 3 placement** (6–12 months), not a summer inter
 | Geography | **UK and international** |
 | Functions | Marketing, strategy, consulting, finance, operations, general management, commercial / GTM |
 | Sectors of interest | FMCG, consulting, finance, luxury, tech, consumer brands — keep this wide unless Maya narrows it |
+| Company size | **Drop employers with more than 20,000 employees.** Use group/parent headcount when the brand is a subsidiary of a giant. Keep mid-size firms, boutiques, and SMEs (≤20,000). |
 
 ## What counts as a placement
 
@@ -25,6 +26,7 @@ Drop:
 - Summer internships under ~6 months
 - Graduate schemes / new-grad roles
 - Part-time campus jobs, volunteering, and unpaid “insight” weeks
+- Companies with **more than 20,000 employees** (Unilever, Big 4, L’Oréal, Nestlé, Accenture, P&G, Hilton, Haleon, etc.)
 
 Bath BSc International Management usually spends Year 3 **abroad** (work placement, academic exchange, or both). UK roles are still in scope because this search includes the UK.
 
