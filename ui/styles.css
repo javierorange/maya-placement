@@ -84,6 +84,17 @@ h1 {
   margin: 20px 0 8px;
 }
 
+.list-block {
+  margin-top: 8px;
+}
+
+.list-blurb {
+  margin: -4px 0 12px;
+  color: var(--muted);
+  font-family: ui-sans-serif, system-ui, sans-serif;
+  font-size: 0.9rem;
+}
+
 .stat {
   background: var(--card);
   border: 1px solid var(--line);

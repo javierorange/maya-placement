@@ -88,7 +88,20 @@ def check_url(url: str) -> dict:
 
 
 def iter_items(payload: dict):
+    seen_ids = set()
+    lists = payload.get("lists") or {}
+    for _list_id, bucket in lists.items():
+        for offer in (bucket or {}).get("offers") or []:
+            key = id(offer)
+            if key in seen_ids:
+                continue
+            seen_ids.add(key)
+            yield "offer", offer
     for offer in payload.get("offers") or []:
+        key = id(offer)
+        if key in seen_ids:
+            continue
+        seen_ids.add(key)
         yield "offer", offer
     for source in payload.get("sources_added") or []:
         yield "source", source
@@ -107,16 +120,24 @@ def main() -> int:
     args = parser.parse_args()
     payload = json.loads(args.file.read_text())
     failures = []
+    cache: dict[str, dict] = {}
+    failed_urls: set[str] = set()
     for kind, item in iter_items(payload):
         url = item.get("url")
         if not url:
             failures.append((kind, item.get("name") or item.get("title"), "missing url"))
             continue
-        result = check_url(url)
+        if url in cache:
+            result = cache[url]
+        else:
+            result = check_url(url)
+            cache[url] = result
+            label = item.get("company") or item.get("name") or url
+            print(f"{result['status']:7} {result.get('http_status')}  {label}\n         {url}")
         item["link"] = result
-        label = item.get("company") or item.get("name") or url
-        print(f"{result['status']:7} {result.get('http_status')}  {label}\n         {url}")
-        if result["status"] != "ok":
+        if result["status"] != "ok" and url not in failed_urls:
+            failed_urls.add(url)
+            label = item.get("company") or item.get("name") or url
             failures.append((kind, label, result["status"]))
     if args.write:
         args.file.write_text(json.dumps(payload, indent=2) + "\n")

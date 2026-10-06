@@ -53,7 +53,7 @@ The repo is public (required for free user Pages). Do not commit emails or stude
 
 ## How to use
 
-Ask Cursor to **find placements** (or wait for the Monday automation). The agent searches public boards, writes `data/weeks/{date}.json`, updates the archive, and pushes `main`. GitHub Pages rebuilds; Maya refreshes her bookmark.
+Ask Cursor to **find placements** (or wait for the Monday automation). Each run does **two** searches — all companies, and firms with **≤20,000 employees** — keeps the **top 20** of each, writes `data/weeks/{date}.json`, updates the archive, and pushes `main`. GitHub Pages rebuilds; Maya refreshes her bookmark. The digest shows the two lists separately.
 
 MyFuture requires Maya’s Bath login — the agent lists it but does not sign in.
 

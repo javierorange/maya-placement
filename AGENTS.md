@@ -17,13 +17,13 @@ Do not invent a parallel tracker. Update those files in place. Maya’s public d
 ## Core loop
 
 ```
-read profile + sources + seen → search public listings → filter 6–12 month student roles → check links → write week JSON + archive → push main
+read profile + sources + seen → two public searches (all companies + under 20k) → rank top 20 each → check links → write week JSON + archive → push main
 ```
 
 ## Rules
 
 - Placement = student job **6 months to 1 year**. Drop summer internships and graduate schemes.
 - Public pages only. Never log into MyFuture or any other student portal. Never store credentials.
-- New board URLs go in `sources.md`. New roles go in `placements.csv` and `data/weeks/{date}.json`. Every offer URL is keyed in `seen.json`.
+- New board URLs go in `sources.md`. New roles go in `placements.csv` and `data/weeks/{date}.json` (`lists.all` and `lists.midsize`, max 20 each). Every offer URL is keyed in `seen.json`.
 - Every **Open listing** URL must pass `python3 tools/check_links.py` (HTTP 200, not a 404/soft-404). Drop or replace failures before showing them in the UI.
 - Weekly runs **push `main`**. Do not open a pull request.
