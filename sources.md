@@ -56,6 +56,8 @@ Access:
 | Menzies LLP careers | https://menzies.pinpointhq.com/ | UK | Public | Independent UK advisory firm (~1,100 people); 12-month 2027 placements |
 | RSM UK early careers | https://www.rsmuk.com/careers/early-careers | UK | Public | Mid-market firm (~6,300 UK people); 12-month 2027 sandwich placements |
 | Forvis Mazars UK early careers | https://careers-uk.forvismazars.com/early-careers/school-leaver-and-graduates/ | UK | Public | Official industrial placement / early-careers hub (~3,500 UK people) |
+| BMW Group UK jobs | https://jobs.bmwgroup.com/ | UK | Public | Official BMW, MINI and Rolls-Royce UK placement-year vacancies (2027 close 18 Oct 2026) |
+| NBCUniversal UK Internship Programme 2027 | https://www.nbcuniversal.com/article/nbcuniversal-united-kingdom-internship-programme-2027-your-application-guide | UK | Public | Official guide for the 12-month 2027 UK internship programme (applications from 5 Oct 2026) |
 
 ## Company career pages
 
