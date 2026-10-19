@@ -58,6 +58,9 @@ Access:
 | Forvis Mazars UK early careers | https://careers-uk.forvismazars.com/early-careers/school-leaver-and-graduates/ | UK | Public | Official industrial placement / early-careers hub (~3,500 UK people) |
 | BMW Group UK jobs | https://jobs.bmwgroup.com/ | UK | Public | Official BMW, MINI and Rolls-Royce UK placement-year vacancies (2027 close 18 Oct 2026) |
 | NBCUniversal UK Internship Programme 2027 | https://www.nbcuniversal.com/article/nbcuniversal-united-kingdom-internship-programme-2027-your-application-guide | UK | Public | Official guide for the 12-month 2027 UK internship programme (applications from 5 Oct 2026) |
+| FTI Consulting careers | https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers | UK | Public | Official Workday board for FTI Consulting UK 12-month industry placements (Events & Marketing and Economic & Financial Consulting close 29 Oct 2026) |
+| Softcat early careers | https://www.softcat.com/careers/jobs/early-careers | UK | Public | Official Softcat internships hub listing 12-month 2027 commercial, sales and technical placement years (~2,925 people) |
+| Bosch UK jobs | https://jobs.bosch.com/en-gb/ | UK | Public | Official Bosch UK board with 12-month 2027 undergraduate placements including Marketing Communications (Denham) and Commercial (Coventry) |
 
 ## Company career pages
 
