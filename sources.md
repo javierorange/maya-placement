@@ -61,6 +61,9 @@ Access:
 | FTI Consulting careers | https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers | UK | Public | Official Workday board for FTI Consulting UK 12-month industry placements (Events & Marketing and Economic & Financial Consulting close 29 Oct 2026) |
 | Softcat early careers | https://www.softcat.com/careers/jobs/early-careers | UK | Public | Official Softcat internships hub listing 12-month 2027 commercial, sales and technical placement years (~2,925 people) |
 | Bosch UK jobs | https://jobs.bosch.com/en-gb/ | UK | Public | Official Bosch UK board with 12-month 2027 undergraduate placements including Marketing Communications (Denham) and Commercial (Coventry) |
+| PA Consulting UK industrial placements | https://www.paconsulting.com/careers/early-careers/uk-industrial-placements | UK | Public | Official hub for PA Consulting 12-month 2027 industrial placements across consulting and digital (London, Bristol, Manchester, Belfast; ~4,000 people) |
+| Aon UK internships | https://www.aon.com/careers/early-careers/uk/internships | UK | Public | Official Aon UK early-careers internships hub listing the 12-month 2027 Marketing and Communications industrial placement (closes 7 Dec 2026) |
+| Carlsberg Britvic careers | https://careers.carlsberg.com/CarlsbergMarstons/job/Hemel-Hempstead-Commercial-Industrial-Placement/1449099933/ | UK | Public | Official Carlsberg Britvic 12-month Commercial Industrial Placement in Hemel Hempstead (starts 26 Jul 2027; closes 11 Dec 2026) |
 
 ## Company career pages
 

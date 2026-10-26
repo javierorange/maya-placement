@@ -1,6 +1,15 @@
 {
   "weeks": [
     {
+      "week_of": "2026-10-26",
+      "new_offers": 9,
+      "new_offers_all": 9,
+      "new_offers_midsize": 8,
+      "new_sources": 3,
+      "label": "Live week",
+      "is_example": false
+    },
+    {
       "week_of": "2026-10-19",
       "new_offers": 8,
       "new_offers_all": 8,

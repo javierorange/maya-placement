@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-19T09:09:46Z",
-  "week_of": "2026-10-19",
+  "generated_at": "2026-10-26T09:09:29Z",
+  "week_of": "2026-10-26",
   "candidate": "Maya",
   "is_example": false,
   "summary": {
-    "new_offers": 8,
-    "new_offers_all": 8,
+    "new_offers": 9,
+    "new_offers_all": 9,
     "new_offers_midsize": 8,
     "new_sources": 3,
-    "dropped": 11,
-    "dropped_note": "All-companies list: no employee cap; ranked 12-month UK marketing/consulting/commercial first (top 20). Under-20k list: dropped group headcount above 20,000 (L'Or\u00e9al, Haleon, Deloitte, Bentley/VW, NBCUniversal, Hilton, Bosch, BDO). Closed windows this week: BMW Group UK placement year (18 Oct), Volkswagen Group UK undergraduates (18 Oct), McLaren Automotive commercial IP (18 Oct), Unilever marketing/sales IPs, GSK IPs (13 Oct). Grant Thornton Financial Services Audit London URL returned 404. Six-month FR/BE stages ranked out of the all-companies top 20. P&G brand and Reckitt commercial FLS are summer internships or graduate schemes.",
+    "dropped": 16,
+    "dropped_note": "All-companies list: no employee cap; ranked 12-month UK marketing/consulting/commercial first (top 20). Under-20k list: dropped group/parent headcount above 20,000 (Deloitte, Aon, Carlsberg, Hilton, NBCUniversal, BDO, Bosch, LVMH). Closed windows this week: L'Or\u00e9al UK IPs (23 Oct), Haleon UK IPs (23 Oct), Bentley Sales & Marketing IP (23 Oct), Disney UK Commercial & ESPN (20 Oct), Hilton finance Watford/Glasgow (20 Oct). Church & Dwight Higherin marketing internship listing expired. Official Church & Dwight consumer-relations URL and MHA Colchester vacancy returned HTTP 403 (not publishable). Six-month FR/BE stages ranked out of the all-companies top 20. Disney creative marketing windows closed 20 Oct. MyFuture stays Maya-manual.",
     "maya_check": [
       {
         "name": "MyFuture",
@@ -19,49 +19,49 @@
           "status": "ok",
           "http_status": 200,
           "final_url": "https://www.bath.ac.uk/campaigns/myfuture/",
-          "checked_at": "2026-10-19T09:10:08Z"
+          "checked_at": "2026-10-26T09:10:44Z"
         }
       }
     ]
   },
   "sources_added": [
     {
-      "name": "FTI Consulting careers",
-      "url": "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers",
+      "name": "PA Consulting UK industrial placements",
+      "url": "https://www.paconsulting.com/careers/early-careers/uk-industrial-placements",
       "region": "UK",
       "access": "Public",
-      "why": "Official Workday board for FTI Consulting UK 12-month industry placements (Events & Marketing and Economic & Financial Consulting close 29 Oct 2026)",
+      "why": "Official hub for PA Consulting 12-month 2027 industrial placements across consulting and digital (London, Bristol, Manchester, Belfast; ~4,000 people)",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers",
-        "checked_at": "2026-10-19T09:10:07Z"
+        "final_url": "https://www.paconsulting.com/careers/early-careers/uk-industrial-placements",
+        "checked_at": "2026-10-26T09:10:43Z"
       }
     },
     {
-      "name": "Softcat early careers",
-      "url": "https://www.softcat.com/careers/jobs/early-careers",
+      "name": "Aon UK internships",
+      "url": "https://www.aon.com/careers/early-careers/uk/internships",
       "region": "UK",
       "access": "Public",
-      "why": "Official Softcat internships hub listing 12-month 2027 commercial, sales and technical placement years (~2,925 people)",
+      "why": "Official Aon UK early-careers internships hub listing the 12-month 2027 Marketing and Communications industrial placement (closes 7 Dec 2026)",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://www.softcat.com/careers/jobs/early-careers",
-        "checked_at": "2026-10-19T09:10:07Z"
+        "final_url": "https://www.aon.com/careers/early-careers/uk/internships",
+        "checked_at": "2026-10-26T09:10:44Z"
       }
     },
     {
-      "name": "Bosch UK jobs",
-      "url": "https://jobs.bosch.com/en-gb/",
+      "name": "Carlsberg Britvic careers",
+      "url": "https://careers.carlsberg.com/CarlsbergMarstons/job/Hemel-Hempstead-Commercial-Industrial-Placement/1449099933/",
       "region": "UK",
       "access": "Public",
-      "why": "Official Bosch UK board with 12-month 2027 undergraduate placements including Marketing Communications (Denham) and Commercial (Coventry)",
+      "why": "Official Carlsberg Britvic 12-month Commercial Industrial Placement in Hemel Hempstead (starts 26 Jul 2027; closes 11 Dec 2026)",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://jobs.bosch.com/en-gb/",
-        "checked_at": "2026-10-19T09:10:08Z"
+        "final_url": "https://careers.carlsberg.com/CarlsbergMarstons/job/Hemel-Hempstead-Commercial-Industrial-Placement/1449099933/",
+        "checked_at": "2026-10-26T09:10:29Z"
       }
     }
   ],
@@ -72,132 +72,6 @@
       "blurb": "No employee cap. Ranked top 20 this week \u2014 12-month UK marketing, consulting and commercial roles first.",
       "employee_cap": null,
       "offers": [
-        {
-          "title": "Marketing Industrial Placement 2027",
-          "company": "L'Or\u00e9al",
-          "location": "White City, London, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027-06-28",
-          "deadline": "2026-10-23",
-          "function": "Marketing",
-          "why": "12-month brand-marketing IP from 28 Jun 2027 at White City: campaigns, UK adaptation, competitor analysis; Year 2 with a placement year; \u00a326,950; closes 23 Oct 2026.",
-          "url": "https://careers.loreal.com/en/job/london/marketing-industrial-placement-2027/3456/45784492672",
-          "source": "L'Or\u00e9al Careers UK intern",
-          "first_seen": "2026-10-12",
-          "employee_cap": "over_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://careers.loreal.com/en/job/london/marketing-industrial-placement-2027/3456/45784492672",
-            "checked_at": "2026-10-19T09:09:50Z"
-          }
-        },
-        {
-          "title": "Digital Marketing Industrial Placement 2027",
-          "company": "L'Or\u00e9al",
-          "location": "White City, London, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027-06-28",
-          "deadline": "2026-10-23",
-          "function": "Marketing",
-          "why": "12-month digital/e-commerce IP from 28 Jun 2027: social, websites, SEO and retailer catalogues; Year 2 placement students; \u00a326,950; closes 23 Oct 2026.",
-          "url": "https://careers.loreal.com/en/job/london/digital-marketing-industrial-placement-2027/3456/45784492736",
-          "source": "L'Or\u00e9al Careers UK intern",
-          "first_seen": "2026-10-12",
-          "employee_cap": "over_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://careers.loreal.com/en/job/london/digital-marketing-industrial-placement-2027/3456/45784492736",
-            "checked_at": "2026-10-19T09:09:50Z"
-          }
-        },
-        {
-          "title": "Commercial Industrial Placement 2027",
-          "company": "L'Or\u00e9al",
-          "location": "White City, London, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027-06-28",
-          "deadline": "2026-10-23",
-          "function": "Commercial / GTM",
-          "why": "12-month sales/account-management IP from 28 Jun 2027: retailer JBPs, promo plans and share tracking; Year 2; \u00a326,950; closes 23 Oct 2026.",
-          "url": "https://careers.loreal.com/en/job/london/commercial-industrial-placement-2027/3456/45784492608",
-          "source": "L'Or\u00e9al Careers UK intern",
-          "first_seen": "2026-10-12",
-          "employee_cap": "over_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://careers.loreal.com/en/job/london/commercial-industrial-placement-2027/3456/45784492608",
-            "checked_at": "2026-10-19T09:09:51Z"
-          }
-        },
-        {
-          "title": "Commercial Business & Marketing Industrial Placement Student, 2027",
-          "company": "Haleon",
-          "location": "London, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027-06-28",
-          "deadline": "2026-10-23",
-          "function": "Marketing",
-          "why": "12-month GB&I commercial/marketing IP from 28 Jun 2027: brand marketing, commercial analytics and campaigns; any degree; Year 2 England; \u00a328,860; closes 23 Oct 2026.",
-          "url": "https://gsknch.wd3.myworkdayjobs.com/en-US/GSKCareers/job/Commercial-Business---Marketing-Industrial-Placement-Student--2027--London--UK_547596",
-          "source": "Haleon industrial placements",
-          "first_seen": "2026-10-05",
-          "employee_cap": "over_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://gsknch.wd3.myworkdayjobs.com/en-US/GSKCareers/job/Commercial-Business---Marketing-Industrial-Placement-Student--2027--London--UK_547596",
-            "checked_at": "2026-10-19T09:09:52Z"
-          }
-        },
-        {
-          "title": "Marketing Assistant Industrial Placement, 2027",
-          "company": "Haleon",
-          "location": "Weybridge, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027-06-28",
-          "deadline": "2026-10-23",
-          "function": "Marketing",
-          "why": "12-month Global Expert Marketing IP from 28 Jun 2027: HCP campaigns, content and social for Sensodyne-class brands; any degree; \u00a328,860; Weybridge.",
-          "url": "https://gsknch.wd3.myworkdayjobs.com/en-US/GSKCareers/job/Marketing-Assistant-Industrial-Placement--2027--Weybridge--UK_547659",
-          "source": "Haleon industrial placements",
-          "first_seen": "2026-10-05",
-          "employee_cap": "over_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://gsknch.wd3.myworkdayjobs.com/en-US/GSKCareers/job/Marketing-Assistant-Industrial-Placement--2027--Weybridge--UK_547659",
-            "checked_at": "2026-10-19T09:09:53Z"
-          }
-        },
-        {
-          "title": "Marketing & Digital Communications Industrial Placement, 2027",
-          "company": "Haleon",
-          "location": "Weybridge, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027-06-28",
-          "deadline": "2026-10-23",
-          "function": "Marketing",
-          "why": "12-month Sensodyne & Pronamel digital-comms IP from 28 Jun 2027: owned channels, website and e-commerce content; business/marketing degrees useful.",
-          "url": "https://gsknch.wd3.myworkdayjobs.com/en-US/GSKCareers/job/Marketing---Digital-Communications-Industrial-Placement--2027--Weybridge--UK_547649",
-          "source": "Haleon industrial placements",
-          "first_seen": "2026-10-05",
-          "employee_cap": "over_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://gsknch.wd3.myworkdayjobs.com/en-US/GSKCareers/job/Marketing---Digital-Communications-Industrial-Placement--2027--Weybridge--UK_547649",
-            "checked_at": "2026-10-19T09:09:53Z"
-          }
-        },
         {
           "title": "2027 Industry Placement, Events and Marketing",
           "company": "FTI Consulting",
@@ -216,7 +90,7 @@
             "status": "ok",
             "http_status": 200,
             "final_url": "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/XMLNAME-2027-Industry-Placement--Marketing--Events-_JR260648",
-            "checked_at": "2026-10-19T09:09:53Z"
+            "checked_at": "2026-10-26T09:10:27Z"
           }
         },
         {
@@ -237,91 +111,91 @@
             "status": "ok",
             "http_status": 200,
             "final_url": "https://higherin.com/jobs/46114/deloitte/business-transformation-consulting-placement-2027-marketing-commerce",
-            "checked_at": "2026-10-19T09:09:53Z"
+            "checked_at": "2026-10-26T09:10:27Z"
           }
         },
         {
-          "title": "Industrial Placement - Sales & Marketing",
-          "company": "Bentley Motors",
-          "location": "Crewe, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027-08-16",
-          "deadline": "2026-10-23",
-          "function": "Marketing",
-          "why": "12-month Sales & Marketing events IP at Crewe from 16 Aug 2027: brand experiences, budgets and high-net-worth marketing; Business/Marketing degrees; \u00a325,500; closes 23 Oct 2026. VW Group subsidiary.",
-          "url": "https://careers.bentleymotors.com/job/Crewe-Industrial-Placement-Sales-&-Marketing/1445329333/",
-          "source": "Bentley Motors careers",
-          "first_seen": "2026-10-19",
-          "employee_cap": "over_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://careers.bentleymotors.com/job/Crewe-Industrial-Placement-Sales-&-Marketing/1445329333/",
-            "checked_at": "2026-10-19T09:09:54Z"
-          }
-        },
-        {
-          "title": "Marketing Placement 2027",
-          "company": "NBCUniversal",
+          "title": "2027 Industrial Placement - Consulting (Strategy & Economics) - London",
+          "company": "PA Consulting",
           "location": "London, UK",
           "region": "UK",
           "duration": "12 months",
-          "start": "2027-07-05",
-          "deadline": "2026-11-16",
-          "function": "Marketing",
-          "why": "12-month film/TV marketing internship from 5 Jul 2027: campaigns, social and media planning; \u00a329,000; 4 days in Central London; closes 16 Nov 2026.",
-          "url": "https://higherin.com/jobs/45908/nbcuniversal/marketing-placement-2027",
-          "source": "Higherin (formerly RateMyPlacement)",
-          "first_seen": "2026-10-12",
-          "employee_cap": "over_20k",
+          "start": "2027-07",
+          "deadline": "unknown (rolling; opened late October 2026)",
+          "function": "Consulting",
+          "why": "NEW 12-month strategy/economics consulting IP from July 2027 at London Victoria: growth plans, capital allocation and market analysis; any degree graduating 2029; \u00a328,860. PA ~4,000 people.",
+          "url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-strategy-economics-london-744000157427508",
+          "source": "PA Consulting UK industrial placements",
+          "first_seen": "2026-10-26",
+          "employee_cap": "under_20k",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://higherin.com/jobs/45908/nbcuniversal/marketing-placement-2027",
-            "checked_at": "2026-10-19T09:09:55Z"
+            "final_url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-strategy-economics-london-744000157427508",
+            "checked_at": "2026-10-26T09:10:28Z"
           }
         },
         {
-          "title": "Marketing, Promotions & Creative Placement 2027",
-          "company": "NBCUniversal",
+          "title": "2027 Industrial Placement - Consulting (Business Design & Transformation) - London",
+          "company": "PA Consulting",
           "location": "London, UK",
           "region": "UK",
           "duration": "12 months",
-          "start": "2027-07-05",
-          "deadline": "2026-11-16",
-          "function": "Marketing",
-          "why": "12-month UK Theatrical promotions and creative-services IP: brand partnerships and asset localisation; \u00a329,000; closes 16 Nov 2026.",
-          "url": "https://higherin.com/jobs/45909/nbcuniversal/marketing-promotions-creative-placement-2027",
-          "source": "Higherin (formerly RateMyPlacement)",
-          "first_seen": "2026-10-12",
-          "employee_cap": "over_20k",
+          "start": "2027-07",
+          "deadline": "unknown (rolling; opened 22 Oct 2026)",
+          "function": "Consulting",
+          "why": "NEW 12-month business-design/transformation consulting IP from July 2027: operating models and large-scale change; any degree graduating 2029; \u00a328,860. PA ~4,000 people.",
+          "url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-business-design-transformation-london-744000157052305",
+          "source": "PA Consulting UK industrial placements",
+          "first_seen": "2026-10-26",
+          "employee_cap": "under_20k",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://higherin.com/jobs/45909/nbcuniversal/marketing-promotions-creative-placement-2027",
-            "checked_at": "2026-10-19T09:09:55Z"
+            "final_url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-business-design-transformation-london-744000157052305",
+            "checked_at": "2026-10-26T09:10:28Z"
           }
         },
         {
-          "title": "Commercial Strategy & Operations Placement 2027",
-          "company": "NBCUniversal",
+          "title": "Aon Industrial Placement Programme 2027 - Marketing and Communications",
+          "company": "Aon",
           "location": "London, UK",
           "region": "UK",
           "duration": "12 months",
-          "start": "2027-07-05",
-          "deadline": "2026-11-16",
-          "function": "Strategy",
-          "why": "12-month Universal Pictures International commercial-strategy internship from 5 Jul 2027: cinema-client trading and performance metrics across EMEA/APAC/LATAM; \u00a329,000; closes 16 Nov 2026.",
-          "url": "https://higherin.com/jobs/45811/nbcuniversal/commercial-strategy-operations-placement-2027",
-          "source": "Higherin (formerly RateMyPlacement)",
-          "first_seen": "2026-10-19",
+          "start": "2027-09-01",
+          "deadline": "2026-12-07",
+          "function": "Marketing",
+          "why": "NEW 12-month marketing/comms IP from 1 Sep 2027: campaigns, brand, events, internal comms and media relations; 2:1 any degree (marketing/business useful); closes 7 Dec 2026.",
+          "url": "https://jobs.aon.com/jobs/107792?lang=en-us",
+          "source": "Aon UK internships",
+          "first_seen": "2026-10-26",
           "employee_cap": "over_20k",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://higherin.com/jobs/45811/nbcuniversal/commercial-strategy-operations-placement-2027",
-            "checked_at": "2026-10-19T09:09:56Z"
+            "final_url": "https://jobs.aon.com/jobs/107792?lang=en-us",
+            "checked_at": "2026-10-26T09:10:29Z"
+          }
+        },
+        {
+          "title": "Commercial Industrial Placement",
+          "company": "Carlsberg Britvic",
+          "location": "Hemel Hempstead, UK",
+          "region": "UK",
+          "duration": "12 months",
+          "start": "2027-07-26",
+          "deadline": "2026-12-11",
+          "function": "Commercial / GTM",
+          "why": "NEW 12-month FMCG commercial IP from 26 Jul 2027: on-trade/off-trade account teams, retailer plans and performance analysis; business/marketing/economics; \u00a325,000; closes 11 Dec 2026.",
+          "url": "https://careers.carlsberg.com/CarlsbergMarstons/job/Hemel-Hempstead-Commercial-Industrial-Placement/1449099933/",
+          "source": "Carlsberg Britvic careers",
+          "first_seen": "2026-10-26",
+          "employee_cap": "over_20k",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://careers.carlsberg.com/CarlsbergMarstons/job/Hemel-Hempstead-Commercial-Industrial-Placement/1449099933/",
+            "checked_at": "2026-10-26T09:10:29Z"
           }
         },
         {
@@ -342,53 +216,11 @@
             "status": "ok",
             "http_status": 200,
             "final_url": "https://higherin.com/jobs/44067/hilton/2027-marketing-placement",
-            "checked_at": "2026-10-19T09:09:56Z"
+            "checked_at": "2026-10-26T09:10:30Z"
           }
         },
         {
-          "title": "Communications & Corporate Affairs Industrial Placement Student, 2027",
-          "company": "Haleon",
-          "location": "London, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027-06-28",
-          "deadline": "2026-10-23",
-          "function": "Marketing",
-          "why": "12-month Europe OU corporate-affairs IP from 28 Jun 2027: media monitoring, UK policy and internal comms; communications/politics degrees preferred; \u00a328,860.",
-          "url": "https://gsknch.wd3.myworkdayjobs.com/en-US/GSKCareers/job/Communications---Corporate-Affairs-Industrial-Placement-Student--2027--London--UK_547600",
-          "source": "Haleon industrial placements",
-          "first_seen": "2026-10-05",
-          "employee_cap": "over_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://gsknch.wd3.myworkdayjobs.com/en-US/GSKCareers/job/Communications---Corporate-Affairs-Industrial-Placement-Student--2027--London--UK_547600",
-            "checked_at": "2026-10-19T09:09:57Z"
-          }
-        },
-        {
-          "title": "Undergraduate Placement Year 2027 - Marketing Communications Intern",
-          "company": "Bosch",
-          "location": "Denham, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027-06",
-          "deadline": "unknown (applications open)",
-          "function": "Marketing",
-          "why": "12-month marketing & communications intern from June 2027 at Denham: digital ads, social, newsletters, website content and events; marketing/business/comms degree.",
-          "url": "https://jobs.bosch.com/en-gb/job/REF298069B-marketing-communications-intern",
-          "source": "Bosch UK jobs",
-          "first_seen": "2026-10-19",
-          "employee_cap": "over_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://jobs.bosch.com/en-gb/job/REF298069B-marketing-communications-intern",
-            "checked_at": "2026-10-19T09:09:57Z"
-          }
-        },
-        {
-          "title": "Trade Marketing Placement 2027",
+          "title": "Marketing Placement 2027",
           "company": "NBCUniversal",
           "location": "London, UK",
           "region": "UK",
@@ -396,37 +228,100 @@
           "start": "2027-07-05",
           "deadline": "2026-11-16",
           "function": "Marketing",
-          "why": "12-month trade-marketing internship from 5 Jul 2027: exhibitor support, creative workflow and title launches; \u00a329,000; closes 16 Nov 2026.",
-          "url": "https://higherin.com/jobs/45924/nbcuniversal/trade-marketing-placement-2027",
+          "why": "12-month film/TV marketing internship from 5 Jul 2027: campaigns, social and media planning; \u00a329,000; 4 days in Central London; closes 16 Nov 2026.",
+          "url": "https://higherin.com/jobs/45908/nbcuniversal/marketing-placement-2027",
           "source": "Higherin (formerly RateMyPlacement)",
           "first_seen": "2026-10-12",
           "employee_cap": "over_20k",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://higherin.com/jobs/45924/nbcuniversal/trade-marketing-placement-2027",
-            "checked_at": "2026-10-19T09:09:58Z"
+            "final_url": "https://higherin.com/jobs/45908/nbcuniversal/marketing-placement-2027",
+            "checked_at": "2026-10-26T09:10:30Z"
           }
         },
         {
-          "title": "2027 Advisory Industrial Placement Programme",
-          "company": "BDO",
-          "location": "London / Reading, UK",
+          "title": "Marketing, Promotions & Creative Placement 2027",
+          "company": "NBCUniversal",
+          "location": "London, UK",
           "region": "UK",
           "duration": "12 months",
-          "start": "2027-09-20",
-          "deadline": "2026-11-15",
-          "function": "Consulting",
-          "why": "12-month advisory IP from 20 Sep 2027: restructuring, forensics or BSO; Year 2 on a four-year degree; 2:2 any discipline; \u00a328,800\u2013\u00a329,700; closes 15 Nov 2026.",
-          "url": "https://careers.bdo.co.uk/en/job/london/2027-advisory-industrial-placement-programme/1469/45085583040",
-          "source": "BDO placements and internships",
-          "first_seen": "2026-10-05",
+          "start": "2027-07-05",
+          "deadline": "2026-11-16",
+          "function": "Marketing",
+          "why": "12-month UK Theatrical promotions and creative-services IP: brand partnerships and asset localisation; \u00a329,000; closes 16 Nov 2026.",
+          "url": "https://higherin.com/jobs/45909/nbcuniversal/marketing-promotions-creative-placement-2027",
+          "source": "Higherin (formerly RateMyPlacement)",
+          "first_seen": "2026-10-12",
           "employee_cap": "over_20k",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://careers.bdo.co.uk/en/job/london/2027-advisory-industrial-placement-programme/1469/45085583040",
-            "checked_at": "2026-10-19T09:09:59Z"
+            "final_url": "https://higherin.com/jobs/45909/nbcuniversal/marketing-promotions-creative-placement-2027",
+            "checked_at": "2026-10-26T09:10:31Z"
+          }
+        },
+        {
+          "title": "2027 Industrial Placement - Consulting (Operations & Improvement) - London",
+          "company": "PA Consulting",
+          "location": "London, UK",
+          "region": "UK",
+          "duration": "12 months",
+          "start": "2027-07",
+          "deadline": "unknown (rolling; opened 23 Oct 2026)",
+          "function": "Consulting",
+          "why": "NEW 12-month operations/improvement consulting IP from July 2027: process, supply-chain and customer-delivery work; any degree graduating 2029; \u00a328,860. PA ~4,000 people.",
+          "url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-operations-improvement-london-744000157424874",
+          "source": "PA Consulting UK industrial placements",
+          "first_seen": "2026-10-26",
+          "employee_cap": "under_20k",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-operations-improvement-london-744000157424874",
+            "checked_at": "2026-10-26T09:10:32Z"
+          }
+        },
+        {
+          "title": "Commercial Placement (Ad & Affiliate Sales) 2027",
+          "company": "NBCUniversal",
+          "location": "London, UK",
+          "region": "UK",
+          "duration": "12 months",
+          "start": "2027-07-05",
+          "deadline": "2026-11-16",
+          "function": "Commercial / GTM",
+          "why": "NEW 12-month EMEA networks/DTC commercial IP from 5 Jul 2027: affiliate account management, deal memos and market research; \u00a329,000; closes 16 Nov 2026.",
+          "url": "https://higherin.com/jobs/45810/nbcuniversal/commercial-placement-ad-affiliate-sales-2027",
+          "source": "Higherin (formerly RateMyPlacement)",
+          "first_seen": "2026-10-26",
+          "employee_cap": "over_20k",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://higherin.com/jobs/45810/nbcuniversal/commercial-placement-ad-affiliate-sales-2027",
+            "checked_at": "2026-10-26T09:10:32Z"
+          }
+        },
+        {
+          "title": "Commercial Strategy & Operations Placement 2027",
+          "company": "NBCUniversal",
+          "location": "London, UK",
+          "region": "UK",
+          "duration": "12 months",
+          "start": "2027-07-05",
+          "deadline": "2026-11-16",
+          "function": "Strategy",
+          "why": "12-month Universal Pictures International commercial-strategy internship from 5 Jul 2027: cinema-client trading and performance metrics across EMEA/APAC/LATAM; \u00a329,000; closes 16 Nov 2026.",
+          "url": "https://higherin.com/jobs/45811/nbcuniversal/commercial-strategy-operations-placement-2027",
+          "source": "Higherin (formerly RateMyPlacement)",
+          "first_seen": "2026-10-19",
+          "employee_cap": "over_20k",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://higherin.com/jobs/45811/nbcuniversal/commercial-strategy-operations-placement-2027",
+            "checked_at": "2026-10-26T09:10:33Z"
           }
         },
         {
@@ -447,28 +342,70 @@
             "status": "ok",
             "http_status": 200,
             "final_url": "https://jobs.softcat.com/jobs/vacancy/commercial-internship-2027-placement-year-4095-manchester/4115/description/",
-            "checked_at": "2026-10-19T09:09:59Z"
+            "checked_at": "2026-10-26T09:10:33Z"
           }
         },
         {
-          "title": "Sales Placement (TV Distribution) 2027",
-          "company": "NBCUniversal",
+          "title": "E-Commerce Placement",
+          "company": "Church & Dwight",
           "location": "London, UK",
           "region": "UK",
           "duration": "12 months",
-          "start": "2027-07-05",
-          "deadline": "2026-11-16",
+          "start": "2027-06",
+          "deadline": "2026-12-11",
           "function": "Commercial / GTM",
-          "why": "12-month TV Distribution sales internship from 5 Jul 2027: product lists, client updates and deal admin with marketing/legal/finance; \u00a329,000; closes 16 Nov 2026.",
-          "url": "https://higherin.com/jobs/45919/nbcuniversal/sales-placement-tv-distribution-2027",
+          "why": "NEW 12-month hybrid e-commerce sales/digital-marketing IP in London: retailer execution, search, content and listings; closes 11 Dec 2026. Church & Dwight ~5,550 people.",
+          "url": "https://higherin.com/jobs/44986/church-dwight/e-commerce-placement",
           "source": "Higherin (formerly RateMyPlacement)",
+          "first_seen": "2026-10-26",
+          "employee_cap": "under_20k",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://higherin.com/jobs/44986/church-dwight/e-commerce-placement",
+            "checked_at": "2026-10-26T09:10:34Z"
+          }
+        },
+        {
+          "title": "2027 Advisory Industrial Placement Programme",
+          "company": "BDO",
+          "location": "London / Reading, UK",
+          "region": "UK",
+          "duration": "12 months",
+          "start": "2027-09-20",
+          "deadline": "2026-11-15",
+          "function": "Consulting",
+          "why": "12-month advisory IP from 20 Sep 2027: restructuring, forensics or BSO; Year 2 on a four-year degree; 2:2 any discipline; \u00a328,800\u2013\u00a329,700; closes 15 Nov 2026.",
+          "url": "https://careers.bdo.co.uk/en/job/london/2027-advisory-industrial-placement-programme/1469/45085583040",
+          "source": "BDO placements and internships",
+          "first_seen": "2026-10-05",
+          "employee_cap": "over_20k",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://careers.bdo.co.uk/en/job/london/2027-advisory-industrial-placement-programme/1469/45085583040",
+            "checked_at": "2026-10-26T09:10:34Z"
+          }
+        },
+        {
+          "title": "Undergraduate Placement Year 2027 - Marketing Communications Intern",
+          "company": "Bosch",
+          "location": "Denham, UK",
+          "region": "UK",
+          "duration": "12 months",
+          "start": "2027-06",
+          "deadline": "unknown (applications open)",
+          "function": "Marketing",
+          "why": "12-month marketing & communications intern from June 2027 at Denham: digital ads, social, newsletters, website content and events; marketing/business/comms degree.",
+          "url": "https://jobs.bosch.com/en-gb/job/REF298069B-marketing-communications-intern",
+          "source": "Bosch UK jobs",
           "first_seen": "2026-10-19",
           "employee_cap": "over_20k",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://higherin.com/jobs/45919/nbcuniversal/sales-placement-tv-distribution-2027",
-            "checked_at": "2026-10-19T09:09:59Z"
+            "final_url": "https://jobs.bosch.com/en-gb/job/REF298069B-marketing-communications-intern",
+            "checked_at": "2026-10-26T09:10:35Z"
           }
         },
         {
@@ -489,7 +426,70 @@
             "status": "ok",
             "http_status": 200,
             "final_url": "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/XMLNAME-2027-Industry-Placement--Economic---Financial-Consulting_JR260719",
-            "checked_at": "2026-10-19T09:10:00Z"
+            "checked_at": "2026-10-26T09:10:36Z"
+          }
+        },
+        {
+          "title": "January 2027 Intake | Retail and Trade Marketing Internships",
+          "company": "LVMH Perfumes & Cosmetics",
+          "location": "Madrid, Spain",
+          "region": "International",
+          "duration": "12 months",
+          "start": "2027-01-04",
+          "deadline": "unknown (applications open)",
+          "function": "Marketing",
+          "why": "NEW 12-month trade/retail-marketing internships at LVMH Beauty Iberia and LOEWE Perfumes from 4 Jan 2027: POS, activations and El Corte Ingl\u00e9s retail marketing. International year-abroad option.",
+          "url": "https://www.lvmh.com/en/join-us/our-job-offers/SSCPC02540",
+          "source": "LVMH job offers",
+          "first_seen": "2026-10-26",
+          "employee_cap": "over_20k",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://www.lvmh.com/en/join-us/our-job-offers/SSCPC02540",
+            "checked_at": "2026-10-26T09:10:36Z"
+          }
+        },
+        {
+          "title": "Trade Marketing Placement 2027",
+          "company": "NBCUniversal",
+          "location": "London, UK",
+          "region": "UK",
+          "duration": "12 months",
+          "start": "2027-07-05",
+          "deadline": "2026-11-16",
+          "function": "Marketing",
+          "why": "12-month trade-marketing internship from 5 Jul 2027: exhibitor support, creative workflow and title launches; \u00a329,000; closes 16 Nov 2026.",
+          "url": "https://higherin.com/jobs/45924/nbcuniversal/trade-marketing-placement-2027",
+          "source": "Higherin (formerly RateMyPlacement)",
+          "first_seen": "2026-10-12",
+          "employee_cap": "over_20k",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://higherin.com/jobs/45924/nbcuniversal/trade-marketing-placement-2027",
+            "checked_at": "2026-10-26T09:10:36Z"
+          }
+        },
+        {
+          "title": "Consumer Engagement Placement",
+          "company": "Church & Dwight",
+          "location": "London, UK",
+          "region": "UK",
+          "duration": "12 months",
+          "start": "2027-06",
+          "deadline": "2026-12-11",
+          "function": "Marketing",
+          "why": "NEW 12-month hybrid consumer-engagement IP in London from June 2027: feedback, claims and engagement strategy; business/comms degree; closes 11 Dec 2026. Church & Dwight ~5,550 people.",
+          "url": "https://higherin.com/jobs/44980/church-dwight/consumer-engagement-placement",
+          "source": "Higherin (formerly RateMyPlacement)",
+          "first_seen": "2026-10-26",
+          "employee_cap": "under_20k",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://higherin.com/jobs/44980/church-dwight/consumer-engagement-placement",
+            "checked_at": "2026-10-26T09:10:37Z"
           }
         }
       ]
@@ -518,28 +518,91 @@
             "status": "ok",
             "http_status": 200,
             "final_url": "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/XMLNAME-2027-Industry-Placement--Marketing--Events-_JR260648",
-            "checked_at": "2026-10-19T09:09:53Z"
+            "checked_at": "2026-10-26T09:10:27Z"
           }
         },
         {
-          "title": "2027 Industry Placement, Economic & Financial Consulting",
-          "company": "FTI Consulting",
+          "title": "2027 Industrial Placement - Consulting (Strategy & Economics) - London",
+          "company": "PA Consulting",
           "location": "London, UK",
           "region": "UK",
           "duration": "12 months",
-          "start": "2027-09-06",
-          "deadline": "2026-10-29",
+          "start": "2027-07",
+          "deadline": "unknown (rolling; opened late October 2026)",
           "function": "Consulting",
-          "why": "12-month Economic & Financial Consulting placement in London from 6 Sep 2027 to 25 Aug 2028; any degree if numerate; 2:1; graduate 2029; closes 29 Oct 2026. FTI ~8,100 people.",
-          "url": "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/XMLNAME-2027-Industry-Placement--Economic---Financial-Consulting_JR260719",
-          "source": "FTI Consulting careers",
-          "first_seen": "2026-10-19",
+          "why": "NEW 12-month strategy/economics consulting IP from July 2027 at London Victoria: growth plans, capital allocation and market analysis; any degree graduating 2029; \u00a328,860. PA ~4,000 people.",
+          "url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-strategy-economics-london-744000157427508",
+          "source": "PA Consulting UK industrial placements",
+          "first_seen": "2026-10-26",
           "employee_cap": "under_20k",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/XMLNAME-2027-Industry-Placement--Economic---Financial-Consulting_JR260719",
-            "checked_at": "2026-10-19T09:10:00Z"
+            "final_url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-strategy-economics-london-744000157427508",
+            "checked_at": "2026-10-26T09:10:28Z"
+          }
+        },
+        {
+          "title": "2027 Industrial Placement - Consulting (Business Design & Transformation) - London",
+          "company": "PA Consulting",
+          "location": "London, UK",
+          "region": "UK",
+          "duration": "12 months",
+          "start": "2027-07",
+          "deadline": "unknown (rolling; opened 22 Oct 2026)",
+          "function": "Consulting",
+          "why": "NEW 12-month business-design/transformation consulting IP from July 2027: operating models and large-scale change; any degree graduating 2029; \u00a328,860. PA ~4,000 people.",
+          "url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-business-design-transformation-london-744000157052305",
+          "source": "PA Consulting UK industrial placements",
+          "first_seen": "2026-10-26",
+          "employee_cap": "under_20k",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-business-design-transformation-london-744000157052305",
+            "checked_at": "2026-10-26T09:10:28Z"
+          }
+        },
+        {
+          "title": "2027 Industrial Placement - Consulting (Operations & Improvement) - London",
+          "company": "PA Consulting",
+          "location": "London, UK",
+          "region": "UK",
+          "duration": "12 months",
+          "start": "2027-07",
+          "deadline": "unknown (rolling; opened 23 Oct 2026)",
+          "function": "Consulting",
+          "why": "NEW 12-month operations/improvement consulting IP from July 2027: process, supply-chain and customer-delivery work; any degree graduating 2029; \u00a328,860. PA ~4,000 people.",
+          "url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-operations-improvement-london-744000157424874",
+          "source": "PA Consulting UK industrial placements",
+          "first_seen": "2026-10-26",
+          "employee_cap": "under_20k",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-operations-improvement-london-744000157424874",
+            "checked_at": "2026-10-26T09:10:32Z"
+          }
+        },
+        {
+          "title": "2027 Industrial Placement - Consulting (Agile) - London",
+          "company": "PA Consulting",
+          "location": "London, UK",
+          "region": "UK",
+          "duration": "12 months",
+          "start": "2027-07",
+          "deadline": "unknown (rolling; opened late October 2026)",
+          "function": "Consulting",
+          "why": "NEW 12-month Agile consulting IP from July 2027 at London Victoria: agile transformation and client change work; any degree graduating 2029. PA ~4,000 people.",
+          "url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-agile-london-744000157427258",
+          "source": "PA Consulting UK industrial placements",
+          "first_seen": "2026-10-26",
+          "employee_cap": "under_20k",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-agile-london-744000157427258",
+            "checked_at": "2026-10-26T09:10:37Z"
           }
         },
         {
@@ -560,7 +623,91 @@
             "status": "ok",
             "http_status": 200,
             "final_url": "https://jobs.softcat.com/jobs/vacancy/commercial-internship-2027-placement-year-4095-manchester/4115/description/",
-            "checked_at": "2026-10-19T09:09:59Z"
+            "checked_at": "2026-10-26T09:10:33Z"
+          }
+        },
+        {
+          "title": "2027 Industry Placement, Economic & Financial Consulting",
+          "company": "FTI Consulting",
+          "location": "London, UK",
+          "region": "UK",
+          "duration": "12 months",
+          "start": "2027-09-06",
+          "deadline": "2026-10-29",
+          "function": "Consulting",
+          "why": "12-month Economic & Financial Consulting placement in London from 6 Sep 2027 to 25 Aug 2028; any degree if numerate; 2:1; graduate 2029; closes 29 Oct 2026. FTI ~8,100 people.",
+          "url": "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/XMLNAME-2027-Industry-Placement--Economic---Financial-Consulting_JR260719",
+          "source": "FTI Consulting careers",
+          "first_seen": "2026-10-19",
+          "employee_cap": "under_20k",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/XMLNAME-2027-Industry-Placement--Economic---Financial-Consulting_JR260719",
+            "checked_at": "2026-10-26T09:10:36Z"
+          }
+        },
+        {
+          "title": "E-Commerce Placement",
+          "company": "Church & Dwight",
+          "location": "London, UK",
+          "region": "UK",
+          "duration": "12 months",
+          "start": "2027-06",
+          "deadline": "2026-12-11",
+          "function": "Commercial / GTM",
+          "why": "NEW 12-month hybrid e-commerce sales/digital-marketing IP in London: retailer execution, search, content and listings; closes 11 Dec 2026. Church & Dwight ~5,550 people.",
+          "url": "https://higherin.com/jobs/44986/church-dwight/e-commerce-placement",
+          "source": "Higherin (formerly RateMyPlacement)",
+          "first_seen": "2026-10-26",
+          "employee_cap": "under_20k",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://higherin.com/jobs/44986/church-dwight/e-commerce-placement",
+            "checked_at": "2026-10-26T09:10:34Z"
+          }
+        },
+        {
+          "title": "Consumer Engagement Placement",
+          "company": "Church & Dwight",
+          "location": "London, UK",
+          "region": "UK",
+          "duration": "12 months",
+          "start": "2027-06",
+          "deadline": "2026-12-11",
+          "function": "Marketing",
+          "why": "NEW 12-month hybrid consumer-engagement IP in London from June 2027: feedback, claims and engagement strategy; business/comms degree; closes 11 Dec 2026. Church & Dwight ~5,550 people.",
+          "url": "https://higherin.com/jobs/44980/church-dwight/consumer-engagement-placement",
+          "source": "Higherin (formerly RateMyPlacement)",
+          "first_seen": "2026-10-26",
+          "employee_cap": "under_20k",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://higherin.com/jobs/44980/church-dwight/consumer-engagement-placement",
+            "checked_at": "2026-10-26T09:10:37Z"
+          }
+        },
+        {
+          "title": "2027 Industrial Placement - Consulting (Delivery) - London",
+          "company": "PA Consulting",
+          "location": "London, UK",
+          "region": "UK",
+          "duration": "12 months",
+          "start": "2027-07",
+          "deadline": "unknown (rolling; opened late October 2026)",
+          "function": "Consulting",
+          "why": "NEW 12-month Delivery consulting IP from July 2027: project/programme work across health, energy and defence; any degree graduating 2029; \u00a328,860. PA ~4,000 people.",
+          "url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-delivery-london-744000157399384",
+          "source": "PA Consulting UK industrial placements",
+          "first_seen": "2026-10-26",
+          "employee_cap": "under_20k",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-delivery-london-744000157399384",
+            "checked_at": "2026-10-26T09:10:38Z"
           }
         },
         {
@@ -581,7 +728,7 @@
             "status": "ok",
             "http_status": 200,
             "final_url": "https://higherin.com/jobs/43185/church-dwight/register-your-interest-marketing-placement-2027",
-            "checked_at": "2026-10-19T09:10:00Z"
+            "checked_at": "2026-10-26T09:10:39Z"
           }
         },
         {
@@ -602,154 +749,49 @@
             "status": "ok",
             "http_status": 200,
             "final_url": "https://ukgrantt.wd3.myworkdayjobs.com/en-US/TraineeCareersGrantThornton/job/Tax-12-Month-Placement-Programme--Summer-2027----London_TRN27_201",
-            "checked_at": "2026-10-19T09:10:01Z"
+            "checked_at": "2026-10-26T09:10:39Z"
           }
         },
         {
-          "title": "Insolvency and Asset Recovery 12 Month Placement (Summer 2027)",
+          "title": "Tax 12 Month Placement Programme (Summer 2027) - Birmingham",
           "company": "Grant Thornton UK",
-          "location": "London, UK",
+          "location": "Birmingham, UK",
           "region": "UK",
           "duration": "12 months",
           "start": "2027",
-          "deadline": "unknown (applications open)",
+          "deadline": "unknown (applications open; rolling)",
           "function": "Finance",
-          "why": "12-month strategic-advisory placement (transactions, restructuring, asset recovery).",
-          "url": "https://www.grantthornton.co.uk/careers/early-careers-job-search/insolvency-and-asset-recovery-12-month-placement-programme-summer-2027----london_trn27_192/",
+          "why": "NEW 12-month tax sandwich in Birmingham; salary listed at \u00a329,000; rolling close. Grant Thornton UK ~6,000 people.",
+          "url": "https://www.grantthornton.co.uk/careers/early-careers-job-search/tax-12-month-placement-programme--summer-2027---birmingham_trn27_2022/",
           "source": "Grant Thornton internships and placements",
-          "first_seen": "2026-10-06",
+          "first_seen": "2026-10-26",
           "employee_cap": "under_20k",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://www.grantthornton.co.uk/careers/early-careers-job-search/insolvency-and-asset-recovery-12-month-placement-programme-summer-2027----london_trn27_192/",
-            "checked_at": "2026-10-19T09:10:01Z"
+            "final_url": "https://www.grantthornton.co.uk/careers/early-careers-job-search/tax-12-month-placement-programme--summer-2027---birmingham_trn27_2022/",
+            "checked_at": "2026-10-26T09:10:40Z"
           }
         },
         {
-          "title": "Deal Advisory \u2014 Placement Student 2027",
-          "company": "Menzies LLP",
-          "location": "London, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027",
-          "deadline": "unknown (applications open)",
-          "function": "Consulting",
-          "why": "12-month deal-advisory sandwich in London at an independent firm (~1,100 people).",
-          "url": "https://menzies.pinpointhq.com/en/postings/378239ee-5b71-4886-af47-236693e29acf",
-          "source": "Menzies LLP careers",
-          "first_seen": "2026-10-06",
-          "employee_cap": "under_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://menzies.pinpointhq.com/en/postings/378239ee-5b71-4886-af47-236693e29acf",
-            "checked_at": "2026-10-19T09:10:01Z"
-          }
-        },
-        {
-          "title": "Public Sector Audit 12 Month Placement (Summer 2027)",
-          "company": "Grant Thornton UK",
-          "location": "London, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027",
-          "deadline": "unknown (applications open)",
-          "function": "Finance",
-          "why": "12-month public-sector audit placement; salary listed at \u00a331,750.",
-          "url": "https://www.grantthornton.co.uk/careers/early-careers-job-search/public-sector-audit-12-month-placement-programme-summer-2027---london_trn27_222/",
-          "source": "Grant Thornton internships and placements",
-          "first_seen": "2026-10-06",
-          "employee_cap": "under_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://www.grantthornton.co.uk/careers/early-careers-job-search/public-sector-audit-12-month-placement-programme-summer-2027---london_trn27_222/",
-            "checked_at": "2026-10-19T09:10:02Z"
-          }
-        },
-        {
-          "title": "Tax Placement \u2014 Manchester \u2014 September 2027",
+          "title": "Tax Placement \u2014 Nottingham \u2014 September 2027",
           "company": "RSM UK",
-          "location": "Manchester, UK",
+          "location": "Nottingham, UK",
           "region": "UK",
           "duration": "12 months",
           "start": "2027-09-14",
           "deadline": "unknown (applications open; start date mandatory)",
           "function": "Finance",
-          "why": "12-month paid tax sandwich in Manchester (corporate tax, VAT, private client); start 14 Sep 2027 is mandatory. RSM UK ~6,300 people.",
-          "url": "https://www.rsmuk.com/careers/jobs/ec309",
-          "source": "RSM UK early careers",
-          "first_seen": "2026-10-19",
-          "employee_cap": "under_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://www.rsmuk.com/careers/jobs/ec309",
-            "checked_at": "2026-10-19T09:10:02Z"
-          }
-        },
-        {
-          "title": "Audit Placement \u2014 London \u2014 September 2027",
-          "company": "RSM UK",
-          "location": "London, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027-09-14",
-          "deadline": "unknown (applications open; start date mandatory)",
-          "function": "Finance",
-          "why": "12-month paid external-audit sandwich placement in London. RSM UK ~6,300 people.",
-          "url": "https://www.rsmuk.com/careers/jobs/ec199",
+          "why": "12-month paid tax sandwich placement (corporate tax, VAT, private client). RSM UK ~6,300 people.",
+          "url": "https://www.rsmuk.com/careers/jobs/ec81",
           "source": "RSM UK early careers",
           "first_seen": "2026-10-06",
           "employee_cap": "under_20k",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://www.rsmuk.com/careers/jobs/ec199",
-            "checked_at": "2026-10-19T09:10:02Z"
-          }
-        },
-        {
-          "title": "Audit & Assurance \u2014 Placement Student 2027",
-          "company": "Menzies LLP",
-          "location": "Gatwick, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027",
-          "deadline": "unknown (applications open)",
-          "function": "Finance",
-          "why": "12-month audit sandwich at Gatwick; \u00a326,230; independent B Corp (~1,100 people).",
-          "url": "https://menzies.pinpointhq.com/en/postings/f90aa516-3c49-48b2-b77f-e97fadb7ac26",
-          "source": "Menzies LLP careers",
-          "first_seen": "2026-10-12",
-          "employee_cap": "under_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://menzies.pinpointhq.com/en/postings/f90aa516-3c49-48b2-b77f-e97fadb7ac26",
-            "checked_at": "2026-10-19T09:10:02Z"
-          }
-        },
-        {
-          "title": "Accountancy \u2014 Placement Student 2027",
-          "company": "Menzies LLP",
-          "location": "Staines-upon-Thames, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027",
-          "deadline": "unknown (applications open)",
-          "function": "Finance",
-          "why": "12-month rotation across audit, tax and accounts at a mid-size independent firm.",
-          "url": "https://menzies.pinpointhq.com/en/postings/06239942-7a5e-4652-96ca-46bff6c6726d",
-          "source": "Menzies LLP careers",
-          "first_seen": "2026-10-06",
-          "employee_cap": "under_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://menzies.pinpointhq.com/en/postings/06239942-7a5e-4652-96ca-46bff6c6726d",
-            "checked_at": "2026-10-19T09:10:03Z"
+            "final_url": "https://www.rsmuk.com/careers/jobs/ec81",
+            "checked_at": "2026-10-26T09:10:40Z"
           }
         },
         {
@@ -770,91 +812,70 @@
             "status": "ok",
             "http_status": 200,
             "final_url": "https://higherin.com/jobs/44981/church-dwight/supply-planning-placement",
-            "checked_at": "2026-10-19T09:10:04Z"
+            "checked_at": "2026-10-26T09:10:40Z"
           }
         },
         {
-          "title": "Private Capital Audit 12 Month Placement Programme (Summer 2027) - Southampton",
-          "company": "Grant Thornton UK",
-          "location": "Southampton, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027",
-          "deadline": "unknown (applications open; rolling)",
-          "function": "Finance",
-          "why": "12-month private-capital audit sandwich in Southampton; salary listed at \u00a329,300; rolling close.",
-          "url": "https://www.grantthornton.co.uk/careers/early-careers-job-search/private-capital-audit-12-month-placement-programme-summer-2027---southampton_trn27_221/",
-          "source": "Grant Thornton internships and placements",
-          "first_seen": "2026-10-19",
-          "employee_cap": "under_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://www.grantthornton.co.uk/careers/early-careers-job-search/private-capital-audit-12-month-placement-programme-summer-2027---southampton_trn27_221/",
-            "checked_at": "2026-10-19T09:10:04Z"
-          }
-        },
-        {
-          "title": "Tax Placement \u2014 Nottingham \u2014 September 2027",
+          "title": "Audit Placement \u2014 London \u2014 September 2027",
           "company": "RSM UK",
-          "location": "Nottingham, UK",
+          "location": "London, UK",
           "region": "UK",
           "duration": "12 months",
           "start": "2027-09-14",
           "deadline": "unknown (applications open; start date mandatory)",
           "function": "Finance",
-          "why": "12-month paid tax sandwich placement (corporate tax, VAT, private client).",
-          "url": "https://www.rsmuk.com/careers/jobs/ec81",
+          "why": "12-month paid external-audit sandwich placement in London. RSM UK ~6,300 people.",
+          "url": "https://www.rsmuk.com/careers/jobs/ec199",
           "source": "RSM UK early careers",
           "first_seen": "2026-10-06",
           "employee_cap": "under_20k",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://www.rsmuk.com/careers/jobs/ec81",
-            "checked_at": "2026-10-19T09:10:04Z"
+            "final_url": "https://www.rsmuk.com/careers/jobs/ec199",
+            "checked_at": "2026-10-26T09:10:41Z"
           }
         },
         {
-          "title": "Audit Placement \u2014 Leeds \u2014 September 2027",
-          "company": "RSM UK",
-          "location": "Leeds, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027-09-14",
-          "deadline": "unknown (applications open; start date mandatory)",
-          "function": "Finance",
-          "why": "12-month paid external-audit sandwich in Leeds; start 14 Sep 2027 is mandatory.",
-          "url": "https://www.rsmuk.com/careers/jobs/ec117",
-          "source": "RSM UK early careers",
-          "first_seen": "2026-10-19",
-          "employee_cap": "under_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://www.rsmuk.com/careers/jobs/ec117",
-            "checked_at": "2026-10-19T09:10:04Z"
-          }
-        },
-        {
-          "title": "Industrial Placements 2027",
-          "company": "Forvis Mazars",
-          "location": "UK",
+          "title": "Deal Advisory \u2014 Placement Student 2027",
+          "company": "Menzies LLP",
+          "location": "London, UK",
           "region": "UK",
           "duration": "12 months",
           "start": "2027",
-          "deadline": "unknown (register interest until applications open)",
+          "deadline": "unknown (applications open)",
           "function": "Finance",
-          "why": "12-month Audit, Tax or Advisory industrial placement. Forvis Mazars UK ~3,500 people.",
-          "url": "https://higherin.com/jobs/43792/forvis-mazars/register-your-interest-industrial-placements-2027",
-          "source": "Higherin (formerly RateMyPlacement)",
+          "why": "12-month deal-advisory sandwich in London at an independent B Corp (~1,100 people).",
+          "url": "https://menzies.pinpointhq.com/en/postings/378239ee-5b71-4886-af47-236693e29acf",
+          "source": "Menzies LLP careers",
           "first_seen": "2026-10-06",
           "employee_cap": "under_20k",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://higherin.com/jobs/43792/forvis-mazars/register-your-interest-industrial-placements-2027",
-            "checked_at": "2026-10-19T09:10:04Z"
+            "final_url": "https://menzies.pinpointhq.com/en/postings/378239ee-5b71-4886-af47-236693e29acf",
+            "checked_at": "2026-10-26T09:10:41Z"
+          }
+        },
+        {
+          "title": "Audit & Assurance \u2014 Placement Student 2027",
+          "company": "Menzies LLP",
+          "location": "Gatwick, UK",
+          "region": "UK",
+          "duration": "12 months",
+          "start": "2027",
+          "deadline": "unknown (applications open)",
+          "function": "Finance",
+          "why": "12-month audit sandwich at Gatwick; \u00a326,230; independent B Corp (~1,100 people).",
+          "url": "https://menzies.pinpointhq.com/en/postings/f90aa516-3c49-48b2-b77f-e97fadb7ac26",
+          "source": "Menzies LLP careers",
+          "first_seen": "2026-10-12",
+          "employee_cap": "under_20k",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://menzies.pinpointhq.com/en/postings/f90aa516-3c49-48b2-b77f-e97fadb7ac26",
+            "checked_at": "2026-10-26T09:10:41Z"
           }
         },
         {
@@ -875,181 +896,34 @@
             "status": "ok",
             "http_status": 200,
             "final_url": "https://higherin.com/jobs/42974/sobi-swedish-orphan-biovitrum-ltd/register-your-interest-commercial-excellence-placement-2027",
-            "checked_at": "2026-10-19T09:10:05Z"
+            "checked_at": "2026-10-26T09:10:42Z"
           }
         },
         {
-          "title": "Restructuring & Insolvency \u2014 Placement Student 2027",
-          "company": "Menzies LLP",
-          "location": "Cardiff, UK",
+          "title": "Industrial Placements 2027",
+          "company": "Forvis Mazars",
+          "location": "UK",
           "region": "UK",
           "duration": "12 months",
           "start": "2027",
-          "deadline": "unknown (applications open)",
+          "deadline": "unknown (register interest until applications open)",
           "function": "Finance",
-          "why": "12-month restructuring and insolvency sandwich in Cardiff at an independent firm (~1,100 people).",
-          "url": "https://menzies.pinpointhq.com/en/postings/20174404-2954-48e9-8aa3-8f91b94c7f0c",
-          "source": "Menzies LLP careers",
-          "first_seen": "2026-10-12",
+          "why": "12-month Audit, Tax or Advisory industrial placement. Forvis Mazars UK ~3,500 people.",
+          "url": "https://higherin.com/jobs/43792/forvis-mazars/register-your-interest-industrial-placements-2027",
+          "source": "Higherin (formerly RateMyPlacement)",
+          "first_seen": "2026-10-06",
           "employee_cap": "under_20k",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://menzies.pinpointhq.com/en/postings/20174404-2954-48e9-8aa3-8f91b94c7f0c",
-            "checked_at": "2026-10-19T09:10:06Z"
-          }
-        },
-        {
-          "title": "Public Sector Audit 12 Month Placement Programme (Summer 2027) - Birmingham",
-          "company": "Grant Thornton UK",
-          "location": "Birmingham, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027",
-          "deadline": "unknown (applications open)",
-          "function": "Finance",
-          "why": "12-month public-sector audit sandwich in Birmingham; salary listed at \u00a329,000.",
-          "url": "https://www.grantthornton.co.uk/careers/early-careers-job-search/public-sector-audit-12-month-placement-programme-summer-2027---birmingham_trn27_223/",
-          "source": "Grant Thornton internships and placements",
-          "first_seen": "2026-10-12",
-          "employee_cap": "under_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://www.grantthornton.co.uk/careers/early-careers-job-search/public-sector-audit-12-month-placement-programme-summer-2027---birmingham_trn27_223/",
-            "checked_at": "2026-10-19T09:10:06Z"
+            "final_url": "https://higherin.com/jobs/43792/forvis-mazars/register-your-interest-industrial-placements-2027",
+            "checked_at": "2026-10-26T09:10:42Z"
           }
         }
       ]
     }
   },
   "offers": [
-    {
-      "title": "Marketing Industrial Placement 2027",
-      "company": "L'Or\u00e9al",
-      "location": "White City, London, UK",
-      "region": "UK",
-      "duration": "12 months",
-      "start": "2027-06-28",
-      "deadline": "2026-10-23",
-      "function": "Marketing",
-      "why": "12-month brand-marketing IP from 28 Jun 2027 at White City: campaigns, UK adaptation, competitor analysis; Year 2 with a placement year; \u00a326,950; closes 23 Oct 2026.",
-      "url": "https://careers.loreal.com/en/job/london/marketing-industrial-placement-2027/3456/45784492672",
-      "source": "L'Or\u00e9al Careers UK intern",
-      "first_seen": "2026-10-12",
-      "employee_cap": "over_20k",
-      "link": {
-        "status": "ok",
-        "http_status": 200,
-        "final_url": "https://careers.loreal.com/en/job/london/marketing-industrial-placement-2027/3456/45784492672",
-        "checked_at": "2026-10-19T09:09:50Z"
-      }
-    },
-    {
-      "title": "Digital Marketing Industrial Placement 2027",
-      "company": "L'Or\u00e9al",
-      "location": "White City, London, UK",
-      "region": "UK",
-      "duration": "12 months",
-      "start": "2027-06-28",
-      "deadline": "2026-10-23",
-      "function": "Marketing",
-      "why": "12-month digital/e-commerce IP from 28 Jun 2027: social, websites, SEO and retailer catalogues; Year 2 placement students; \u00a326,950; closes 23 Oct 2026.",
-      "url": "https://careers.loreal.com/en/job/london/digital-marketing-industrial-placement-2027/3456/45784492736",
-      "source": "L'Or\u00e9al Careers UK intern",
-      "first_seen": "2026-10-12",
-      "employee_cap": "over_20k",
-      "link": {
-        "status": "ok",
-        "http_status": 200,
-        "final_url": "https://careers.loreal.com/en/job/london/digital-marketing-industrial-placement-2027/3456/45784492736",
-        "checked_at": "2026-10-19T09:09:50Z"
-      }
-    },
-    {
-      "title": "Commercial Industrial Placement 2027",
-      "company": "L'Or\u00e9al",
-      "location": "White City, London, UK",
-      "region": "UK",
-      "duration": "12 months",
-      "start": "2027-06-28",
-      "deadline": "2026-10-23",
-      "function": "Commercial / GTM",
-      "why": "12-month sales/account-management IP from 28 Jun 2027: retailer JBPs, promo plans and share tracking; Year 2; \u00a326,950; closes 23 Oct 2026.",
-      "url": "https://careers.loreal.com/en/job/london/commercial-industrial-placement-2027/3456/45784492608",
-      "source": "L'Or\u00e9al Careers UK intern",
-      "first_seen": "2026-10-12",
-      "employee_cap": "over_20k",
-      "link": {
-        "status": "ok",
-        "http_status": 200,
-        "final_url": "https://careers.loreal.com/en/job/london/commercial-industrial-placement-2027/3456/45784492608",
-        "checked_at": "2026-10-19T09:09:51Z"
-      }
-    },
-    {
-      "title": "Commercial Business & Marketing Industrial Placement Student, 2027",
-      "company": "Haleon",
-      "location": "London, UK",
-      "region": "UK",
-      "duration": "12 months",
-      "start": "2027-06-28",
-      "deadline": "2026-10-23",
-      "function": "Marketing",
-      "why": "12-month GB&I commercial/marketing IP from 28 Jun 2027: brand marketing, commercial analytics and campaigns; any degree; Year 2 England; \u00a328,860; closes 23 Oct 2026.",
-      "url": "https://gsknch.wd3.myworkdayjobs.com/en-US/GSKCareers/job/Commercial-Business---Marketing-Industrial-Placement-Student--2027--London--UK_547596",
-      "source": "Haleon industrial placements",
-      "first_seen": "2026-10-05",
-      "employee_cap": "over_20k",
-      "link": {
-        "status": "ok",
-        "http_status": 200,
-        "final_url": "https://gsknch.wd3.myworkdayjobs.com/en-US/GSKCareers/job/Commercial-Business---Marketing-Industrial-Placement-Student--2027--London--UK_547596",
-        "checked_at": "2026-10-19T09:09:52Z"
-      }
-    },
-    {
-      "title": "Marketing Assistant Industrial Placement, 2027",
-      "company": "Haleon",
-      "location": "Weybridge, UK",
-      "region": "UK",
-      "duration": "12 months",
-      "start": "2027-06-28",
-      "deadline": "2026-10-23",
-      "function": "Marketing",
-      "why": "12-month Global Expert Marketing IP from 28 Jun 2027: HCP campaigns, content and social for Sensodyne-class brands; any degree; \u00a328,860; Weybridge.",
-      "url": "https://gsknch.wd3.myworkdayjobs.com/en-US/GSKCareers/job/Marketing-Assistant-Industrial-Placement--2027--Weybridge--UK_547659",
-      "source": "Haleon industrial placements",
-      "first_seen": "2026-10-05",
-      "employee_cap": "over_20k",
-      "link": {
-        "status": "ok",
-        "http_status": 200,
-        "final_url": "https://gsknch.wd3.myworkdayjobs.com/en-US/GSKCareers/job/Marketing-Assistant-Industrial-Placement--2027--Weybridge--UK_547659",
-        "checked_at": "2026-10-19T09:09:53Z"
-      }
-    },
-    {
-      "title": "Marketing & Digital Communications Industrial Placement, 2027",
-      "company": "Haleon",
-      "location": "Weybridge, UK",
-      "region": "UK",
-      "duration": "12 months",
-      "start": "2027-06-28",
-      "deadline": "2026-10-23",
-      "function": "Marketing",
-      "why": "12-month Sensodyne & Pronamel digital-comms IP from 28 Jun 2027: owned channels, website and e-commerce content; business/marketing degrees useful.",
-      "url": "https://gsknch.wd3.myworkdayjobs.com/en-US/GSKCareers/job/Marketing---Digital-Communications-Industrial-Placement--2027--Weybridge--UK_547649",
-      "source": "Haleon industrial placements",
-      "first_seen": "2026-10-05",
-      "employee_cap": "over_20k",
-      "link": {
-        "status": "ok",
-        "http_status": 200,
-        "final_url": "https://gsknch.wd3.myworkdayjobs.com/en-US/GSKCareers/job/Marketing---Digital-Communications-Industrial-Placement--2027--Weybridge--UK_547649",
-        "checked_at": "2026-10-19T09:09:53Z"
-      }
-    },
     {
       "title": "2027 Industry Placement, Events and Marketing",
       "company": "FTI Consulting",
@@ -1068,7 +942,7 @@
         "status": "ok",
         "http_status": 200,
         "final_url": "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/XMLNAME-2027-Industry-Placement--Marketing--Events-_JR260648",
-        "checked_at": "2026-10-19T09:09:53Z"
+        "checked_at": "2026-10-26T09:10:27Z"
       }
     },
     {
@@ -1089,91 +963,91 @@
         "status": "ok",
         "http_status": 200,
         "final_url": "https://higherin.com/jobs/46114/deloitte/business-transformation-consulting-placement-2027-marketing-commerce",
-        "checked_at": "2026-10-19T09:09:53Z"
+        "checked_at": "2026-10-26T09:10:27Z"
       }
     },
     {
-      "title": "Industrial Placement - Sales & Marketing",
-      "company": "Bentley Motors",
-      "location": "Crewe, UK",
-      "region": "UK",
-      "duration": "12 months",
-      "start": "2027-08-16",
-      "deadline": "2026-10-23",
-      "function": "Marketing",
-      "why": "12-month Sales & Marketing events IP at Crewe from 16 Aug 2027: brand experiences, budgets and high-net-worth marketing; Business/Marketing degrees; \u00a325,500; closes 23 Oct 2026. VW Group subsidiary.",
-      "url": "https://careers.bentleymotors.com/job/Crewe-Industrial-Placement-Sales-&-Marketing/1445329333/",
-      "source": "Bentley Motors careers",
-      "first_seen": "2026-10-19",
-      "employee_cap": "over_20k",
-      "link": {
-        "status": "ok",
-        "http_status": 200,
-        "final_url": "https://careers.bentleymotors.com/job/Crewe-Industrial-Placement-Sales-&-Marketing/1445329333/",
-        "checked_at": "2026-10-19T09:09:54Z"
-      }
-    },
-    {
-      "title": "Marketing Placement 2027",
-      "company": "NBCUniversal",
+      "title": "2027 Industrial Placement - Consulting (Strategy & Economics) - London",
+      "company": "PA Consulting",
       "location": "London, UK",
       "region": "UK",
       "duration": "12 months",
-      "start": "2027-07-05",
-      "deadline": "2026-11-16",
-      "function": "Marketing",
-      "why": "12-month film/TV marketing internship from 5 Jul 2027: campaigns, social and media planning; \u00a329,000; 4 days in Central London; closes 16 Nov 2026.",
-      "url": "https://higherin.com/jobs/45908/nbcuniversal/marketing-placement-2027",
-      "source": "Higherin (formerly RateMyPlacement)",
-      "first_seen": "2026-10-12",
-      "employee_cap": "over_20k",
+      "start": "2027-07",
+      "deadline": "unknown (rolling; opened late October 2026)",
+      "function": "Consulting",
+      "why": "NEW 12-month strategy/economics consulting IP from July 2027 at London Victoria: growth plans, capital allocation and market analysis; any degree graduating 2029; \u00a328,860. PA ~4,000 people.",
+      "url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-strategy-economics-london-744000157427508",
+      "source": "PA Consulting UK industrial placements",
+      "first_seen": "2026-10-26",
+      "employee_cap": "under_20k",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://higherin.com/jobs/45908/nbcuniversal/marketing-placement-2027",
-        "checked_at": "2026-10-19T09:09:55Z"
+        "final_url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-strategy-economics-london-744000157427508",
+        "checked_at": "2026-10-26T09:10:28Z"
       }
     },
     {
-      "title": "Marketing, Promotions & Creative Placement 2027",
-      "company": "NBCUniversal",
+      "title": "2027 Industrial Placement - Consulting (Business Design & Transformation) - London",
+      "company": "PA Consulting",
       "location": "London, UK",
       "region": "UK",
       "duration": "12 months",
-      "start": "2027-07-05",
-      "deadline": "2026-11-16",
-      "function": "Marketing",
-      "why": "12-month UK Theatrical promotions and creative-services IP: brand partnerships and asset localisation; \u00a329,000; closes 16 Nov 2026.",
-      "url": "https://higherin.com/jobs/45909/nbcuniversal/marketing-promotions-creative-placement-2027",
-      "source": "Higherin (formerly RateMyPlacement)",
-      "first_seen": "2026-10-12",
-      "employee_cap": "over_20k",
+      "start": "2027-07",
+      "deadline": "unknown (rolling; opened 22 Oct 2026)",
+      "function": "Consulting",
+      "why": "NEW 12-month business-design/transformation consulting IP from July 2027: operating models and large-scale change; any degree graduating 2029; \u00a328,860. PA ~4,000 people.",
+      "url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-business-design-transformation-london-744000157052305",
+      "source": "PA Consulting UK industrial placements",
+      "first_seen": "2026-10-26",
+      "employee_cap": "under_20k",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://higherin.com/jobs/45909/nbcuniversal/marketing-promotions-creative-placement-2027",
-        "checked_at": "2026-10-19T09:09:55Z"
+        "final_url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-business-design-transformation-london-744000157052305",
+        "checked_at": "2026-10-26T09:10:28Z"
       }
     },
     {
-      "title": "Commercial Strategy & Operations Placement 2027",
-      "company": "NBCUniversal",
+      "title": "Aon Industrial Placement Programme 2027 - Marketing and Communications",
+      "company": "Aon",
       "location": "London, UK",
       "region": "UK",
       "duration": "12 months",
-      "start": "2027-07-05",
-      "deadline": "2026-11-16",
-      "function": "Strategy",
-      "why": "12-month Universal Pictures International commercial-strategy internship from 5 Jul 2027: cinema-client trading and performance metrics across EMEA/APAC/LATAM; \u00a329,000; closes 16 Nov 2026.",
-      "url": "https://higherin.com/jobs/45811/nbcuniversal/commercial-strategy-operations-placement-2027",
-      "source": "Higherin (formerly RateMyPlacement)",
-      "first_seen": "2026-10-19",
+      "start": "2027-09-01",
+      "deadline": "2026-12-07",
+      "function": "Marketing",
+      "why": "NEW 12-month marketing/comms IP from 1 Sep 2027: campaigns, brand, events, internal comms and media relations; 2:1 any degree (marketing/business useful); closes 7 Dec 2026.",
+      "url": "https://jobs.aon.com/jobs/107792?lang=en-us",
+      "source": "Aon UK internships",
+      "first_seen": "2026-10-26",
       "employee_cap": "over_20k",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://higherin.com/jobs/45811/nbcuniversal/commercial-strategy-operations-placement-2027",
-        "checked_at": "2026-10-19T09:09:56Z"
+        "final_url": "https://jobs.aon.com/jobs/107792?lang=en-us",
+        "checked_at": "2026-10-26T09:10:29Z"
+      }
+    },
+    {
+      "title": "Commercial Industrial Placement",
+      "company": "Carlsberg Britvic",
+      "location": "Hemel Hempstead, UK",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027-07-26",
+      "deadline": "2026-12-11",
+      "function": "Commercial / GTM",
+      "why": "NEW 12-month FMCG commercial IP from 26 Jul 2027: on-trade/off-trade account teams, retailer plans and performance analysis; business/marketing/economics; \u00a325,000; closes 11 Dec 2026.",
+      "url": "https://careers.carlsberg.com/CarlsbergMarstons/job/Hemel-Hempstead-Commercial-Industrial-Placement/1449099933/",
+      "source": "Carlsberg Britvic careers",
+      "first_seen": "2026-10-26",
+      "employee_cap": "over_20k",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://careers.carlsberg.com/CarlsbergMarstons/job/Hemel-Hempstead-Commercial-Industrial-Placement/1449099933/",
+        "checked_at": "2026-10-26T09:10:29Z"
       }
     },
     {
@@ -1194,53 +1068,11 @@
         "status": "ok",
         "http_status": 200,
         "final_url": "https://higherin.com/jobs/44067/hilton/2027-marketing-placement",
-        "checked_at": "2026-10-19T09:09:56Z"
+        "checked_at": "2026-10-26T09:10:30Z"
       }
     },
     {
-      "title": "Communications & Corporate Affairs Industrial Placement Student, 2027",
-      "company": "Haleon",
-      "location": "London, UK",
-      "region": "UK",
-      "duration": "12 months",
-      "start": "2027-06-28",
-      "deadline": "2026-10-23",
-      "function": "Marketing",
-      "why": "12-month Europe OU corporate-affairs IP from 28 Jun 2027: media monitoring, UK policy and internal comms; communications/politics degrees preferred; \u00a328,860.",
-      "url": "https://gsknch.wd3.myworkdayjobs.com/en-US/GSKCareers/job/Communications---Corporate-Affairs-Industrial-Placement-Student--2027--London--UK_547600",
-      "source": "Haleon industrial placements",
-      "first_seen": "2026-10-05",
-      "employee_cap": "over_20k",
-      "link": {
-        "status": "ok",
-        "http_status": 200,
-        "final_url": "https://gsknch.wd3.myworkdayjobs.com/en-US/GSKCareers/job/Communications---Corporate-Affairs-Industrial-Placement-Student--2027--London--UK_547600",
-        "checked_at": "2026-10-19T09:09:57Z"
-      }
-    },
-    {
-      "title": "Undergraduate Placement Year 2027 - Marketing Communications Intern",
-      "company": "Bosch",
-      "location": "Denham, UK",
-      "region": "UK",
-      "duration": "12 months",
-      "start": "2027-06",
-      "deadline": "unknown (applications open)",
-      "function": "Marketing",
-      "why": "12-month marketing & communications intern from June 2027 at Denham: digital ads, social, newsletters, website content and events; marketing/business/comms degree.",
-      "url": "https://jobs.bosch.com/en-gb/job/REF298069B-marketing-communications-intern",
-      "source": "Bosch UK jobs",
-      "first_seen": "2026-10-19",
-      "employee_cap": "over_20k",
-      "link": {
-        "status": "ok",
-        "http_status": 200,
-        "final_url": "https://jobs.bosch.com/en-gb/job/REF298069B-marketing-communications-intern",
-        "checked_at": "2026-10-19T09:09:57Z"
-      }
-    },
-    {
-      "title": "Trade Marketing Placement 2027",
+      "title": "Marketing Placement 2027",
       "company": "NBCUniversal",
       "location": "London, UK",
       "region": "UK",
@@ -1248,37 +1080,100 @@
       "start": "2027-07-05",
       "deadline": "2026-11-16",
       "function": "Marketing",
-      "why": "12-month trade-marketing internship from 5 Jul 2027: exhibitor support, creative workflow and title launches; \u00a329,000; closes 16 Nov 2026.",
-      "url": "https://higherin.com/jobs/45924/nbcuniversal/trade-marketing-placement-2027",
+      "why": "12-month film/TV marketing internship from 5 Jul 2027: campaigns, social and media planning; \u00a329,000; 4 days in Central London; closes 16 Nov 2026.",
+      "url": "https://higherin.com/jobs/45908/nbcuniversal/marketing-placement-2027",
       "source": "Higherin (formerly RateMyPlacement)",
       "first_seen": "2026-10-12",
       "employee_cap": "over_20k",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://higherin.com/jobs/45924/nbcuniversal/trade-marketing-placement-2027",
-        "checked_at": "2026-10-19T09:09:58Z"
+        "final_url": "https://higherin.com/jobs/45908/nbcuniversal/marketing-placement-2027",
+        "checked_at": "2026-10-26T09:10:30Z"
       }
     },
     {
-      "title": "2027 Advisory Industrial Placement Programme",
-      "company": "BDO",
-      "location": "London / Reading, UK",
+      "title": "Marketing, Promotions & Creative Placement 2027",
+      "company": "NBCUniversal",
+      "location": "London, UK",
       "region": "UK",
       "duration": "12 months",
-      "start": "2027-09-20",
-      "deadline": "2026-11-15",
-      "function": "Consulting",
-      "why": "12-month advisory IP from 20 Sep 2027: restructuring, forensics or BSO; Year 2 on a four-year degree; 2:2 any discipline; \u00a328,800\u2013\u00a329,700; closes 15 Nov 2026.",
-      "url": "https://careers.bdo.co.uk/en/job/london/2027-advisory-industrial-placement-programme/1469/45085583040",
-      "source": "BDO placements and internships",
-      "first_seen": "2026-10-05",
+      "start": "2027-07-05",
+      "deadline": "2026-11-16",
+      "function": "Marketing",
+      "why": "12-month UK Theatrical promotions and creative-services IP: brand partnerships and asset localisation; \u00a329,000; closes 16 Nov 2026.",
+      "url": "https://higherin.com/jobs/45909/nbcuniversal/marketing-promotions-creative-placement-2027",
+      "source": "Higherin (formerly RateMyPlacement)",
+      "first_seen": "2026-10-12",
       "employee_cap": "over_20k",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://careers.bdo.co.uk/en/job/london/2027-advisory-industrial-placement-programme/1469/45085583040",
-        "checked_at": "2026-10-19T09:09:59Z"
+        "final_url": "https://higherin.com/jobs/45909/nbcuniversal/marketing-promotions-creative-placement-2027",
+        "checked_at": "2026-10-26T09:10:31Z"
+      }
+    },
+    {
+      "title": "2027 Industrial Placement - Consulting (Operations & Improvement) - London",
+      "company": "PA Consulting",
+      "location": "London, UK",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027-07",
+      "deadline": "unknown (rolling; opened 23 Oct 2026)",
+      "function": "Consulting",
+      "why": "NEW 12-month operations/improvement consulting IP from July 2027: process, supply-chain and customer-delivery work; any degree graduating 2029; \u00a328,860. PA ~4,000 people.",
+      "url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-operations-improvement-london-744000157424874",
+      "source": "PA Consulting UK industrial placements",
+      "first_seen": "2026-10-26",
+      "employee_cap": "under_20k",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-operations-improvement-london-744000157424874",
+        "checked_at": "2026-10-26T09:10:32Z"
+      }
+    },
+    {
+      "title": "Commercial Placement (Ad & Affiliate Sales) 2027",
+      "company": "NBCUniversal",
+      "location": "London, UK",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027-07-05",
+      "deadline": "2026-11-16",
+      "function": "Commercial / GTM",
+      "why": "NEW 12-month EMEA networks/DTC commercial IP from 5 Jul 2027: affiliate account management, deal memos and market research; \u00a329,000; closes 16 Nov 2026.",
+      "url": "https://higherin.com/jobs/45810/nbcuniversal/commercial-placement-ad-affiliate-sales-2027",
+      "source": "Higherin (formerly RateMyPlacement)",
+      "first_seen": "2026-10-26",
+      "employee_cap": "over_20k",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://higherin.com/jobs/45810/nbcuniversal/commercial-placement-ad-affiliate-sales-2027",
+        "checked_at": "2026-10-26T09:10:32Z"
+      }
+    },
+    {
+      "title": "Commercial Strategy & Operations Placement 2027",
+      "company": "NBCUniversal",
+      "location": "London, UK",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027-07-05",
+      "deadline": "2026-11-16",
+      "function": "Strategy",
+      "why": "12-month Universal Pictures International commercial-strategy internship from 5 Jul 2027: cinema-client trading and performance metrics across EMEA/APAC/LATAM; \u00a329,000; closes 16 Nov 2026.",
+      "url": "https://higherin.com/jobs/45811/nbcuniversal/commercial-strategy-operations-placement-2027",
+      "source": "Higherin (formerly RateMyPlacement)",
+      "first_seen": "2026-10-19",
+      "employee_cap": "over_20k",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://higherin.com/jobs/45811/nbcuniversal/commercial-strategy-operations-placement-2027",
+        "checked_at": "2026-10-26T09:10:33Z"
       }
     },
     {
@@ -1299,28 +1194,70 @@
         "status": "ok",
         "http_status": 200,
         "final_url": "https://jobs.softcat.com/jobs/vacancy/commercial-internship-2027-placement-year-4095-manchester/4115/description/",
-        "checked_at": "2026-10-19T09:09:59Z"
+        "checked_at": "2026-10-26T09:10:33Z"
       }
     },
     {
-      "title": "Sales Placement (TV Distribution) 2027",
-      "company": "NBCUniversal",
+      "title": "E-Commerce Placement",
+      "company": "Church & Dwight",
       "location": "London, UK",
       "region": "UK",
       "duration": "12 months",
-      "start": "2027-07-05",
-      "deadline": "2026-11-16",
+      "start": "2027-06",
+      "deadline": "2026-12-11",
       "function": "Commercial / GTM",
-      "why": "12-month TV Distribution sales internship from 5 Jul 2027: product lists, client updates and deal admin with marketing/legal/finance; \u00a329,000; closes 16 Nov 2026.",
-      "url": "https://higherin.com/jobs/45919/nbcuniversal/sales-placement-tv-distribution-2027",
+      "why": "NEW 12-month hybrid e-commerce sales/digital-marketing IP in London: retailer execution, search, content and listings; closes 11 Dec 2026. Church & Dwight ~5,550 people.",
+      "url": "https://higherin.com/jobs/44986/church-dwight/e-commerce-placement",
       "source": "Higherin (formerly RateMyPlacement)",
+      "first_seen": "2026-10-26",
+      "employee_cap": "under_20k",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://higherin.com/jobs/44986/church-dwight/e-commerce-placement",
+        "checked_at": "2026-10-26T09:10:34Z"
+      }
+    },
+    {
+      "title": "2027 Advisory Industrial Placement Programme",
+      "company": "BDO",
+      "location": "London / Reading, UK",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027-09-20",
+      "deadline": "2026-11-15",
+      "function": "Consulting",
+      "why": "12-month advisory IP from 20 Sep 2027: restructuring, forensics or BSO; Year 2 on a four-year degree; 2:2 any discipline; \u00a328,800\u2013\u00a329,700; closes 15 Nov 2026.",
+      "url": "https://careers.bdo.co.uk/en/job/london/2027-advisory-industrial-placement-programme/1469/45085583040",
+      "source": "BDO placements and internships",
+      "first_seen": "2026-10-05",
+      "employee_cap": "over_20k",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://careers.bdo.co.uk/en/job/london/2027-advisory-industrial-placement-programme/1469/45085583040",
+        "checked_at": "2026-10-26T09:10:34Z"
+      }
+    },
+    {
+      "title": "Undergraduate Placement Year 2027 - Marketing Communications Intern",
+      "company": "Bosch",
+      "location": "Denham, UK",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027-06",
+      "deadline": "unknown (applications open)",
+      "function": "Marketing",
+      "why": "12-month marketing & communications intern from June 2027 at Denham: digital ads, social, newsletters, website content and events; marketing/business/comms degree.",
+      "url": "https://jobs.bosch.com/en-gb/job/REF298069B-marketing-communications-intern",
+      "source": "Bosch UK jobs",
       "first_seen": "2026-10-19",
       "employee_cap": "over_20k",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://higherin.com/jobs/45919/nbcuniversal/sales-placement-tv-distribution-2027",
-        "checked_at": "2026-10-19T09:09:59Z"
+        "final_url": "https://jobs.bosch.com/en-gb/job/REF298069B-marketing-communications-intern",
+        "checked_at": "2026-10-26T09:10:35Z"
       }
     },
     {
@@ -1341,7 +1278,70 @@
         "status": "ok",
         "http_status": 200,
         "final_url": "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/XMLNAME-2027-Industry-Placement--Economic---Financial-Consulting_JR260719",
-        "checked_at": "2026-10-19T09:10:00Z"
+        "checked_at": "2026-10-26T09:10:36Z"
+      }
+    },
+    {
+      "title": "January 2027 Intake | Retail and Trade Marketing Internships",
+      "company": "LVMH Perfumes & Cosmetics",
+      "location": "Madrid, Spain",
+      "region": "International",
+      "duration": "12 months",
+      "start": "2027-01-04",
+      "deadline": "unknown (applications open)",
+      "function": "Marketing",
+      "why": "NEW 12-month trade/retail-marketing internships at LVMH Beauty Iberia and LOEWE Perfumes from 4 Jan 2027: POS, activations and El Corte Ingl\u00e9s retail marketing. International year-abroad option.",
+      "url": "https://www.lvmh.com/en/join-us/our-job-offers/SSCPC02540",
+      "source": "LVMH job offers",
+      "first_seen": "2026-10-26",
+      "employee_cap": "over_20k",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://www.lvmh.com/en/join-us/our-job-offers/SSCPC02540",
+        "checked_at": "2026-10-26T09:10:36Z"
+      }
+    },
+    {
+      "title": "Trade Marketing Placement 2027",
+      "company": "NBCUniversal",
+      "location": "London, UK",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027-07-05",
+      "deadline": "2026-11-16",
+      "function": "Marketing",
+      "why": "12-month trade-marketing internship from 5 Jul 2027: exhibitor support, creative workflow and title launches; \u00a329,000; closes 16 Nov 2026.",
+      "url": "https://higherin.com/jobs/45924/nbcuniversal/trade-marketing-placement-2027",
+      "source": "Higherin (formerly RateMyPlacement)",
+      "first_seen": "2026-10-12",
+      "employee_cap": "over_20k",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://higherin.com/jobs/45924/nbcuniversal/trade-marketing-placement-2027",
+        "checked_at": "2026-10-26T09:10:36Z"
+      }
+    },
+    {
+      "title": "Consumer Engagement Placement",
+      "company": "Church & Dwight",
+      "location": "London, UK",
+      "region": "UK",
+      "duration": "12 months",
+      "start": "2027-06",
+      "deadline": "2026-12-11",
+      "function": "Marketing",
+      "why": "NEW 12-month hybrid consumer-engagement IP in London from June 2027: feedback, claims and engagement strategy; business/comms degree; closes 11 Dec 2026. Church & Dwight ~5,550 people.",
+      "url": "https://higherin.com/jobs/44980/church-dwight/consumer-engagement-placement",
+      "source": "Higherin (formerly RateMyPlacement)",
+      "first_seen": "2026-10-26",
+      "employee_cap": "under_20k",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://higherin.com/jobs/44980/church-dwight/consumer-engagement-placement",
+        "checked_at": "2026-10-26T09:10:37Z"
       }
     }
   ]
