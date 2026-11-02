@@ -64,6 +64,9 @@ Access:
 | PA Consulting UK industrial placements | https://www.paconsulting.com/careers/early-careers/uk-industrial-placements | UK | Public | Official hub for PA Consulting 12-month 2027 industrial placements across consulting and digital (London, Bristol, Manchester, Belfast; ~4,000 people) |
 | Aon UK internships | https://www.aon.com/careers/early-careers/uk/internships | UK | Public | Official Aon UK early-careers internships hub listing the 12-month 2027 Marketing and Communications industrial placement (closes 7 Dec 2026) |
 | Carlsberg Britvic careers | https://careers.carlsberg.com/CarlsbergMarstons/job/Hemel-Hempstead-Commercial-Industrial-Placement/1449099933/ | UK | Public | Official Carlsberg Britvic 12-month Commercial Industrial Placement in Hemel Hempstead (starts 26 Jul 2027; closes 11 Dec 2026) |
+| Pernod Ricard UK industrial placements | https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Marketing-Placement---June-2027_JR-055455-1 | UK | Public | Official 12-month 2027 marketing, strategy/commercial-insights and finance placements in Chiswick (close 13 Nov 2026; ~16,900 people) |
+| John Deere UK jobs | https://jobs.deere.com/eightfold/job/Langar-Student-Placement-Sales-and-Marketing-Lang-NG13-9HT/1432840500/ | UK | Public | Official 12-month 2027 Sales and Marketing student placement at Langar, Nottingham (closes 23 Nov 2026) |
+| Arup industrial placements | https://jobs.arup.com/jobs/industrial-placement-management-consulting-people-organisation-and-science-industry-34961 | UK | Public | Official 10–12 month 2027 Management Consulting industrial placement in Bristol (closes 12 Nov 2026; ~18,600 people) |
 
 ## Company career pages
 
