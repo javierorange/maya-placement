@@ -67,6 +67,9 @@ Access:
 | Pernod Ricard UK industrial placements | https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Marketing-Placement---June-2027_JR-055455-1 | UK | Public | Official 12-month 2027 marketing, strategy/commercial-insights and finance placements in Chiswick (close 13 Nov 2026; ~16,900 people) |
 | John Deere UK jobs | https://jobs.deere.com/eightfold/job/Langar-Student-Placement-Sales-and-Marketing-Lang-NG13-9HT/1432840500/ | UK | Public | Official 12-month 2027 Sales and Marketing student placement at Langar, Nottingham (closes 23 Nov 2026) |
 | Arup industrial placements | https://jobs.arup.com/jobs/industrial-placement-management-consulting-people-organisation-and-science-industry-34961 | UK | Public | Official 10–12 month 2027 Management Consulting industrial placement in Bristol (closes 12 Nov 2026; ~18,600 people) |
+| TUI Placements UK & I | https://careers.tuigroup.com/en/placements | UK | Public | Official 12-month 2027 TUI placement hub: marketing/merchandising in Luton, business & commercial in Luton, Crystal Ski commercial in Surbiton (close 23 Dec 2026) |
+| Oxford Economics early careers | https://www.oxfordeconomics.com/early-careers-programmes/ | UK | Public | Official 12-month 2027 UK placement programme for economics/finance students in London, Belfast and Oxford (~400 people; rolling from 28 Sep 2026) |
+| Sophos careers | https://jobs.ashbyhq.com/sophos/e916c3b2-bd81-44c9-ab57-1644c0505a8a | UK | Public | Official 12-month 2027 Field Marketing intern (June 2027–June 2028; remote UK with monthly Abingdon HQ; ~4,700 people) |
 
 ## Company career pages
 
