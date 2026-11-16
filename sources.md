@@ -70,6 +70,10 @@ Access:
 | TUI Placements UK & I | https://careers.tuigroup.com/en/placements | UK | Public | Official 12-month 2027 TUI placement hub: marketing/merchandising in Luton, business & commercial in Luton, Crystal Ski commercial in Surbiton (close 23 Dec 2026) |
 | Oxford Economics early careers | https://www.oxfordeconomics.com/early-careers-programmes/ | UK | Public | Official 12-month 2027 UK placement programme for economics/finance students in London, Belfast and Oxford (~400 people; rolling from 28 Sep 2026) |
 | Sophos careers | https://jobs.ashbyhq.com/sophos/e916c3b2-bd81-44c9-ab57-1644c0505a8a | UK | Public | Official 12-month 2027 Field Marketing intern (June 2027–June 2028; remote UK with monthly Abingdon HQ; ~4,700 people) |
+| Toyota GB careers | https://www.jobtrain.co.uk/Toyota/ | UK | Public | Official Toyota GB Jobtrain board with live 12-month 2027 student placements in digital/brand marketing, product marketing, business, finance and press at the Surrey Eco-HQ (close 18 Dec 2026) |
+| Bank of England industrial placements | https://www.bankofengland.co.uk/careers/future-talent/industrial-placements | UK | Public | Official 13-month 2027 undergraduate placement programme in London and Leeds (Data, Risk, Supervision, Economics); closes 23 Nov 2026 midday (~4,400 people) |
+| Kenvue student & graduate careers | https://jobs.kenvue.com/students-and-graduates | UK | Public | Official Kenvue hub for 12-month 2027 Reading student placements in marketing, commercial, digital marketing and consumer/shopper insights (June 2027–July 2028) |
+| Isio early careers | https://isio.teamtailor.com/jobs/8404446-2027-industrial-placement-employee-benefits-consulting-manchester | UK | Public | Official 13-month 2027 Employee Benefits Consulting industrial placement in Manchester (starts 28 Jun 2027; closes 16 Nov 2026 5pm; ~1,800 people) |
 
 ## Company career pages
 

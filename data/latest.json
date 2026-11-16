@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-09T09:05:43Z",
-  "week_of": "2026-11-09",
+  "generated_at": "2026-11-16T09:20:18Z",
+  "week_of": "2026-11-16",
   "candidate": "Maya",
   "is_example": false,
   "summary": {
     "new_offers": 7,
     "new_offers_all": 7,
-    "new_offers_midsize": 3,
-    "new_sources": 3,
-    "dropped": 20,
-    "dropped_note": "All-companies list: no employee cap; ranked 12-month UK/Ireland marketing, consulting and commercial first (top 20). Under-20k list: dropped group/parent headcount above 20,000 (TUI, NBCUniversal, Cummins, Aon, EY, Carlsberg, Samsung). Closed windows this week: Hilton EMEA corporate placements (1 Nov), Box London marketing placement (30 Oct), Accenture London consulting IP (closed early October), Disney Parks and Resorts marketing (20 Oct), FTI Consulting marketing/EFC (29 Oct), Deloitte BTC Marketing & Commerce (26 Oct). Haleon and L'Or\u00e9al UK IPs closed 23 Oct. Mercedes-AMG F1 business-support IPs still not live (hub says November). HPE UKIMEA comms placement, Stanley Black & Decker Maidenhead RFIs, and 6-month FR/CH stages (Danone RGM, Nespresso CX, Berluti CRM, Dior Geneva) ranked out of the all-companies top 20. MyFuture stays Maya-manual.",
+    "new_offers_midsize": 4,
+    "new_sources": 4,
+    "dropped": 22,
+    "dropped_note": "All-companies list: no employee cap; ranked 12-month UK/Ireland marketing, consulting and commercial first (top 20). Under-20k list: dropped group/parent headcount above 20,000 (Toyota, TUI, NBCUniversal, Kenvue, Aon, EY, Carlsberg, Samsung, MBDA as Airbus/BAE/Leonardo JV, Est\u00e9e Lauder, Nestl\u00e9, LVMH). Closed since last week: Pernod Ricard Chiswick IPs (13 Nov), Arup Bristol management consulting (12 Nov), Cummins Redditch/Darlington (12 Nov), BDO Advisory/Audit/Tax (15 Nov), Mondel\u0113z Higherin marketing listing, Isio London employee-benefits consulting, Sophos Ashby field-marketing URL (HTTP 404). PA London strategy, business-design and delivery IPs now 301. PA London operations closed 16 Nov 09:00. Mercedes-AMG F1 hub still says the window is closed. NBCU film/TV marketing, promotions and KAM close today (16 Nov); commercial strategy now listed to 30 Nov. Toyota business/finance/press, MBDA commercial, Givenchy clienteling and Est\u00e9e Lauder trade-marketing stages ranked out of the all-companies top 20. MyFuture stays Maya-manual.",
     "maya_check": [
       {
         "name": "MyFuture",
@@ -19,49 +19,62 @@
           "status": "ok",
           "http_status": 200,
           "final_url": "https://www.bath.ac.uk/campaigns/myfuture/",
-          "checked_at": "2026-11-09T09:06:02Z"
+          "checked_at": "2026-11-16T09:21:27Z"
         }
       }
     ]
   },
   "sources_added": [
     {
-      "name": "TUI Placements UK & I",
-      "url": "https://careers.tuigroup.com/en/placements",
+      "name": "Toyota GB careers",
+      "url": "https://www.jobtrain.co.uk/Toyota/",
       "region": "UK",
       "access": "Public",
-      "why": "Official 12-month 2027 TUI placement hub: marketing/merchandising in Luton, business & commercial in Luton, Crystal Ski commercial in Surbiton (close 23 Dec 2026)",
+      "why": "Official Toyota GB Jobtrain board with live 12-month 2027 student placements in digital/brand marketing, product marketing, business, finance and press at the Surrey Eco-HQ (close 18 Dec 2026)",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://careers.tuigroup.com/en/placements",
-        "checked_at": "2026-11-09T09:06:02Z"
+        "final_url": "https://www.jobtrain.co.uk/Toyota/Home/Job",
+        "checked_at": "2026-11-16T09:21:25Z"
       }
     },
     {
-      "name": "Oxford Economics early careers",
-      "url": "https://www.oxfordeconomics.com/early-careers-programmes/",
+      "name": "Bank of England industrial placements",
+      "url": "https://www.bankofengland.co.uk/careers/future-talent/industrial-placements",
       "region": "UK",
       "access": "Public",
-      "why": "Official 12-month 2027 UK placement programme for economics/finance students in London, Belfast and Oxford (~400 people; rolling from 28 Sep 2026)",
+      "why": "Official 13-month 2027 undergraduate placement programme in London and Leeds (Data, Risk, Supervision, Economics); closes 23 Nov 2026 midday (~4,400 people)",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://www.oxfordeconomics.com/early-careers-programmes/",
-        "checked_at": "2026-11-09T09:06:02Z"
+        "final_url": "https://www.bankofengland.co.uk/careers/future-talent/industrial-placements",
+        "checked_at": "2026-11-16T09:21:14Z"
       }
     },
     {
-      "name": "Sophos careers",
-      "url": "https://jobs.ashbyhq.com/sophos/e916c3b2-bd81-44c9-ab57-1644c0505a8a",
+      "name": "Kenvue student & graduate careers",
+      "url": "https://jobs.kenvue.com/students-and-graduates",
       "region": "UK",
       "access": "Public",
-      "why": "Official 12-month 2027 Field Marketing intern (June 2027\u2013June 2028; remote UK with monthly Abingdon HQ; ~4,700 people)",
+      "why": "Official Kenvue hub for 12-month 2027 Reading student placements in marketing, commercial, digital marketing and consumer/shopper insights (June 2027\u2013July 2028)",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://jobs.ashbyhq.com/sophos/e916c3b2-bd81-44c9-ab57-1644c0505a8a",
-        "checked_at": "2026-11-09T09:05:47Z"
+        "final_url": "https://jobs.kenvue.com/students-and-graduates",
+        "checked_at": "2026-11-16T09:21:27Z"
+      }
+    },
+    {
+      "name": "Isio early careers",
+      "url": "https://isio.teamtailor.com/jobs/8404446-2027-industrial-placement-employee-benefits-consulting-manchester",
+      "region": "UK",
+      "access": "Public",
+      "why": "Official 13-month 2027 Employee Benefits Consulting industrial placement in Manchester (starts 28 Jun 2027; closes 16 Nov 2026 5pm; ~1,800 people)",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://careers.isio.com/jobs/8404446-2027-industrial-placement-employee-benefits-consulting-manchester",
+        "checked_at": "2026-11-16T09:21:10Z"
       }
     }
   ],
@@ -73,115 +86,114 @@
       "employee_cap": null,
       "offers": [
         {
-          "title": "Marketing Placement - June 2027",
-          "company": "Pernod Ricard",
-          "location": "Chiswick, London, UK",
-          "region": "UK",
+          "title": "2027 - Digital and Brand Marketing Student Placement",
+          "company": "Toyota GB",
+          "location": "Burgh Heath / Epsom, UK",
           "duration": "12 months",
-          "start": "2027-06-14",
-          "deadline": "2026-11-13",
+          "start": "2027",
+          "deadline": "2026-12-18",
           "function": "Marketing",
-          "why": "12-month UK marketing IP from 14 Jun 2027: 10 Chiswick roles across brand and customer marketing (on-trade/off-trade); hybrid; closes 13 Nov 2026. Pernod Ricard ~16,900 people.",
-          "url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Marketing-Placement---June-2027_JR-055455-1",
-          "source": "Pernod Ricard UK industrial placements",
-          "first_seen": "2026-11-02",
-          "employee_cap": "under_20k",
+          "why": "NEW 12-month digital/brand marketing IP at Toyota GB Eco-HQ: content, campaigns, digital platforms and customer journeys; marketing/business degree with a year in industry; from \u00a325,500 plus \u00a31k relocation; closes 18 Dec 2026.",
+          "url": "https://www.jobtrain.co.uk/Toyota/Job/JobDetail?JobId=464",
+          "source": "Toyota GB careers",
+          "first_seen": "2026-11-16",
+          "employee_cap": "over_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Marketing-Placement---June-2027_JR-055455-1",
-            "checked_at": "2026-11-09T09:05:43Z"
+            "final_url": "https://www.jobtrain.co.uk/Toyota/Job/JobDetail?JobId=464",
+            "checked_at": "2026-11-16T09:21:05Z"
           }
         },
         {
-          "title": "Strategy & Commercial Insights Placements - June 2027",
-          "company": "Pernod Ricard",
-          "location": "Chiswick, London, UK",
-          "region": "UK",
+          "title": "2027 - Product Marketing Student Placement",
+          "company": "Toyota GB",
+          "location": "Burgh Heath / Epsom, UK",
           "duration": "12 months",
-          "start": "2027-06-14",
-          "deadline": "2026-11-13",
-          "function": "Strategy",
-          "why": "12-month strategy/commercial-insights IP from 14 Jun 2027: 4 Chiswick roles including Chivas Brothers business strategy, market/shopper data and brand planning; closes 13 Nov 2026. Pernod Ricard ~16,900 people.",
-          "url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Strategy---Commercial-Insights-Placements---June-2027_JR-055459",
-          "source": "Pernod Ricard UK industrial placements",
-          "first_seen": "2026-11-02",
-          "employee_cap": "under_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Strategy---Commercial-Insights-Placements---June-2027_JR-055459",
-            "checked_at": "2026-11-09T09:05:43Z"
-          }
-        },
-        {
-          "title": "Industrial Placement - Management Consulting (People & Organisation and Science & Industry)",
-          "company": "Arup",
-          "location": "Bristol, UK",
+          "start": "2027",
+          "deadline": "2026-12-18",
+          "function": "Marketing",
+          "why": "NEW 12-month product-marketing IP at Toyota/Lexus UK: positioning, pricing and consumer offers; marketing/business degree with a year in industry; from \u00a325,500; closes 18 Dec 2026.",
+          "url": "https://www.jobtrain.co.uk/Toyota/Job/JobDetail?JobId=467",
+          "source": "Toyota GB careers",
+          "first_seen": "2026-11-16",
+          "employee_cap": "over_20k",
           "region": "UK",
-          "duration": "10\u201312 months",
-          "start": "2027-09-01",
-          "deadline": "2026-11-12",
-          "function": "Consulting",
-          "why": "10\u201312 month management-consulting IP from 1 Sep 2027: strategy, org design, change and insight with client workshops; business/commerce degrees welcome; closes 12 Nov 2026. Arup ~18,600 people.",
-          "url": "https://jobs.arup.com/jobs/industrial-placement-management-consulting-people-organisation-and-science-industry-34961",
-          "source": "Arup industrial placements",
-          "first_seen": "2026-11-02",
-          "employee_cap": "under_20k",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://jobs.arup.com/jobs/industrial-placement-management-consulting-people-organisation-and-science-industry-34961",
-            "checked_at": "2026-11-09T09:05:43Z"
+            "final_url": "https://www.jobtrain.co.uk/Toyota/Job/JobDetail?JobId=467",
+            "checked_at": "2026-11-16T09:21:06Z"
           }
         },
         {
           "title": "2027 Marketing & Merchandising Placement Scheme",
           "company": "TUI",
           "location": "Luton, UK",
-          "region": "UK",
           "duration": "12 months",
           "start": "2027",
           "deadline": "2026-12-23",
           "function": "Marketing",
-          "why": "NEW 12-month digital merchandising/promotions IP in Luton: on-site campaigns for tui.co.uk, trading analysis and promotional execution; penultimate year; \u00a324,600; closes 23 Dec 2026.",
+          "why": "12-month digital merchandising/promotions IP in Luton: on-site campaigns for tui.co.uk, trading analysis and promotional execution; penultimate year; \u00a324,600; closes 23 Dec 2026.",
           "url": "https://careers.tuigroup.com/en/job/luton/2027-marketing-and-merchandising-placement-scheme/2937/46646795904",
           "source": "TUI Placements UK & I",
           "first_seen": "2026-11-09",
           "employee_cap": "over_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
             "final_url": "https://careers.tuigroup.com/en/job/luton/2027-marketing-and-merchandising-placement-scheme/2937/46646795904",
-            "checked_at": "2026-11-09T09:05:44Z"
+            "checked_at": "2026-11-16T09:21:07Z"
           }
         },
         {
           "title": "2027 Business & Commercial Placement Scheme",
           "company": "TUI",
           "location": "Luton, UK",
-          "region": "UK",
           "duration": "12 months",
           "start": "2027",
           "deadline": "2026-12-23",
           "function": "Commercial / GTM",
-          "why": "NEW 12-month yield or planning/product commercial IP in Luton: holiday pricing, competitor monitoring and destination portfolios; penultimate year; \u00a324,600; closes 23 Dec 2026.",
+          "why": "12-month yield or planning/product commercial IP in Luton: holiday pricing, competitor monitoring and destination portfolios; penultimate year; \u00a324,600; closes 23 Dec 2026.",
           "url": "https://careers.tuigroup.com/en/job/luton/2027-business-and-commercial-placement-scheme/2937/46643036224",
           "source": "TUI Placements UK & I",
           "first_seen": "2026-11-09",
           "employee_cap": "over_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
             "final_url": "https://careers.tuigroup.com/en/job/luton/2027-business-and-commercial-placement-scheme/2937/46643036224",
-            "checked_at": "2026-11-09T09:05:45Z"
+            "checked_at": "2026-11-16T09:21:07Z"
+          }
+        },
+        {
+          "title": "Marketing Student Placement",
+          "company": "Kenvue",
+          "location": "Reading, UK",
+          "duration": "12 months",
+          "start": "2027-06",
+          "deadline": "unknown (applications open)",
+          "function": "Marketing",
+          "why": "NEW 12-month brand-marketing IP from June 2027 in Reading: 8 roles on Aveeno, Listerine, Johnson's, Calpol and Neutrogena; campaigns, social, PR and brand budget; business-related degree, 2:1 first year. Kenvue ~22,000 people.",
+          "url": "https://kenvue.wd5.myworkdayjobs.com/en-US/kenvue/job/Marketing-Student-Placement_2607049246W",
+          "source": "Kenvue student & graduate careers",
+          "first_seen": "2026-11-16",
+          "employee_cap": "over_20k",
+          "region": "UK",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://kenvue.wd5.myworkdayjobs.com/en-US/kenvue/job/Marketing-Student-Placement_2607049246W",
+            "checked_at": "2026-11-16T09:21:08Z"
           }
         },
         {
           "title": "Marketing Placement 2027",
           "company": "NBCUniversal",
           "location": "London, UK",
-          "region": "UK",
           "duration": "12 months",
           "start": "2027-07-05",
           "deadline": "2026-11-16",
@@ -191,18 +203,18 @@
           "source": "Higherin (formerly RateMyPlacement)",
           "first_seen": "2026-10-12",
           "employee_cap": "over_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
             "final_url": "https://higherin.com/jobs/45908/nbcuniversal/marketing-placement-2027",
-            "checked_at": "2026-11-09T09:05:46Z"
+            "checked_at": "2026-11-16T09:21:08Z"
           }
         },
         {
           "title": "Marketing, Promotions & Creative Placement 2027",
           "company": "NBCUniversal",
           "location": "London, UK",
-          "region": "UK",
           "duration": "12 months",
           "start": "2027-07-05",
           "deadline": "2026-11-16",
@@ -212,60 +224,18 @@
           "source": "Higherin (formerly RateMyPlacement)",
           "first_seen": "2026-10-12",
           "employee_cap": "over_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
             "final_url": "https://higherin.com/jobs/45909/nbcuniversal/marketing-promotions-creative-placement-2027",
-            "checked_at": "2026-11-09T09:05:46Z"
-          }
-        },
-        {
-          "title": "Marketing Communications Placement 2027 - Redditch",
-          "company": "Cummins",
-          "location": "Redditch, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027",
-          "deadline": "2026-11-12",
-          "function": "Marketing",
-          "why": "12-month aftermarket digital-marketing comms IP in Redditch from summer 2027: campaigns, brand, partner relationships; 3 days onsite; closes 12 Nov 2026.",
-          "url": "https://higherin.com/jobs/45486/cummins/marketing-communications-placement-2027-redditch",
-          "source": "Higherin (formerly RateMyPlacement)",
-          "first_seen": "2026-11-02",
-          "employee_cap": "over_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://higherin.com/jobs/45486/cummins/marketing-communications-placement-2027-redditch",
-            "checked_at": "2026-11-09T09:05:47Z"
-          }
-        },
-        {
-          "title": "Field Marketing Intern \u2013 12 Month Fixed Term Placement",
-          "company": "Sophos",
-          "location": "United Kingdom (remote / Abingdon HQ)",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027-06",
-          "deadline": "unknown (applications open)",
-          "function": "Marketing",
-          "why": "NEW 12-month field-marketing IP from June 2027: campaigns, events, webinars and social; marketing (or related) degree with a required placement year. Sophos ~4,700 people.",
-          "url": "https://jobs.ashbyhq.com/sophos/e916c3b2-bd81-44c9-ab57-1644c0505a8a",
-          "source": "Sophos careers",
-          "first_seen": "2026-11-09",
-          "employee_cap": "under_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://jobs.ashbyhq.com/sophos/e916c3b2-bd81-44c9-ab57-1644c0505a8a",
-            "checked_at": "2026-11-09T09:05:47Z"
+            "checked_at": "2026-11-16T09:21:09Z"
           }
         },
         {
           "title": "Aon Industrial Placement Programme 2027 - Marketing and Communications",
           "company": "Aon",
           "location": "London, UK",
-          "region": "UK",
           "duration": "12 months",
           "start": "2027-09-01",
           "deadline": "2026-12-07",
@@ -275,81 +245,39 @@
           "source": "Aon UK internships",
           "first_seen": "2026-10-26",
           "employee_cap": "over_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
             "final_url": "https://jobs.aon.com/jobs/107792?lang=en-us",
-            "checked_at": "2026-11-09T09:05:48Z"
+            "checked_at": "2026-11-16T09:21:09Z"
           }
         },
         {
-          "title": "Commercial Strategy & Operations Placement 2027",
-          "company": "NBCUniversal",
-          "location": "London, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027-07-05",
+          "title": "2027 Industrial Placement - Employee Benefits Consulting - Manchester",
+          "company": "Isio",
+          "location": "Manchester, UK",
+          "duration": "13 months",
+          "start": "2027-06-28",
           "deadline": "2026-11-16",
-          "function": "Strategy",
-          "why": "12-month Universal Pictures International commercial-strategy internship from 5 Jul 2027: cinema-client trading and performance metrics across EMEA/APAC/LATAM; \u00a329,000; closes 16 Nov 2026.",
-          "url": "https://higherin.com/jobs/45811/nbcuniversal/commercial-strategy-operations-placement-2027",
-          "source": "Higherin (formerly RateMyPlacement)",
-          "first_seen": "2026-10-19",
-          "employee_cap": "over_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://higherin.com/jobs/45811/nbcuniversal/commercial-strategy-operations-placement-2027",
-            "checked_at": "2026-11-09T09:05:48Z"
-          }
-        },
-        {
-          "title": "Clients and Industries Industrial Placement \u2013 September 2027 - London",
-          "company": "EY",
-          "location": "London, UK",
-          "region": "UK",
-          "duration": "11 months",
-          "start": "2027-07",
-          "deadline": "unknown (ongoing; may close early)",
-          "function": "Commercial / GTM",
-          "why": "NEW 11-month clients-and-industries IP from July 2027: sector go-to-market, client relationships and insight; any degree; London.",
-          "url": "https://higherin.com/jobs/46514/ey/clients-and-industries-industrial-placement-september-2027-london",
-          "source": "Higherin (formerly RateMyPlacement)",
-          "first_seen": "2026-11-09",
-          "employee_cap": "over_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://higherin.com/jobs/46514/ey/clients-and-industries-industrial-placement-september-2027-london",
-            "checked_at": "2026-11-09T09:05:49Z"
-          }
-        },
-        {
-          "title": "Commercial Internship 2027 (Placement Year)",
-          "company": "Softcat",
-          "location": "Marlow / Manchester / Birmingham / Bristol / South Coast, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027-07-05",
-          "deadline": "2026-11-30",
-          "function": "Commercial / GTM",
-          "why": "12-month commercial/marketing placement from 5 Jul 2027: vendor alliances, CX and data strategy; \u00a322,000; penultimate year any degree; closes 30 Nov 2026. Softcat ~2,925 people.",
-          "url": "https://jobs.softcat.com/jobs/vacancy/commercial-internship-2027-placement-year-4095-manchester/4115/description/",
-          "source": "Softcat early careers",
-          "first_seen": "2026-10-19",
+          "function": "Consulting",
+          "why": "NEW 13-month employee-benefits consulting IP from 28 Jun 2027: benefit strategy, client meetings, communications and DC pensions; any degree returning to final year in 2028; closes 16 Nov 2026 5pm. Isio ~1,800 people.",
+          "url": "https://isio.teamtailor.com/jobs/8404446-2027-industrial-placement-employee-benefits-consulting-manchester",
+          "source": "Isio early careers",
+          "first_seen": "2026-11-16",
           "employee_cap": "under_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://jobs.softcat.com/jobs/vacancy/commercial-internship-2027-placement-year-4095-manchester/4115/description/",
-            "checked_at": "2026-11-09T09:05:49Z"
+            "final_url": "https://careers.isio.com/jobs/8404446-2027-industrial-placement-employee-benefits-consulting-manchester",
+            "checked_at": "2026-11-16T09:21:10Z"
           }
         },
         {
           "title": "Commercial Industrial Placement",
           "company": "Carlsberg Britvic",
           "location": "Hemel Hempstead, UK",
-          "region": "UK",
           "duration": "12 months",
           "start": "2027-07-26",
           "deadline": "2026-12-11",
@@ -359,11 +287,12 @@
           "source": "Carlsberg Britvic careers",
           "first_seen": "2026-10-26",
           "employee_cap": "over_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
             "final_url": "https://careers.carlsberg.com/CarlsbergMarstons/job/Hemel-Hempstead-Commercial-Industrial-Placement/1449099933/",
-            "checked_at": "2026-11-09T09:05:50Z"
+            "checked_at": "2026-11-16T09:21:10Z"
           }
         },
         {
@@ -384,56 +313,118 @@
             "status": "ok",
             "http_status": 200,
             "final_url": "https://higherin.com/jobs/44284/samsung-electronics/marketing-placement-2027-dublin",
-            "checked_at": "2026-11-09T09:05:51Z"
+            "checked_at": "2026-11-16T09:21:11Z"
           }
         },
         {
           "title": "2027 Commercial Placement Scheme - Crystal Ski",
           "company": "TUI",
           "location": "Surbiton, UK",
-          "region": "UK",
           "duration": "12 months",
           "start": "2027",
           "deadline": "2026-12-23",
           "function": "Commercial / GTM",
-          "why": "NEW 12-month Product and Planning Specialist IP with Crystal Ski / Lakes and Mountains in Surbiton: destination planning, performance data and web content; \u00a324,600; closes 23 Dec 2026.",
+          "why": "12-month Product and Planning Specialist IP with Crystal Ski / Lakes and Mountains in Surbiton: destination planning, performance data and web content; \u00a324,600; closes 23 Dec 2026.",
           "url": "https://careers.tuigroup.com/en/job/surbiton/2027-commercial-placement-scheme-crystal-ski/2937/46646774848",
           "source": "TUI Placements UK & I",
           "first_seen": "2026-11-09",
           "employee_cap": "over_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
             "final_url": "https://careers.tuigroup.com/en/job/surbiton/2027-commercial-placement-scheme-crystal-ski/2937/46646774848",
-            "checked_at": "2026-11-09T09:05:51Z"
+            "checked_at": "2026-11-16T09:21:11Z"
+          }
+        },
+        {
+          "title": "Commercial Student Placement",
+          "company": "Kenvue",
+          "location": "Reading, UK",
+          "duration": "12 months",
+          "start": "2027-06",
+          "deadline": "unknown (applications open)",
+          "function": "Commercial / GTM",
+          "why": "NEW 12-month commercial IP from June 2027 in Reading: retailer account work, store visits, trade investment and joint business planning with marketing; business-related degree. Kenvue ~22,000 people.",
+          "url": "https://kenvue.wd5.myworkdayjobs.com/en-US/kenvue/job/Commercial-Student-Placement_2607049245W",
+          "source": "Kenvue student & graduate careers",
+          "first_seen": "2026-11-16",
+          "employee_cap": "over_20k",
+          "region": "UK",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://kenvue.wd5.myworkdayjobs.com/en-US/kenvue/job/Commercial-Student-Placement_2607049245W",
+            "checked_at": "2026-11-16T09:21:11Z"
+          }
+        },
+        {
+          "title": "Commercial Strategy & Operations Placement 2027",
+          "company": "NBCUniversal",
+          "location": "London, UK",
+          "duration": "12 months",
+          "start": "2027-07-05",
+          "deadline": "2026-11-30",
+          "function": "Strategy",
+          "why": "12-month Universal Pictures International commercial-strategy internship from 5 Jul 2027: cinema-client trading and performance metrics across EMEA/APAC/LATAM; \u00a329,000; Higherin now lists 30 Nov 2026.",
+          "url": "https://higherin.com/jobs/45811/nbcuniversal/commercial-strategy-operations-placement-2027",
+          "source": "Higherin (formerly RateMyPlacement)",
+          "first_seen": "2026-10-19",
+          "employee_cap": "over_20k",
+          "region": "UK",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://higherin.com/jobs/45811/nbcuniversal/commercial-strategy-operations-placement-2027",
+            "checked_at": "2026-11-16T09:21:11Z"
           }
         },
         {
           "title": "Key Account Management Placement 2027",
           "company": "NBCUniversal",
           "location": "London, UK",
-          "region": "UK",
           "duration": "12 months",
           "start": "2027-07-05",
           "deadline": "2026-11-16",
           "function": "Commercial / GTM",
-          "why": "NEW 12-month EMEA account-management internship from 5 Jul 2027: release grids, market pricing and lifecycle strategy; \u00a329,000; closes 16 Nov 2026.",
+          "why": "12-month EMEA account-management internship from 5 Jul 2027: release grids, market pricing and lifecycle strategy; \u00a329,000; closes 16 Nov 2026.",
           "url": "https://higherin.com/jobs/45906/nbcuniversal/key-account-management-placement-2027",
           "source": "Higherin (formerly RateMyPlacement)",
           "first_seen": "2026-11-09",
           "employee_cap": "over_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
             "final_url": "https://higherin.com/jobs/45906/nbcuniversal/key-account-management-placement-2027",
-            "checked_at": "2026-11-09T09:05:52Z"
+            "checked_at": "2026-11-16T09:21:12Z"
+          }
+        },
+        {
+          "title": "Commercial Internship 2027 (Placement Year)",
+          "company": "Softcat",
+          "location": "Marlow / Manchester / Birmingham / Bristol / South Coast, UK",
+          "duration": "12 months",
+          "start": "2027-07-05",
+          "deadline": "2026-11-30",
+          "function": "Commercial / GTM",
+          "why": "12-month commercial/marketing placement from 5 Jul 2027: vendor alliances, CX and data strategy; \u00a322,000; penultimate year any degree; closes 30 Nov 2026. Softcat ~2,925 people.",
+          "url": "https://jobs.softcat.com/jobs/vacancy/commercial-internship-2027-placement-year-4095-manchester/4115/description/",
+          "source": "Softcat early careers",
+          "first_seen": "2026-10-19",
+          "employee_cap": "under_20k",
+          "region": "UK",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://jobs.softcat.com/jobs/vacancy/commercial-internship-2027-placement-year-4095-manchester/4115/description/",
+            "checked_at": "2026-11-16T09:21:13Z"
           }
         },
         {
           "title": "E-Commerce Placement",
           "company": "Church & Dwight",
           "location": "London, UK",
-          "region": "UK",
           "duration": "12 months",
           "start": "2027-06",
           "deadline": "2026-12-11",
@@ -443,53 +434,75 @@
           "source": "Higherin (formerly RateMyPlacement)",
           "first_seen": "2026-10-26",
           "employee_cap": "under_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
             "final_url": "https://higherin.com/jobs/44986/church-dwight/e-commerce-placement",
-            "checked_at": "2026-11-09T09:05:52Z"
+            "checked_at": "2026-11-16T09:21:14Z"
           }
         },
         {
-          "title": "2027 Industrial Placement - Consulting (Strategy & Economics) - London",
-          "company": "PA Consulting",
-          "location": "London, UK",
-          "region": "UK",
-          "duration": "12 months",
+          "title": "Industrial Placements 2027 (Data, Risk, Supervision or Economics)",
+          "company": "Bank of England",
+          "location": "London / Leeds, UK",
+          "duration": "13 months",
           "start": "2027-07",
-          "deadline": "unknown (rolling; opened late October 2026)",
-          "function": "Consulting",
-          "why": "12-month strategy/economics consulting IP from July 2027 at London Victoria: growth plans, capital allocation and market analysis; any degree graduating 2029; \u00a328,860. PA ~4,000 people.",
-          "url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-strategy-economics-london-744000157427508",
-          "source": "PA Consulting UK industrial placements",
-          "first_seen": "2026-10-26",
+          "deadline": "2026-11-23",
+          "function": "Finance",
+          "why": "NEW 13-month undergraduate placement year from end of July 2027: Data, Risk and Supervision streams take any degree (Economics needs economics/finance); \u00a327,000 London / \u00a324,500 Leeds; closes 12:00 GMT 23 Nov 2026. Bank of England ~4,400 people.",
+          "url": "https://www.bankofengland.co.uk/careers/future-talent/industrial-placements",
+          "source": "Bank of England industrial placements",
+          "first_seen": "2026-11-16",
           "employee_cap": "under_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-strategy-economics-london-744000157427508",
-            "checked_at": "2026-11-09T09:05:53Z"
+            "final_url": "https://www.bankofengland.co.uk/careers/future-talent/industrial-placements",
+            "checked_at": "2026-11-16T09:21:14Z"
           }
         },
         {
-          "title": "2027 UK Placement Programme (London, Belfast & Oxford)",
-          "company": "Oxford Economics",
-          "location": "London / Belfast / Oxford, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027",
-          "deadline": "unknown (rolling from 2026-09-28)",
-          "function": "Strategy",
-          "why": "NEW 12-month industrial placement for economics/finance students: forecasting, research and consulting teams in London, Belfast or Oxford; rolling review. Oxford Economics ~400 people.",
-          "url": "https://careers.oxfordeconomics.com/en/postings/0f831a56-2ad7-4ee9-a267-b5a2954f37d9",
-          "source": "Oxford Economics early careers",
+          "title": "Clients and Industries Industrial Placement \u2013 September 2027 - London",
+          "company": "EY",
+          "location": "London, UK",
+          "duration": "11 months",
+          "start": "2027-07",
+          "deadline": "unknown (ongoing; may close early)",
+          "function": "Commercial / GTM",
+          "why": "11-month clients-and-industries IP from July 2027: sector go-to-market, client relationships and insight; any degree; London.",
+          "url": "https://higherin.com/jobs/46514/ey/clients-and-industries-industrial-placement-september-2027-london",
+          "source": "Higherin (formerly RateMyPlacement)",
           "first_seen": "2026-11-09",
-          "employee_cap": "under_20k",
+          "employee_cap": "over_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://careers.oxfordeconomics.com/en/postings/0f831a56-2ad7-4ee9-a267-b5a2954f37d9",
-            "checked_at": "2026-11-09T09:05:54Z"
+            "final_url": "https://higherin.com/jobs/46514/ey/clients-and-industries-industrial-placement-september-2027-london",
+            "checked_at": "2026-11-16T09:21:15Z"
+          }
+        },
+        {
+          "title": "Consumer & Shopper Insights Student Placement",
+          "company": "Kenvue",
+          "location": "Reading, UK",
+          "duration": "12 months",
+          "start": "2027-06",
+          "deadline": "unknown (applications open)",
+          "function": "Strategy",
+          "why": "NEW 12-month consumer/shopper-insights IP from June 2027 in Reading: 4 roles turning research, surveys and analytics into brand and customer decisions. Kenvue ~22,000 people.",
+          "url": "https://kenvue.wd5.myworkdayjobs.com/en-US/kenvue/job/Consumer---Shopper-Insights-Student-Placement_2607049209W",
+          "source": "Kenvue student & graduate careers",
+          "first_seen": "2026-11-16",
+          "employee_cap": "over_20k",
+          "region": "UK",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://kenvue.wd5.myworkdayjobs.com/en-US/kenvue/job/Consumer---Shopper-Insights-Student-Placement_2607049209W",
+            "checked_at": "2026-11-16T09:21:15Z"
           }
         }
       ]
@@ -501,94 +514,30 @@
       "employee_cap": "under_20k",
       "offers": [
         {
-          "title": "Marketing Placement - June 2027",
-          "company": "Pernod Ricard",
-          "location": "Chiswick, London, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027-06-14",
-          "deadline": "2026-11-13",
-          "function": "Marketing",
-          "why": "12-month UK marketing IP from 14 Jun 2027: 10 Chiswick roles across brand and customer marketing (on-trade/off-trade); hybrid; closes 13 Nov 2026. Pernod Ricard ~16,900 people.",
-          "url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Marketing-Placement---June-2027_JR-055455-1",
-          "source": "Pernod Ricard UK industrial placements",
-          "first_seen": "2026-11-02",
-          "employee_cap": "under_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Marketing-Placement---June-2027_JR-055455-1",
-            "checked_at": "2026-11-09T09:05:43Z"
-          }
-        },
-        {
-          "title": "Strategy & Commercial Insights Placements - June 2027",
-          "company": "Pernod Ricard",
-          "location": "Chiswick, London, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027-06-14",
-          "deadline": "2026-11-13",
-          "function": "Strategy",
-          "why": "12-month strategy/commercial-insights IP from 14 Jun 2027: 4 Chiswick roles including Chivas Brothers business strategy, market/shopper data and brand planning; closes 13 Nov 2026. Pernod Ricard ~16,900 people.",
-          "url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Strategy---Commercial-Insights-Placements---June-2027_JR-055459",
-          "source": "Pernod Ricard UK industrial placements",
-          "first_seen": "2026-11-02",
-          "employee_cap": "under_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Strategy---Commercial-Insights-Placements---June-2027_JR-055459",
-            "checked_at": "2026-11-09T09:05:43Z"
-          }
-        },
-        {
-          "title": "Industrial Placement - Management Consulting (People & Organisation and Science & Industry)",
-          "company": "Arup",
-          "location": "Bristol, UK",
-          "region": "UK",
-          "duration": "10\u201312 months",
-          "start": "2027-09-01",
-          "deadline": "2026-11-12",
+          "title": "2027 Industrial Placement - Employee Benefits Consulting - Manchester",
+          "company": "Isio",
+          "location": "Manchester, UK",
+          "duration": "13 months",
+          "start": "2027-06-28",
+          "deadline": "2026-11-16",
           "function": "Consulting",
-          "why": "10\u201312 month management-consulting IP from 1 Sep 2027: strategy, org design, change and insight with client workshops; business/commerce degrees welcome; closes 12 Nov 2026. Arup ~18,600 people.",
-          "url": "https://jobs.arup.com/jobs/industrial-placement-management-consulting-people-organisation-and-science-industry-34961",
-          "source": "Arup industrial placements",
-          "first_seen": "2026-11-02",
+          "why": "NEW 13-month employee-benefits consulting IP from 28 Jun 2027: benefit strategy, client meetings, communications and DC pensions; any degree returning to final year in 2028; closes 16 Nov 2026 5pm. Isio ~1,800 people.",
+          "url": "https://isio.teamtailor.com/jobs/8404446-2027-industrial-placement-employee-benefits-consulting-manchester",
+          "source": "Isio early careers",
+          "first_seen": "2026-11-16",
           "employee_cap": "under_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://jobs.arup.com/jobs/industrial-placement-management-consulting-people-organisation-and-science-industry-34961",
-            "checked_at": "2026-11-09T09:05:43Z"
-          }
-        },
-        {
-          "title": "Field Marketing Intern \u2013 12 Month Fixed Term Placement",
-          "company": "Sophos",
-          "location": "United Kingdom (remote / Abingdon HQ)",
           "region": "UK",
-          "duration": "12 months",
-          "start": "2027-06",
-          "deadline": "unknown (applications open)",
-          "function": "Marketing",
-          "why": "NEW 12-month field-marketing IP from June 2027: campaigns, events, webinars and social; marketing (or related) degree with a required placement year. Sophos ~4,700 people.",
-          "url": "https://jobs.ashbyhq.com/sophos/e916c3b2-bd81-44c9-ab57-1644c0505a8a",
-          "source": "Sophos careers",
-          "first_seen": "2026-11-09",
-          "employee_cap": "under_20k",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://jobs.ashbyhq.com/sophos/e916c3b2-bd81-44c9-ab57-1644c0505a8a",
-            "checked_at": "2026-11-09T09:05:47Z"
+            "final_url": "https://careers.isio.com/jobs/8404446-2027-industrial-placement-employee-benefits-consulting-manchester",
+            "checked_at": "2026-11-16T09:21:10Z"
           }
         },
         {
           "title": "Commercial Internship 2027 (Placement Year)",
           "company": "Softcat",
           "location": "Marlow / Manchester / Birmingham / Bristol / South Coast, UK",
-          "region": "UK",
           "duration": "12 months",
           "start": "2027-07-05",
           "deadline": "2026-11-30",
@@ -598,18 +547,18 @@
           "source": "Softcat early careers",
           "first_seen": "2026-10-19",
           "employee_cap": "under_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
             "final_url": "https://jobs.softcat.com/jobs/vacancy/commercial-internship-2027-placement-year-4095-manchester/4115/description/",
-            "checked_at": "2026-11-09T09:05:49Z"
+            "checked_at": "2026-11-16T09:21:13Z"
           }
         },
         {
           "title": "E-Commerce Placement",
           "company": "Church & Dwight",
           "location": "London, UK",
-          "region": "UK",
           "duration": "12 months",
           "start": "2027-06",
           "deadline": "2026-12-11",
@@ -619,81 +568,39 @@
           "source": "Higherin (formerly RateMyPlacement)",
           "first_seen": "2026-10-26",
           "employee_cap": "under_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
             "final_url": "https://higherin.com/jobs/44986/church-dwight/e-commerce-placement",
-            "checked_at": "2026-11-09T09:05:52Z"
+            "checked_at": "2026-11-16T09:21:14Z"
           }
         },
         {
-          "title": "2027 Industrial Placement - Consulting (Strategy & Economics) - London",
-          "company": "PA Consulting",
-          "location": "London, UK",
-          "region": "UK",
-          "duration": "12 months",
+          "title": "Industrial Placements 2027 (Data, Risk, Supervision or Economics)",
+          "company": "Bank of England",
+          "location": "London / Leeds, UK",
+          "duration": "13 months",
           "start": "2027-07",
-          "deadline": "unknown (rolling; opened late October 2026)",
-          "function": "Consulting",
-          "why": "12-month strategy/economics consulting IP from July 2027 at London Victoria: growth plans, capital allocation and market analysis; any degree graduating 2029; \u00a328,860. PA ~4,000 people.",
-          "url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-strategy-economics-london-744000157427508",
-          "source": "PA Consulting UK industrial placements",
-          "first_seen": "2026-10-26",
+          "deadline": "2026-11-23",
+          "function": "Finance",
+          "why": "NEW 13-month undergraduate placement year from end of July 2027: Data, Risk and Supervision streams take any degree (Economics needs economics/finance); \u00a327,000 London / \u00a324,500 Leeds; closes 12:00 GMT 23 Nov 2026. Bank of England ~4,400 people.",
+          "url": "https://www.bankofengland.co.uk/careers/future-talent/industrial-placements",
+          "source": "Bank of England industrial placements",
+          "first_seen": "2026-11-16",
           "employee_cap": "under_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-strategy-economics-london-744000157427508",
-            "checked_at": "2026-11-09T09:05:53Z"
-          }
-        },
-        {
-          "title": "2027 UK Placement Programme (London, Belfast & Oxford)",
-          "company": "Oxford Economics",
-          "location": "London / Belfast / Oxford, UK",
           "region": "UK",
-          "duration": "12 months",
-          "start": "2027",
-          "deadline": "unknown (rolling from 2026-09-28)",
-          "function": "Strategy",
-          "why": "NEW 12-month industrial placement for economics/finance students: forecasting, research and consulting teams in London, Belfast or Oxford; rolling review. Oxford Economics ~400 people.",
-          "url": "https://careers.oxfordeconomics.com/en/postings/0f831a56-2ad7-4ee9-a267-b5a2954f37d9",
-          "source": "Oxford Economics early careers",
-          "first_seen": "2026-11-09",
-          "employee_cap": "under_20k",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://careers.oxfordeconomics.com/en/postings/0f831a56-2ad7-4ee9-a267-b5a2954f37d9",
-            "checked_at": "2026-11-09T09:05:54Z"
-          }
-        },
-        {
-          "title": "2027 Industrial Placement - Consulting (Business Design & Transformation) - London",
-          "company": "PA Consulting",
-          "location": "London, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027-07",
-          "deadline": "unknown (rolling; opened 22 Oct 2026)",
-          "function": "Consulting",
-          "why": "12-month business-design/transformation consulting IP from July 2027: operating models and large-scale change; any degree graduating 2029; \u00a328,860. PA ~4,000 people.",
-          "url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-business-design-transformation-london-744000157052305",
-          "source": "PA Consulting UK industrial placements",
-          "first_seen": "2026-10-26",
-          "employee_cap": "under_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-business-design-transformation-london-744000157052305",
-            "checked_at": "2026-11-09T09:05:54Z"
+            "final_url": "https://www.bankofengland.co.uk/careers/future-talent/industrial-placements",
+            "checked_at": "2026-11-16T09:21:14Z"
           }
         },
         {
           "title": "2027 Industrial Placement - Consulting (People & Change) - Belfast",
           "company": "PA Consulting",
           "location": "Belfast, UK",
-          "region": "UK",
           "duration": "12 months",
           "start": "2027-07",
           "deadline": "unknown (rolling; opened 22 Oct 2026)",
@@ -703,18 +610,39 @@
           "source": "PA Consulting UK industrial placements",
           "first_seen": "2026-11-02",
           "employee_cap": "under_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
             "final_url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-people-change-belfast-744000157086279",
-            "checked_at": "2026-11-09T09:05:55Z"
+            "checked_at": "2026-11-16T09:21:15Z"
+          }
+        },
+        {
+          "title": "2027 UK Placement Programme (London, Belfast & Oxford)",
+          "company": "Oxford Economics",
+          "location": "London / Belfast / Oxford, UK",
+          "duration": "12 months",
+          "start": "2027",
+          "deadline": "unknown (rolling from 2026-09-28)",
+          "function": "Strategy",
+          "why": "12-month industrial placement for economics/finance students: forecasting, research and consulting teams in London, Belfast or Oxford; rolling review. Oxford Economics ~400 people.",
+          "url": "https://careers.oxfordeconomics.com/en/postings/0f831a56-2ad7-4ee9-a267-b5a2954f37d9",
+          "source": "Oxford Economics early careers",
+          "first_seen": "2026-11-09",
+          "employee_cap": "under_20k",
+          "region": "UK",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://careers.oxfordeconomics.com/en/postings/0f831a56-2ad7-4ee9-a267-b5a2954f37d9",
+            "checked_at": "2026-11-16T09:21:16Z"
           }
         },
         {
           "title": "Consumer Engagement Placement",
           "company": "Church & Dwight",
           "location": "London, UK",
-          "region": "UK",
           "duration": "12 months",
           "start": "2027-06",
           "deadline": "2026-12-11",
@@ -724,81 +652,39 @@
           "source": "Higherin (formerly RateMyPlacement)",
           "first_seen": "2026-10-26",
           "employee_cap": "under_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
             "final_url": "https://higherin.com/jobs/44980/church-dwight/consumer-engagement-placement",
-            "checked_at": "2026-11-09T09:05:56Z"
+            "checked_at": "2026-11-16T09:21:17Z"
           }
         },
         {
-          "title": "Finance Placement - June 2027",
-          "company": "Pernod Ricard",
-          "location": "Chiswick, London, UK",
-          "region": "UK",
+          "title": "Sales Placement 2027",
+          "company": "Softcat",
+          "location": "Manchester / Marlow / London / Birmingham / Bristol / Leeds / Newcastle / South Coast, UK",
           "duration": "12 months",
-          "start": "2027-06-14",
-          "deadline": "2026-11-13",
-          "function": "Finance",
-          "why": "12-month finance IP from 14 Jun 2027: 3 Chiswick roles in UK FP&A, Chivas finance business partnering and travel-retail commercial finance; closes 13 Nov 2026. Pernod Ricard ~16,900 people.",
-          "url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Finance-Placement---June-2027_JR-055469-1",
-          "source": "Pernod Ricard UK industrial placements",
-          "first_seen": "2026-11-02",
-          "employee_cap": "under_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Finance-Placement---June-2027_JR-055469-1",
-            "checked_at": "2026-11-09T09:05:56Z"
-          }
-        },
-        {
-          "title": "Consulting Placement - Liverpool - September 2027",
-          "company": "RSM UK",
-          "location": "Liverpool, UK",
-          "region": "UK",
-          "duration": "12 months",
-          "start": "2027-09-14",
-          "deadline": "unknown (applications open)",
-          "function": "Consulting",
-          "why": "12-month sandwich consulting placement from 14 Sep 2027: Finance Function Support or Risk and Governance client work; sandwich degree; RSM UK ~6,300 people.",
-          "url": "https://higherin.com/jobs/44570/rsm/consulting-placement-liverpool-september-2027",
+          "start": "2027-07-05",
+          "deadline": "2026-11-30",
+          "function": "Commercial / GTM",
+          "why": "NEW 12-month sales placement from 5 Jul 2027: SMB corporate/public-sector sales support, new business and account management; \u00a322,000 plus bonus; closes 30 Nov 2026. Softcat ~2,925 people.",
+          "url": "https://higherin.com/jobs/46027/softcat/sales-placement-2027",
           "source": "Higherin (formerly RateMyPlacement)",
-          "first_seen": "2026-11-02",
+          "first_seen": "2026-11-16",
           "employee_cap": "under_20k",
-          "link": {
-            "status": "ok",
-            "http_status": 200,
-            "final_url": "https://higherin.com/jobs/44570/rsm/consulting-placement-liverpool-september-2027",
-            "checked_at": "2026-11-09T09:05:57Z"
-          }
-        },
-        {
-          "title": "2027 Industrial Placement - Consulting (Operations & Improvement) - London",
-          "company": "PA Consulting",
-          "location": "London, UK",
           "region": "UK",
-          "duration": "12 months",
-          "start": "2027-07",
-          "deadline": "unknown (rolling; opened 23 Oct 2026)",
-          "function": "Consulting",
-          "why": "12-month operations/improvement consulting IP from July 2027: process, supply-chain and customer-delivery work; any degree graduating 2029; \u00a328,860. PA ~4,000 people.",
-          "url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-operations-improvement-london-744000157424874",
-          "source": "PA Consulting UK industrial placements",
-          "first_seen": "2026-10-26",
-          "employee_cap": "under_20k",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-operations-improvement-london-744000157424874",
-            "checked_at": "2026-11-09T09:05:57Z"
+            "final_url": "https://higherin.com/jobs/46027/softcat/sales-placement-2027",
+            "checked_at": "2026-11-16T09:21:17Z"
           }
         },
         {
           "title": "2027 Industrial Placement - Consulting (Agile) - London",
           "company": "PA Consulting",
           "location": "London, UK",
-          "region": "UK",
           "duration": "12 months",
           "start": "2027-07",
           "deadline": "unknown (rolling; opened late October 2026)",
@@ -808,60 +694,60 @@
           "source": "PA Consulting UK industrial placements",
           "first_seen": "2026-10-26",
           "employee_cap": "under_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
             "final_url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-agile-london-744000157427258",
-            "checked_at": "2026-11-09T09:05:58Z"
+            "checked_at": "2026-11-16T09:21:18Z"
           }
         },
         {
-          "title": "2027 Industrial Placement - Consulting (Delivery) - London",
-          "company": "PA Consulting",
-          "location": "London, UK",
-          "region": "UK",
+          "title": "Consulting Placement - Liverpool - September 2027",
+          "company": "RSM UK",
+          "location": "Liverpool, UK",
           "duration": "12 months",
-          "start": "2027-07",
-          "deadline": "unknown (rolling; opened late October 2026)",
+          "start": "2027-09-14",
+          "deadline": "unknown (applications open)",
           "function": "Consulting",
-          "why": "12-month Delivery consulting IP from July 2027: project/programme work across health, energy and defence; any degree graduating 2029; \u00a328,860. PA ~4,000 people.",
-          "url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-delivery-london-744000157399384",
-          "source": "PA Consulting UK industrial placements",
-          "first_seen": "2026-10-26",
+          "why": "12-month sandwich consulting placement from 14 Sep 2027: Finance Function Support or Risk and Governance client work; sandwich degree; RSM UK ~6,300 people.",
+          "url": "https://higherin.com/jobs/44570/rsm/consulting-placement-liverpool-september-2027",
+          "source": "Higherin (formerly RateMyPlacement)",
+          "first_seen": "2026-11-02",
           "employee_cap": "under_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-delivery-london-744000157399384",
-            "checked_at": "2026-11-09T09:05:58Z"
+            "final_url": "https://higherin.com/jobs/44570/rsm/consulting-placement-liverpool-september-2027",
+            "checked_at": "2026-11-16T09:21:18Z"
           }
         },
         {
-          "title": "Register Your Interest - Marketing Placement 2027",
-          "company": "Church & Dwight",
-          "location": "London, UK",
-          "region": "UK",
+          "title": "Private Capital Audit 12 Month Placement Programme (Summer 2027) - Milton Keynes",
+          "company": "Grant Thornton UK",
+          "location": "Milton Keynes, UK",
           "duration": "12 months",
           "start": "2027",
-          "deadline": "unknown (register interest until applications open)",
-          "function": "Marketing",
-          "why": "12-month marketing intern on Beauty, Health Care or Personal Care brands in London. Church & Dwight ~5,550 people.",
-          "url": "https://higherin.com/jobs/43185/church-dwight/register-your-interest-marketing-placement-2027",
-          "source": "Higherin (formerly RateMyPlacement)",
-          "first_seen": "2026-09-28",
+          "deadline": "unknown (applications open; rolling)",
+          "function": "Finance",
+          "why": "NEW 12-month private-capital audit sandwich in Milton Keynes; \u00a329,300; AI-enabled audit work with client exposure. Grant Thornton UK ~6,000 people.",
+          "url": "https://ukgrantt.wd3.myworkdayjobs.com/en-US/TraineeCareersGrantThornton/job/Private-Capital-Audit-12-Month-Placement-Programme--Summer-2027----Milton-Keynes_TRN27_218",
+          "source": "Grant Thornton internships and placements",
+          "first_seen": "2026-11-16",
           "employee_cap": "under_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
-            "final_url": "https://higherin.com/jobs/43185/church-dwight/register-your-interest-marketing-placement-2027",
-            "checked_at": "2026-11-09T09:05:59Z"
+            "final_url": "https://ukgrantt.wd3.myworkdayjobs.com/en-US/TraineeCareersGrantThornton/job/Private-Capital-Audit-12-Month-Placement-Programme--Summer-2027----Milton-Keynes_TRN27_218",
+            "checked_at": "2026-11-16T09:21:19Z"
           }
         },
         {
           "title": "Tax 12 Month Placement Programme (Summer 2027) - London",
           "company": "Grant Thornton UK",
           "location": "London, UK",
-          "region": "UK",
           "duration": "12 months",
           "start": "2027",
           "deadline": "unknown (applications open; rolling)",
@@ -871,39 +757,39 @@
           "source": "Grant Thornton internships and placements",
           "first_seen": "2026-10-19",
           "employee_cap": "under_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
             "final_url": "https://ukgrantt.wd3.myworkdayjobs.com/en-US/TraineeCareersGrantThornton/job/Tax-12-Month-Placement-Programme--Summer-2027----London_TRN27_201",
-            "checked_at": "2026-11-09T09:05:59Z"
+            "checked_at": "2026-11-16T09:21:19Z"
           }
         },
         {
           "title": "Deal Advisory \u2014 Placement Student 2027",
           "company": "Menzies LLP",
           "location": "Fareham, UK",
-          "region": "UK",
           "duration": "12 months",
           "start": "2027",
           "deadline": "unknown (applications open)",
           "function": "Finance",
-          "why": "NEW 12-month deal-advisory sandwich in Fareham at an independent B Corp (~1,100 people); 2:2 any degree.",
+          "why": "12-month deal-advisory sandwich in Fareham at an independent B Corp (~1,100 people); 2:2 any degree.",
           "url": "https://menzies.pinpointhq.com/en/postings/981db595-21a5-411d-be7a-00aeabeb8cb1",
           "source": "Menzies LLP careers",
           "first_seen": "2026-11-09",
           "employee_cap": "under_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
             "final_url": "https://menzies.pinpointhq.com/",
-            "checked_at": "2026-11-09T09:06:00Z"
+            "checked_at": "2026-11-16T09:21:19Z"
           }
         },
         {
           "title": "Supply Planning Placement",
           "company": "Church & Dwight",
           "location": "Folkestone, UK",
-          "region": "UK",
           "duration": "12 months",
           "start": "2027",
           "deadline": "2026-12-11",
@@ -913,11 +799,138 @@
           "source": "Higherin (formerly RateMyPlacement)",
           "first_seen": "2026-10-19",
           "employee_cap": "under_20k",
+          "region": "UK",
           "link": {
             "status": "ok",
             "http_status": 200,
             "final_url": "https://higherin.com/jobs/44981/church-dwight/supply-planning-placement",
-            "checked_at": "2026-11-09T09:06:01Z"
+            "checked_at": "2026-11-16T09:21:21Z"
+          }
+        },
+        {
+          "title": "Register Your Interest - Marketing Placement 2027",
+          "company": "Church & Dwight",
+          "location": "London, UK",
+          "duration": "12 months",
+          "start": "2027",
+          "deadline": "unknown (register interest until applications open)",
+          "function": "Marketing",
+          "why": "12-month marketing intern on Beauty, Health Care or Personal Care brands in London. Church & Dwight ~5,550 people.",
+          "url": "https://higherin.com/jobs/43185/church-dwight/register-your-interest-marketing-placement-2027",
+          "source": "Higherin (formerly RateMyPlacement)",
+          "first_seen": "2026-09-28",
+          "employee_cap": "under_20k",
+          "region": "UK",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://higherin.com/jobs/43185/church-dwight/register-your-interest-marketing-placement-2027",
+            "checked_at": "2026-11-16T09:21:21Z"
+          }
+        },
+        {
+          "title": "Register Your Interest - Industrial Placements 2027",
+          "company": "Forvis Mazars",
+          "location": "UK",
+          "duration": "12 months",
+          "start": "2027",
+          "deadline": "unknown (register interest until applications open)",
+          "function": "Finance",
+          "why": "12-month sandwich industrial placements across UK offices; register interest until 2027 applications open. Forvis Mazars UK ~3,500 people.",
+          "url": "https://higherin.com/jobs/43792/forvis-mazars/register-your-interest-industrial-placements-2027",
+          "source": "Higherin (formerly RateMyPlacement)",
+          "first_seen": "2026-10-06",
+          "employee_cap": "under_20k",
+          "region": "UK",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://higherin.com/jobs/43792/forvis-mazars/register-your-interest-industrial-placements-2027",
+            "checked_at": "2026-11-16T09:21:22Z"
+          }
+        },
+        {
+          "title": "Deal Advisory \u2014 Placement Student 2027 (London)",
+          "company": "Menzies LLP",
+          "location": "London, UK",
+          "duration": "12 months",
+          "start": "2027",
+          "deadline": "unknown (applications open)",
+          "function": "Finance",
+          "why": "12-month deal-advisory sandwich in London at an independent B Corp (~1,100 people); 2:2 any degree.",
+          "url": "https://menzies.pinpointhq.com/en/postings/378239ee-5b71-4886-af47-236693e29acf",
+          "source": "Menzies LLP careers",
+          "first_seen": "2026-10-06",
+          "employee_cap": "under_20k",
+          "region": "UK",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://menzies.pinpointhq.com/",
+            "checked_at": "2026-11-16T09:21:22Z"
+          }
+        },
+        {
+          "title": "Accountancy \u2014 Placement Student 2027",
+          "company": "Menzies LLP",
+          "location": "Staines-upon-Thames, UK",
+          "duration": "12 months",
+          "start": "2027",
+          "deadline": "unknown (applications open)",
+          "function": "Finance",
+          "why": "12-month accountancy sandwich in Staines at an independent B Corp (~1,100 people).",
+          "url": "https://menzies.pinpointhq.com/en/postings/06239942-7a5e-4652-96ca-46bff6c6726d",
+          "source": "Menzies LLP careers",
+          "first_seen": "2026-10-06",
+          "employee_cap": "under_20k",
+          "region": "UK",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://menzies.pinpointhq.com/en/postings/06239942-7a5e-4652-96ca-46bff6c6726d",
+            "checked_at": "2026-11-16T09:21:23Z"
+          }
+        },
+        {
+          "title": "Audit & Assurance \u2014 Placement Student 2027",
+          "company": "Menzies LLP",
+          "location": "Gatwick, UK",
+          "duration": "12 months",
+          "start": "2027",
+          "deadline": "unknown (applications open)",
+          "function": "Finance",
+          "why": "12-month audit sandwich in Gatwick at an independent B Corp (~1,100 people).",
+          "url": "https://menzies.pinpointhq.com/en/postings/f90aa516-3c49-48b2-b77f-e97fadb7ac26",
+          "source": "Menzies LLP careers",
+          "first_seen": "2026-10-12",
+          "employee_cap": "under_20k",
+          "region": "UK",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://menzies.pinpointhq.com/",
+            "checked_at": "2026-11-16T09:21:24Z"
+          }
+        },
+        {
+          "title": "Tax 12 Month Placement Programme (Summer 2027) - Birmingham",
+          "company": "Grant Thornton UK",
+          "location": "Birmingham, UK",
+          "duration": "12 months",
+          "start": "2027",
+          "deadline": "unknown (applications open; rolling)",
+          "function": "Finance",
+          "why": "12-month tax sandwich in Birmingham across compliance and advisory. Grant Thornton UK ~6,000 people.",
+          "url": "https://ukgrantt.wd3.myworkdayjobs.com/en-US/TraineeCareersGrantThornton/job/Tax-12-Month-Placement-Programme--Summer-2027----Birmingham_TRN27_2022",
+          "source": "Grant Thornton internships and placements",
+          "first_seen": "2026-10-26",
+          "employee_cap": "under_20k",
+          "region": "UK",
+          "link": {
+            "status": "ok",
+            "http_status": 200,
+            "final_url": "https://ukgrantt.wd3.myworkdayjobs.com/en-US/TraineeCareersGrantThornton/job/Tax-12-Month-Placement-Programme--Summer-2027----Birmingham_TRN27_2022",
+            "checked_at": "2026-11-16T09:21:25Z"
           }
         }
       ]
@@ -925,115 +938,114 @@
   },
   "offers": [
     {
-      "title": "Marketing Placement - June 2027",
-      "company": "Pernod Ricard",
-      "location": "Chiswick, London, UK",
-      "region": "UK",
+      "title": "2027 - Digital and Brand Marketing Student Placement",
+      "company": "Toyota GB",
+      "location": "Burgh Heath / Epsom, UK",
       "duration": "12 months",
-      "start": "2027-06-14",
-      "deadline": "2026-11-13",
+      "start": "2027",
+      "deadline": "2026-12-18",
       "function": "Marketing",
-      "why": "12-month UK marketing IP from 14 Jun 2027: 10 Chiswick roles across brand and customer marketing (on-trade/off-trade); hybrid; closes 13 Nov 2026. Pernod Ricard ~16,900 people.",
-      "url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Marketing-Placement---June-2027_JR-055455-1",
-      "source": "Pernod Ricard UK industrial placements",
-      "first_seen": "2026-11-02",
-      "employee_cap": "under_20k",
+      "why": "NEW 12-month digital/brand marketing IP at Toyota GB Eco-HQ: content, campaigns, digital platforms and customer journeys; marketing/business degree with a year in industry; from \u00a325,500 plus \u00a31k relocation; closes 18 Dec 2026.",
+      "url": "https://www.jobtrain.co.uk/Toyota/Job/JobDetail?JobId=464",
+      "source": "Toyota GB careers",
+      "first_seen": "2026-11-16",
+      "employee_cap": "over_20k",
+      "region": "UK",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Marketing-Placement---June-2027_JR-055455-1",
-        "checked_at": "2026-11-09T09:05:43Z"
+        "final_url": "https://www.jobtrain.co.uk/Toyota/Job/JobDetail?JobId=464",
+        "checked_at": "2026-11-16T09:21:05Z"
       }
     },
     {
-      "title": "Strategy & Commercial Insights Placements - June 2027",
-      "company": "Pernod Ricard",
-      "location": "Chiswick, London, UK",
-      "region": "UK",
+      "title": "2027 - Product Marketing Student Placement",
+      "company": "Toyota GB",
+      "location": "Burgh Heath / Epsom, UK",
       "duration": "12 months",
-      "start": "2027-06-14",
-      "deadline": "2026-11-13",
-      "function": "Strategy",
-      "why": "12-month strategy/commercial-insights IP from 14 Jun 2027: 4 Chiswick roles including Chivas Brothers business strategy, market/shopper data and brand planning; closes 13 Nov 2026. Pernod Ricard ~16,900 people.",
-      "url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Strategy---Commercial-Insights-Placements---June-2027_JR-055459",
-      "source": "Pernod Ricard UK industrial placements",
-      "first_seen": "2026-11-02",
-      "employee_cap": "under_20k",
-      "link": {
-        "status": "ok",
-        "http_status": 200,
-        "final_url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Strategy---Commercial-Insights-Placements---June-2027_JR-055459",
-        "checked_at": "2026-11-09T09:05:43Z"
-      }
-    },
-    {
-      "title": "Industrial Placement - Management Consulting (People & Organisation and Science & Industry)",
-      "company": "Arup",
-      "location": "Bristol, UK",
+      "start": "2027",
+      "deadline": "2026-12-18",
+      "function": "Marketing",
+      "why": "NEW 12-month product-marketing IP at Toyota/Lexus UK: positioning, pricing and consumer offers; marketing/business degree with a year in industry; from \u00a325,500; closes 18 Dec 2026.",
+      "url": "https://www.jobtrain.co.uk/Toyota/Job/JobDetail?JobId=467",
+      "source": "Toyota GB careers",
+      "first_seen": "2026-11-16",
+      "employee_cap": "over_20k",
       "region": "UK",
-      "duration": "10\u201312 months",
-      "start": "2027-09-01",
-      "deadline": "2026-11-12",
-      "function": "Consulting",
-      "why": "10\u201312 month management-consulting IP from 1 Sep 2027: strategy, org design, change and insight with client workshops; business/commerce degrees welcome; closes 12 Nov 2026. Arup ~18,600 people.",
-      "url": "https://jobs.arup.com/jobs/industrial-placement-management-consulting-people-organisation-and-science-industry-34961",
-      "source": "Arup industrial placements",
-      "first_seen": "2026-11-02",
-      "employee_cap": "under_20k",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://jobs.arup.com/jobs/industrial-placement-management-consulting-people-organisation-and-science-industry-34961",
-        "checked_at": "2026-11-09T09:05:43Z"
+        "final_url": "https://www.jobtrain.co.uk/Toyota/Job/JobDetail?JobId=467",
+        "checked_at": "2026-11-16T09:21:06Z"
       }
     },
     {
       "title": "2027 Marketing & Merchandising Placement Scheme",
       "company": "TUI",
       "location": "Luton, UK",
-      "region": "UK",
       "duration": "12 months",
       "start": "2027",
       "deadline": "2026-12-23",
       "function": "Marketing",
-      "why": "NEW 12-month digital merchandising/promotions IP in Luton: on-site campaigns for tui.co.uk, trading analysis and promotional execution; penultimate year; \u00a324,600; closes 23 Dec 2026.",
+      "why": "12-month digital merchandising/promotions IP in Luton: on-site campaigns for tui.co.uk, trading analysis and promotional execution; penultimate year; \u00a324,600; closes 23 Dec 2026.",
       "url": "https://careers.tuigroup.com/en/job/luton/2027-marketing-and-merchandising-placement-scheme/2937/46646795904",
       "source": "TUI Placements UK & I",
       "first_seen": "2026-11-09",
       "employee_cap": "over_20k",
+      "region": "UK",
       "link": {
         "status": "ok",
         "http_status": 200,
         "final_url": "https://careers.tuigroup.com/en/job/luton/2027-marketing-and-merchandising-placement-scheme/2937/46646795904",
-        "checked_at": "2026-11-09T09:05:44Z"
+        "checked_at": "2026-11-16T09:21:07Z"
       }
     },
     {
       "title": "2027 Business & Commercial Placement Scheme",
       "company": "TUI",
       "location": "Luton, UK",
-      "region": "UK",
       "duration": "12 months",
       "start": "2027",
       "deadline": "2026-12-23",
       "function": "Commercial / GTM",
-      "why": "NEW 12-month yield or planning/product commercial IP in Luton: holiday pricing, competitor monitoring and destination portfolios; penultimate year; \u00a324,600; closes 23 Dec 2026.",
+      "why": "12-month yield or planning/product commercial IP in Luton: holiday pricing, competitor monitoring and destination portfolios; penultimate year; \u00a324,600; closes 23 Dec 2026.",
       "url": "https://careers.tuigroup.com/en/job/luton/2027-business-and-commercial-placement-scheme/2937/46643036224",
       "source": "TUI Placements UK & I",
       "first_seen": "2026-11-09",
       "employee_cap": "over_20k",
+      "region": "UK",
       "link": {
         "status": "ok",
         "http_status": 200,
         "final_url": "https://careers.tuigroup.com/en/job/luton/2027-business-and-commercial-placement-scheme/2937/46643036224",
-        "checked_at": "2026-11-09T09:05:45Z"
+        "checked_at": "2026-11-16T09:21:07Z"
+      }
+    },
+    {
+      "title": "Marketing Student Placement",
+      "company": "Kenvue",
+      "location": "Reading, UK",
+      "duration": "12 months",
+      "start": "2027-06",
+      "deadline": "unknown (applications open)",
+      "function": "Marketing",
+      "why": "NEW 12-month brand-marketing IP from June 2027 in Reading: 8 roles on Aveeno, Listerine, Johnson's, Calpol and Neutrogena; campaigns, social, PR and brand budget; business-related degree, 2:1 first year. Kenvue ~22,000 people.",
+      "url": "https://kenvue.wd5.myworkdayjobs.com/en-US/kenvue/job/Marketing-Student-Placement_2607049246W",
+      "source": "Kenvue student & graduate careers",
+      "first_seen": "2026-11-16",
+      "employee_cap": "over_20k",
+      "region": "UK",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://kenvue.wd5.myworkdayjobs.com/en-US/kenvue/job/Marketing-Student-Placement_2607049246W",
+        "checked_at": "2026-11-16T09:21:08Z"
       }
     },
     {
       "title": "Marketing Placement 2027",
       "company": "NBCUniversal",
       "location": "London, UK",
-      "region": "UK",
       "duration": "12 months",
       "start": "2027-07-05",
       "deadline": "2026-11-16",
@@ -1043,18 +1055,18 @@
       "source": "Higherin (formerly RateMyPlacement)",
       "first_seen": "2026-10-12",
       "employee_cap": "over_20k",
+      "region": "UK",
       "link": {
         "status": "ok",
         "http_status": 200,
         "final_url": "https://higherin.com/jobs/45908/nbcuniversal/marketing-placement-2027",
-        "checked_at": "2026-11-09T09:05:46Z"
+        "checked_at": "2026-11-16T09:21:08Z"
       }
     },
     {
       "title": "Marketing, Promotions & Creative Placement 2027",
       "company": "NBCUniversal",
       "location": "London, UK",
-      "region": "UK",
       "duration": "12 months",
       "start": "2027-07-05",
       "deadline": "2026-11-16",
@@ -1064,60 +1076,18 @@
       "source": "Higherin (formerly RateMyPlacement)",
       "first_seen": "2026-10-12",
       "employee_cap": "over_20k",
+      "region": "UK",
       "link": {
         "status": "ok",
         "http_status": 200,
         "final_url": "https://higherin.com/jobs/45909/nbcuniversal/marketing-promotions-creative-placement-2027",
-        "checked_at": "2026-11-09T09:05:46Z"
-      }
-    },
-    {
-      "title": "Marketing Communications Placement 2027 - Redditch",
-      "company": "Cummins",
-      "location": "Redditch, UK",
-      "region": "UK",
-      "duration": "12 months",
-      "start": "2027",
-      "deadline": "2026-11-12",
-      "function": "Marketing",
-      "why": "12-month aftermarket digital-marketing comms IP in Redditch from summer 2027: campaigns, brand, partner relationships; 3 days onsite; closes 12 Nov 2026.",
-      "url": "https://higherin.com/jobs/45486/cummins/marketing-communications-placement-2027-redditch",
-      "source": "Higherin (formerly RateMyPlacement)",
-      "first_seen": "2026-11-02",
-      "employee_cap": "over_20k",
-      "link": {
-        "status": "ok",
-        "http_status": 200,
-        "final_url": "https://higherin.com/jobs/45486/cummins/marketing-communications-placement-2027-redditch",
-        "checked_at": "2026-11-09T09:05:47Z"
-      }
-    },
-    {
-      "title": "Field Marketing Intern \u2013 12 Month Fixed Term Placement",
-      "company": "Sophos",
-      "location": "United Kingdom (remote / Abingdon HQ)",
-      "region": "UK",
-      "duration": "12 months",
-      "start": "2027-06",
-      "deadline": "unknown (applications open)",
-      "function": "Marketing",
-      "why": "NEW 12-month field-marketing IP from June 2027: campaigns, events, webinars and social; marketing (or related) degree with a required placement year. Sophos ~4,700 people.",
-      "url": "https://jobs.ashbyhq.com/sophos/e916c3b2-bd81-44c9-ab57-1644c0505a8a",
-      "source": "Sophos careers",
-      "first_seen": "2026-11-09",
-      "employee_cap": "under_20k",
-      "link": {
-        "status": "ok",
-        "http_status": 200,
-        "final_url": "https://jobs.ashbyhq.com/sophos/e916c3b2-bd81-44c9-ab57-1644c0505a8a",
-        "checked_at": "2026-11-09T09:05:47Z"
+        "checked_at": "2026-11-16T09:21:09Z"
       }
     },
     {
       "title": "Aon Industrial Placement Programme 2027 - Marketing and Communications",
       "company": "Aon",
       "location": "London, UK",
-      "region": "UK",
       "duration": "12 months",
       "start": "2027-09-01",
       "deadline": "2026-12-07",
@@ -1127,81 +1097,39 @@
       "source": "Aon UK internships",
       "first_seen": "2026-10-26",
       "employee_cap": "over_20k",
+      "region": "UK",
       "link": {
         "status": "ok",
         "http_status": 200,
         "final_url": "https://jobs.aon.com/jobs/107792?lang=en-us",
-        "checked_at": "2026-11-09T09:05:48Z"
+        "checked_at": "2026-11-16T09:21:09Z"
       }
     },
     {
-      "title": "Commercial Strategy & Operations Placement 2027",
-      "company": "NBCUniversal",
-      "location": "London, UK",
-      "region": "UK",
-      "duration": "12 months",
-      "start": "2027-07-05",
+      "title": "2027 Industrial Placement - Employee Benefits Consulting - Manchester",
+      "company": "Isio",
+      "location": "Manchester, UK",
+      "duration": "13 months",
+      "start": "2027-06-28",
       "deadline": "2026-11-16",
-      "function": "Strategy",
-      "why": "12-month Universal Pictures International commercial-strategy internship from 5 Jul 2027: cinema-client trading and performance metrics across EMEA/APAC/LATAM; \u00a329,000; closes 16 Nov 2026.",
-      "url": "https://higherin.com/jobs/45811/nbcuniversal/commercial-strategy-operations-placement-2027",
-      "source": "Higherin (formerly RateMyPlacement)",
-      "first_seen": "2026-10-19",
-      "employee_cap": "over_20k",
-      "link": {
-        "status": "ok",
-        "http_status": 200,
-        "final_url": "https://higherin.com/jobs/45811/nbcuniversal/commercial-strategy-operations-placement-2027",
-        "checked_at": "2026-11-09T09:05:48Z"
-      }
-    },
-    {
-      "title": "Clients and Industries Industrial Placement \u2013 September 2027 - London",
-      "company": "EY",
-      "location": "London, UK",
-      "region": "UK",
-      "duration": "11 months",
-      "start": "2027-07",
-      "deadline": "unknown (ongoing; may close early)",
-      "function": "Commercial / GTM",
-      "why": "NEW 11-month clients-and-industries IP from July 2027: sector go-to-market, client relationships and insight; any degree; London.",
-      "url": "https://higherin.com/jobs/46514/ey/clients-and-industries-industrial-placement-september-2027-london",
-      "source": "Higherin (formerly RateMyPlacement)",
-      "first_seen": "2026-11-09",
-      "employee_cap": "over_20k",
-      "link": {
-        "status": "ok",
-        "http_status": 200,
-        "final_url": "https://higherin.com/jobs/46514/ey/clients-and-industries-industrial-placement-september-2027-london",
-        "checked_at": "2026-11-09T09:05:49Z"
-      }
-    },
-    {
-      "title": "Commercial Internship 2027 (Placement Year)",
-      "company": "Softcat",
-      "location": "Marlow / Manchester / Birmingham / Bristol / South Coast, UK",
-      "region": "UK",
-      "duration": "12 months",
-      "start": "2027-07-05",
-      "deadline": "2026-11-30",
-      "function": "Commercial / GTM",
-      "why": "12-month commercial/marketing placement from 5 Jul 2027: vendor alliances, CX and data strategy; \u00a322,000; penultimate year any degree; closes 30 Nov 2026. Softcat ~2,925 people.",
-      "url": "https://jobs.softcat.com/jobs/vacancy/commercial-internship-2027-placement-year-4095-manchester/4115/description/",
-      "source": "Softcat early careers",
-      "first_seen": "2026-10-19",
+      "function": "Consulting",
+      "why": "NEW 13-month employee-benefits consulting IP from 28 Jun 2027: benefit strategy, client meetings, communications and DC pensions; any degree returning to final year in 2028; closes 16 Nov 2026 5pm. Isio ~1,800 people.",
+      "url": "https://isio.teamtailor.com/jobs/8404446-2027-industrial-placement-employee-benefits-consulting-manchester",
+      "source": "Isio early careers",
+      "first_seen": "2026-11-16",
       "employee_cap": "under_20k",
+      "region": "UK",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://jobs.softcat.com/jobs/vacancy/commercial-internship-2027-placement-year-4095-manchester/4115/description/",
-        "checked_at": "2026-11-09T09:05:49Z"
+        "final_url": "https://careers.isio.com/jobs/8404446-2027-industrial-placement-employee-benefits-consulting-manchester",
+        "checked_at": "2026-11-16T09:21:10Z"
       }
     },
     {
       "title": "Commercial Industrial Placement",
       "company": "Carlsberg Britvic",
       "location": "Hemel Hempstead, UK",
-      "region": "UK",
       "duration": "12 months",
       "start": "2027-07-26",
       "deadline": "2026-12-11",
@@ -1211,11 +1139,12 @@
       "source": "Carlsberg Britvic careers",
       "first_seen": "2026-10-26",
       "employee_cap": "over_20k",
+      "region": "UK",
       "link": {
         "status": "ok",
         "http_status": 200,
         "final_url": "https://careers.carlsberg.com/CarlsbergMarstons/job/Hemel-Hempstead-Commercial-Industrial-Placement/1449099933/",
-        "checked_at": "2026-11-09T09:05:50Z"
+        "checked_at": "2026-11-16T09:21:10Z"
       }
     },
     {
@@ -1236,56 +1165,118 @@
         "status": "ok",
         "http_status": 200,
         "final_url": "https://higherin.com/jobs/44284/samsung-electronics/marketing-placement-2027-dublin",
-        "checked_at": "2026-11-09T09:05:51Z"
+        "checked_at": "2026-11-16T09:21:11Z"
       }
     },
     {
       "title": "2027 Commercial Placement Scheme - Crystal Ski",
       "company": "TUI",
       "location": "Surbiton, UK",
-      "region": "UK",
       "duration": "12 months",
       "start": "2027",
       "deadline": "2026-12-23",
       "function": "Commercial / GTM",
-      "why": "NEW 12-month Product and Planning Specialist IP with Crystal Ski / Lakes and Mountains in Surbiton: destination planning, performance data and web content; \u00a324,600; closes 23 Dec 2026.",
+      "why": "12-month Product and Planning Specialist IP with Crystal Ski / Lakes and Mountains in Surbiton: destination planning, performance data and web content; \u00a324,600; closes 23 Dec 2026.",
       "url": "https://careers.tuigroup.com/en/job/surbiton/2027-commercial-placement-scheme-crystal-ski/2937/46646774848",
       "source": "TUI Placements UK & I",
       "first_seen": "2026-11-09",
       "employee_cap": "over_20k",
+      "region": "UK",
       "link": {
         "status": "ok",
         "http_status": 200,
         "final_url": "https://careers.tuigroup.com/en/job/surbiton/2027-commercial-placement-scheme-crystal-ski/2937/46646774848",
-        "checked_at": "2026-11-09T09:05:51Z"
+        "checked_at": "2026-11-16T09:21:11Z"
+      }
+    },
+    {
+      "title": "Commercial Student Placement",
+      "company": "Kenvue",
+      "location": "Reading, UK",
+      "duration": "12 months",
+      "start": "2027-06",
+      "deadline": "unknown (applications open)",
+      "function": "Commercial / GTM",
+      "why": "NEW 12-month commercial IP from June 2027 in Reading: retailer account work, store visits, trade investment and joint business planning with marketing; business-related degree. Kenvue ~22,000 people.",
+      "url": "https://kenvue.wd5.myworkdayjobs.com/en-US/kenvue/job/Commercial-Student-Placement_2607049245W",
+      "source": "Kenvue student & graduate careers",
+      "first_seen": "2026-11-16",
+      "employee_cap": "over_20k",
+      "region": "UK",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://kenvue.wd5.myworkdayjobs.com/en-US/kenvue/job/Commercial-Student-Placement_2607049245W",
+        "checked_at": "2026-11-16T09:21:11Z"
+      }
+    },
+    {
+      "title": "Commercial Strategy & Operations Placement 2027",
+      "company": "NBCUniversal",
+      "location": "London, UK",
+      "duration": "12 months",
+      "start": "2027-07-05",
+      "deadline": "2026-11-30",
+      "function": "Strategy",
+      "why": "12-month Universal Pictures International commercial-strategy internship from 5 Jul 2027: cinema-client trading and performance metrics across EMEA/APAC/LATAM; \u00a329,000; Higherin now lists 30 Nov 2026.",
+      "url": "https://higherin.com/jobs/45811/nbcuniversal/commercial-strategy-operations-placement-2027",
+      "source": "Higherin (formerly RateMyPlacement)",
+      "first_seen": "2026-10-19",
+      "employee_cap": "over_20k",
+      "region": "UK",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://higherin.com/jobs/45811/nbcuniversal/commercial-strategy-operations-placement-2027",
+        "checked_at": "2026-11-16T09:21:11Z"
       }
     },
     {
       "title": "Key Account Management Placement 2027",
       "company": "NBCUniversal",
       "location": "London, UK",
-      "region": "UK",
       "duration": "12 months",
       "start": "2027-07-05",
       "deadline": "2026-11-16",
       "function": "Commercial / GTM",
-      "why": "NEW 12-month EMEA account-management internship from 5 Jul 2027: release grids, market pricing and lifecycle strategy; \u00a329,000; closes 16 Nov 2026.",
+      "why": "12-month EMEA account-management internship from 5 Jul 2027: release grids, market pricing and lifecycle strategy; \u00a329,000; closes 16 Nov 2026.",
       "url": "https://higherin.com/jobs/45906/nbcuniversal/key-account-management-placement-2027",
       "source": "Higherin (formerly RateMyPlacement)",
       "first_seen": "2026-11-09",
       "employee_cap": "over_20k",
+      "region": "UK",
       "link": {
         "status": "ok",
         "http_status": 200,
         "final_url": "https://higherin.com/jobs/45906/nbcuniversal/key-account-management-placement-2027",
-        "checked_at": "2026-11-09T09:05:52Z"
+        "checked_at": "2026-11-16T09:21:12Z"
+      }
+    },
+    {
+      "title": "Commercial Internship 2027 (Placement Year)",
+      "company": "Softcat",
+      "location": "Marlow / Manchester / Birmingham / Bristol / South Coast, UK",
+      "duration": "12 months",
+      "start": "2027-07-05",
+      "deadline": "2026-11-30",
+      "function": "Commercial / GTM",
+      "why": "12-month commercial/marketing placement from 5 Jul 2027: vendor alliances, CX and data strategy; \u00a322,000; penultimate year any degree; closes 30 Nov 2026. Softcat ~2,925 people.",
+      "url": "https://jobs.softcat.com/jobs/vacancy/commercial-internship-2027-placement-year-4095-manchester/4115/description/",
+      "source": "Softcat early careers",
+      "first_seen": "2026-10-19",
+      "employee_cap": "under_20k",
+      "region": "UK",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://jobs.softcat.com/jobs/vacancy/commercial-internship-2027-placement-year-4095-manchester/4115/description/",
+        "checked_at": "2026-11-16T09:21:13Z"
       }
     },
     {
       "title": "E-Commerce Placement",
       "company": "Church & Dwight",
       "location": "London, UK",
-      "region": "UK",
       "duration": "12 months",
       "start": "2027-06",
       "deadline": "2026-12-11",
@@ -1295,53 +1286,75 @@
       "source": "Higherin (formerly RateMyPlacement)",
       "first_seen": "2026-10-26",
       "employee_cap": "under_20k",
+      "region": "UK",
       "link": {
         "status": "ok",
         "http_status": 200,
         "final_url": "https://higherin.com/jobs/44986/church-dwight/e-commerce-placement",
-        "checked_at": "2026-11-09T09:05:52Z"
+        "checked_at": "2026-11-16T09:21:14Z"
       }
     },
     {
-      "title": "2027 Industrial Placement - Consulting (Strategy & Economics) - London",
-      "company": "PA Consulting",
-      "location": "London, UK",
-      "region": "UK",
-      "duration": "12 months",
+      "title": "Industrial Placements 2027 (Data, Risk, Supervision or Economics)",
+      "company": "Bank of England",
+      "location": "London / Leeds, UK",
+      "duration": "13 months",
       "start": "2027-07",
-      "deadline": "unknown (rolling; opened late October 2026)",
-      "function": "Consulting",
-      "why": "12-month strategy/economics consulting IP from July 2027 at London Victoria: growth plans, capital allocation and market analysis; any degree graduating 2029; \u00a328,860. PA ~4,000 people.",
-      "url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-strategy-economics-london-744000157427508",
-      "source": "PA Consulting UK industrial placements",
-      "first_seen": "2026-10-26",
+      "deadline": "2026-11-23",
+      "function": "Finance",
+      "why": "NEW 13-month undergraduate placement year from end of July 2027: Data, Risk and Supervision streams take any degree (Economics needs economics/finance); \u00a327,000 London / \u00a324,500 Leeds; closes 12:00 GMT 23 Nov 2026. Bank of England ~4,400 people.",
+      "url": "https://www.bankofengland.co.uk/careers/future-talent/industrial-placements",
+      "source": "Bank of England industrial placements",
+      "first_seen": "2026-11-16",
       "employee_cap": "under_20k",
+      "region": "UK",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://www.paconsulting.com/jobs/2027-industrial-placement-consulting-strategy-economics-london-744000157427508",
-        "checked_at": "2026-11-09T09:05:53Z"
+        "final_url": "https://www.bankofengland.co.uk/careers/future-talent/industrial-placements",
+        "checked_at": "2026-11-16T09:21:14Z"
       }
     },
     {
-      "title": "2027 UK Placement Programme (London, Belfast & Oxford)",
-      "company": "Oxford Economics",
-      "location": "London / Belfast / Oxford, UK",
-      "region": "UK",
-      "duration": "12 months",
-      "start": "2027",
-      "deadline": "unknown (rolling from 2026-09-28)",
-      "function": "Strategy",
-      "why": "NEW 12-month industrial placement for economics/finance students: forecasting, research and consulting teams in London, Belfast or Oxford; rolling review. Oxford Economics ~400 people.",
-      "url": "https://careers.oxfordeconomics.com/en/postings/0f831a56-2ad7-4ee9-a267-b5a2954f37d9",
-      "source": "Oxford Economics early careers",
+      "title": "Clients and Industries Industrial Placement \u2013 September 2027 - London",
+      "company": "EY",
+      "location": "London, UK",
+      "duration": "11 months",
+      "start": "2027-07",
+      "deadline": "unknown (ongoing; may close early)",
+      "function": "Commercial / GTM",
+      "why": "11-month clients-and-industries IP from July 2027: sector go-to-market, client relationships and insight; any degree; London.",
+      "url": "https://higherin.com/jobs/46514/ey/clients-and-industries-industrial-placement-september-2027-london",
+      "source": "Higherin (formerly RateMyPlacement)",
       "first_seen": "2026-11-09",
-      "employee_cap": "under_20k",
+      "employee_cap": "over_20k",
+      "region": "UK",
       "link": {
         "status": "ok",
         "http_status": 200,
-        "final_url": "https://careers.oxfordeconomics.com/en/postings/0f831a56-2ad7-4ee9-a267-b5a2954f37d9",
-        "checked_at": "2026-11-09T09:05:54Z"
+        "final_url": "https://higherin.com/jobs/46514/ey/clients-and-industries-industrial-placement-september-2027-london",
+        "checked_at": "2026-11-16T09:21:15Z"
+      }
+    },
+    {
+      "title": "Consumer & Shopper Insights Student Placement",
+      "company": "Kenvue",
+      "location": "Reading, UK",
+      "duration": "12 months",
+      "start": "2027-06",
+      "deadline": "unknown (applications open)",
+      "function": "Strategy",
+      "why": "NEW 12-month consumer/shopper-insights IP from June 2027 in Reading: 4 roles turning research, surveys and analytics into brand and customer decisions. Kenvue ~22,000 people.",
+      "url": "https://kenvue.wd5.myworkdayjobs.com/en-US/kenvue/job/Consumer---Shopper-Insights-Student-Placement_2607049209W",
+      "source": "Kenvue student & graduate careers",
+      "first_seen": "2026-11-16",
+      "employee_cap": "over_20k",
+      "region": "UK",
+      "link": {
+        "status": "ok",
+        "http_status": 200,
+        "final_url": "https://kenvue.wd5.myworkdayjobs.com/en-US/kenvue/job/Consumer---Shopper-Insights-Student-Placement_2607049209W",
+        "checked_at": "2026-11-16T09:21:15Z"
       }
     }
   ]
